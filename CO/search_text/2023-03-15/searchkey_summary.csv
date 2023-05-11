@@ -1,0 +1,5515 @@
+,Index,Check,Do not sell Text,Do not sell Found,Privacy Choice Text,Privacy Choice Found,Opt out Text,Opt out Found,2023-03-15 Selenium Searchkey,Do not sell score,Privacy Choice score,Opt out score
+0,0,False,,,,,,,,,,
+1,1,False,,,,,,,,,,
+2,2,False,,,,,,,,,,
+3,3,False,,,,,,,,,,
+4,4,False,,,,,,,,,,
+5,5,False,,,,,,,,,,
+6,6,False,,,,,,,,,,
+7,7,False,,,,,,,,,,
+8,8,False,,,,,,,,,,
+9,9,False,,,,,,,,,,
+10,10,False,,,,,,,,,,
+11,11,False,,,,,,,,,,
+12,12,False,,,,,,,,,,
+13,13,False,,,,,,,,,,
+14,14,False,,,,,,,,,,
+15,15,False,,,,,,,,,,
+16,16,False,,,,,,,,,,
+17,17,False,,,,,,,,,,
+18,18,False,,,,,,,,,,
+19,19,False,,,,,,,,,,
+20,20,False,,,,,,,,,,
+21,21,False,,,,,,,,,,
+22,22,False,,,,,,,,,,
+23,23,False,,,,,,,,,,
+24,24,False,,,,,,,,,,
+25,25,False,,,,,,,,,,
+26,26,False,,,,,,,,,,
+27,27,False,,,,,,,,,,
+28,28,False,,,,,,,,,,
+29,29,False,,,,,,,,,,
+30,30,False,,,,,,,,,,
+31,31,False,,,,,,,,,,
+32,32,False,,,,,,,,,,
+33,33,False,,,,,,,,,,
+34,34,False,,,,,,,,,,
+35,35,False,,,,,,,,,,
+36,36,False,,,,,,,,,,
+37,37,False,,,,,,,,,,
+38,38,False,,,,,,,,,,
+39,39,False,,,,,,,,,,
+40,40,False,,,,,,,,,,
+41,41,False,,,,,,,,,,
+42,42,False,,,,,,,,,,
+43,43,False,,,,,,,,,,
+44,44,False,,,,,,,,,,
+45,45,False,,,,,,,,,,
+46,46,False,,,,,,,,,,
+47,47,False,,,,,,,,,,
+48,48,False,,,,,,,,,,
+49,49,False,,,,,,,,,,
+50,50,False,,,,,,,,,,
+51,51,False,,,,,,,,,,
+52,52,False,,,,,,,,,,
+53,53,False,,,,,,,,,,
+54,54,False,,,,,,,,,,
+55,55,False,,,,,,,,,,
+56,56,False,,,,,,,,,,
+57,57,False,,,,,,,,,,
+58,58,False,,,,,,,,,,
+59,59,False,,,,,,,,,,
+60,60,False,,,,,,,,,,
+61,61,False,,,,,,,,,,
+62,62,False,,,,,,,,,,
+63,63,False,,,,,,,,,,
+64,64,False,,,,,,,,,,
+65,65,False,,,,,,,,,,
+66,66,False,,,,,,,,,,
+67,67,False,,,,,,,,,,
+68,68,False,,,,,,,,,,
+69,69,False,,,,,,,,,,
+70,70,False,,,,,,,,,,
+71,71,False,,,,,,,,,,
+72,72,False,,,,,,,,,,
+73,73,False,,,,,,,,,,
+74,74,False,,,,,,,,,,
+75,75,False,,,,,,,,,,
+76,76,False,,,,,,,,,,
+77,77,False,,,,,,,,,,
+78,78,False,,,,,,,,,,
+79,79,False,,,,,,,,,,
+80,80,False,,,,,,,,,,
+81,81,False,,,,,,,,,,
+82,82,False,,,,,,,,,,
+83,83,False,,,,,,,,,,
+84,84,False,,,,,,,,,,
+85,85,False,,,,,,,,,,
+86,86,False,,,,,,,,,,
+87,87,False,,,,,,,,,,
+88,88,False,,,,,,,,,,
+89,89,False,,,,,,,,,,
+90,90,False,,,,,,,,,,
+91,91,False,,,,,,,,,,
+92,92,False,,,,,,,,,,
+93,93,False,,,,,,,,,,
+94,94,False,,,,,,,,,,
+95,95,False,,,,,,,,,,
+96,96,False,,,,,,,,,,
+97,97,False,,,,,,,,,,
+98,98,False,,,,,,,,,,
+99,99,False,,,,,,,,,,
+100,100,False,,,,,,,,,,
+101,101,False,,,,,,,,,,
+102,102,False,,,,,,,,,,
+103,103,False,,,,,,,,,,
+104,104,False,,,,,,,,,,
+105,105,False,,,,,,,,,,
+106,106,False,,,,,,,,,,
+107,107,False,,,,,,,,,,
+108,108,False,,,,,,,,,,
+109,109,False,,,,,,,,,,
+110,110,False,,,,,,,,,,
+111,111,False,,,,,,,,,,
+112,112,False,,,,,,,,,,
+113,113,False,,,,,,,,,,
+114,114,False,,,,,,,,,,
+115,115,False,,,,,,,,,,
+116,116,False,,,,,,,,,,
+117,117,False,,,,,,,,,,
+118,118,False,,,,,,,,,,
+119,119,False,,,,,,,,,,
+120,120,False,,,,,,,,,,
+121,121,False,,,,,,,,,,
+122,122,False,,,,,,,,,,
+123,123,False,,,,,,,,,,
+124,124,False,,,,,,,,,,
+125,125,False,,,,,,,,,,
+126,126,False,,,,,,,,,,
+127,127,False,,,,,,,,,,
+128,128,False,,,,,,,,,,
+129,129,False,,,,,,,,,,
+130,130,False,,,,,,,,,,
+131,131,False,,,,,,,,,,
+132,132,False,,,,,,,,,,
+133,133,False,,,,,,,,,,
+134,134,False,,,,,,,,,,
+135,135,False,,,,,,,,,,
+136,136,False,,,,,,,,,,
+137,137,False,,,,,,,,,,
+138,138,False,,,,,,,,,,
+139,139,False,,,,,,,,,,
+140,140,False,,,,,,,,,,
+141,141,False,,,,,,,,,,
+142,142,False,,,,,,,,,,
+143,143,False,,,,,,,,,,
+144,144,False,,,,,,,,,,
+145,145,False,,,,,,,,,,
+146,146,False,,,,,,,,,,
+147,147,False,,,,,,,,,,
+148,148,False,,,,,,,,,,
+149,149,False,,,,,,,,,,
+150,150,False,,,,,,,,,,
+151,151,False,,,,,,,,,,
+152,152,False,,,,,,,,,,
+153,153,False,,,,,,,,,,
+154,154,False,,,,,,,,,,
+155,155,False,,,,,,,,,,
+156,156,False,,,,,,,,,,
+157,157,False,,,,,,,,,,
+158,158,False,,,,,,,,,,
+159,159,False,,,,,,,,,,
+160,160,False,,,,,,,,,,
+161,161,False,,,,,,,,,,
+162,162,False,,,,,,,,,,
+163,163,False,,,,,,,,,,
+164,164,False,,,,,,,,,,
+165,165,False,,,,,,,,,,
+166,166,False,,,,,,,,,,
+167,167,False,,,,,,,,,,
+168,168,False,,,,,,,,,,
+169,169,False,,,,,,,,,,
+170,170,False,,,,,,,,,,
+171,171,False,,,,,,,,,,
+172,172,False,,,,,,,,,,
+173,173,False,,,,,,,,,,
+174,174,False,,,,,,,,,,
+175,175,False,,,,,,,,,,
+176,176,False,,,,,,,,,,
+177,177,False,,,,,,,,,,
+178,178,False,,,,,,,,,,
+179,179,False,,,,,,,,,,
+180,180,False,,,,,,,,,,
+181,181,False,,,,,,,,,,
+182,182,False,,,,,,,,,,
+183,183,False,,,,,,,,,,
+184,184,False,,,,,,,,,,
+185,185,False,,,,,,,,,,
+186,186,False,,,,,,,,,,
+187,187,False,,,,,,,,,,
+188,188,False,,,,,,,,,,
+189,189,False,,,,,,,,,,
+190,190,False,,,,,,,,,,
+191,191,False,,,,,,,,,,
+192,192,False,,,,,,,,,,
+193,193,False,,,,,,,,,,
+194,194,False,,,,,,,,,,
+195,195,False,,,,,,,,,,
+196,196,False,,,,,,,,,,
+197,197,False,,,,,,,,,,
+198,198,False,,,,,,,,,,
+199,199,False,,,,,,,,,,
+200,200,False,,,,,,,,,,
+201,201,False,,,,,,,,,,
+202,202,False,,,,,,,,,,
+203,203,False,,,,,,,,,,
+204,204,False,,,,,,,,,,
+205,205,False,,,,,,,,,,
+206,206,False,,,,,,,,,,
+207,207,False,,,,,,,,,,
+208,208,False,,,,,,,,,,
+209,209,False,,,,,,,,,,
+210,210,False,,,,,,,,,,
+211,211,False,,,,,,,,,,
+212,212,False,,,,,,,,,,
+213,213,False,,,,,,,,,,
+214,214,False,,,,,,,,,,
+215,215,False,,,,,,,,,,
+216,216,False,,,,,,,,,,
+217,217,False,,,,,,,,,,
+218,218,False,,,,,,,,,,
+219,219,False,,,,,,,,,,
+220,220,False,,,,,,,,,,
+221,221,False,,,,,,,,,,
+222,222,False,,,,,,,,,,
+223,223,False,,,,,,,,,,
+224,224,False,,,,,,,,,,
+225,225,False,,,,,,,,,,
+226,226,False,,,,,,,,,,
+227,227,False,,,,,,,,,,
+228,228,False,,,,,,,,,,
+229,229,False,,,,,,,,,,
+230,230,False,,,,,,,,,,
+231,231,False,,,,,,,,,,
+232,232,False,,,,,,,,,,
+233,233,False,,,,,,,,,,
+234,234,False,,,,,,,,,,
+235,235,False,,,,,,,,,,
+236,236,False,,,,,,,,,,
+237,237,False,,,,,,,,,,
+238,238,False,,,,,,,,,,
+239,239,False,,,,,,,,,,
+240,240,False,,,,,,,,,,
+241,241,False,,,,,,,,,,
+242,242,False,,,,,,,,,,
+243,243,False,,,,,,,,,,
+244,244,False,,,,,,,,,,
+245,245,False,,,,,,,,,,
+246,246,False,,,,,,,,,,
+247,247,False,,,,,,,,,,
+248,248,False,,,,,,,,,,
+249,249,False,,,,,,,,,,
+250,250,False,,,,,,,,,,
+251,251,False,,,,,,,,,,
+252,252,False,,,,,,,,,,
+253,253,False,,,,,,,,,,
+254,254,False,,,,,,,,,,
+255,255,False,,,,,,,,,,
+256,256,False,,,,,,,,,,
+257,257,False,,,,,,,,,,
+258,258,False,,,,,,,,,,
+259,259,False,,,,,,,,,,
+260,260,False,,,,,,,,,,
+261,261,False,,,,,,,,,,
+262,262,False,,,,,,,,,,
+263,263,False,,,,,,,,,,
+264,264,False,,,,,,,,,,
+265,265,False,,,,,,,,,,
+266,266,False,,,,,,,,,,
+267,267,False,,,,,,,,,,
+268,268,False,,,,,,,,,,
+269,269,False,,,,,,,,,,
+270,270,False,,,,,,,,,,
+271,271,False,,,,,,,,,,
+272,272,False,,,,,,,,,,
+273,273,False,,,,,,,,,,
+274,274,False,,,,,,,,,,
+275,275,False,,,,,,,,,,
+276,276,False,,,,,,,,,,
+277,277,False,,,,,,,,,,
+278,278,False,,,,,,,,,,
+279,279,False,,,,,,,,,,
+280,280,False,,,,,,,,,,
+281,281,False,,,,,,,,,,
+282,282,False,,,,,,,,,,
+283,283,False,,,,,,,,,,
+284,284,False,,,,,,,,,,
+285,285,False,,,,,,,,,,
+286,286,False,,,,,,,,,,
+287,287,False,,,,,,,,,,
+288,288,False,,,,,,,,,,
+289,289,False,,,,,,,,,,
+290,290,False,,,,,,,,,,
+291,291,False,,,,,,,,,,
+292,292,False,,,,,,,,,,
+293,293,False,,,,,,,,,,
+294,294,False,,,,,,,,,,
+295,295,False,,,,,,,,,,
+296,296,False,,,,,,,,,,
+297,297,False,,,,,,,,,,
+298,298,False,,,,,,,,,,
+299,299,False,,,,,,,,,,
+300,300,False,,,,,,,,,,
+301,301,False,,,,,,,,,,
+302,302,False,,,,,,,,,,
+303,303,False,,,,,,,,,,
+304,304,False,,,,,,,,,,
+305,305,False,,,,,,,,,,
+306,306,False,,,,,,,,,,
+307,307,False,,,,,,,,,,
+308,308,False,,,,,,,,,,
+309,309,False,,,,,,,,,,
+310,310,False,,,,,,,,,,
+311,311,False,,,,,,,,,,
+312,312,False,,,,,,,,,,
+313,313,False,,,,,,,,,,
+314,314,False,,,,,,,,,,
+315,315,False,,,,,,,,,,
+316,316,False,,,,,,,,,,
+317,317,False,,,,,,,,,,
+318,318,False,,,,,,,,,,
+319,319,False,,,,,,,,,,
+320,320,False,,,,,,,,,,
+321,321,False,,,,,,,,,,
+322,322,False,,,,,,,,,,
+323,323,False,,,,,,,,,,
+324,324,False,,,,,,,,,,
+325,325,False,,,,,,,,,,
+326,326,False,,,,,,,,,,
+327,327,False,,,,,,,,,,
+328,328,False,,,,,,,,,,
+329,329,False,,,,,,,,,,
+330,330,False,,,,,,,,,,
+331,331,False,,,,,,,,,,
+332,332,False,,,,,,,,,,
+333,333,False,,,,,,,,,,
+334,334,False,,,,,,,,,,
+335,335,False,,,,,,,,,,
+336,336,False,,,,,,,,,,
+337,337,False,,,,,,,,,,
+338,338,False,,,,,,,,,,
+339,339,False,,,,,,,,,,
+340,340,False,,,,,,,,,,
+341,341,False,,,,,,,,,,
+342,342,False,,,,,,,,,,
+343,343,False,,,,,,,,,,
+344,344,False,,,,,,,,,,
+345,345,False,,,,,,,,,,
+346,346,False,,,,,,,,,,
+347,347,False,,,,,,,,,,
+348,348,False,,,,,,,,,,
+349,349,False,,,,,,,,,,
+350,350,False,,,,,,,,,,
+351,351,False,,,,,,,,,,
+352,352,False,,,,,,,,,,
+353,353,False,,,,,,,,,,
+354,354,False,,,,,,,,,,
+355,355,False,,,,,,,,,,
+356,356,False,,,,,,,,,,
+357,357,False,,,,,,,,,,
+358,358,False,,,,,,,,,,
+359,359,False,,,,,,,,,,
+360,360,False,,,,,,,,,,
+361,361,False,,,,,,,,,,
+362,362,False,,,,,,,,,,
+363,363,False,,,,,,,,,,
+364,364,False,,,,,,,,,,
+365,365,False,,,,,,,,,,
+366,366,False,,,,,,,,,,
+367,367,False,,,,,,,,,,
+368,368,False,,,,,,,,,,
+369,369,False,,,,,,,,,,
+370,370,False,,,,,,,,,,
+371,371,False,,,,,,,,,,
+372,372,False,,,,,,,,,,
+373,373,False,,,,,,,,,,
+374,374,False,,,,,,,,,,
+375,375,False,,,,,,,,,,
+376,376,False,,,,,,,,,,
+377,377,False,,,,,,,,,,
+378,378,False,,,,,,,,,,
+379,379,False,,,,,,,,,,
+380,380,False,,,,,,,,,,
+381,381,False,,,,,,,,,,
+382,382,False,,,,,,,,,,
+383,383,False,,,,,,,,,,
+384,384,False,,,,,,,,,,
+385,385,False,,,,,,,,,,
+386,386,False,,,,,,,,,,
+387,387,False,,,,,,,,,,
+388,388,False,,,,,,,,,,
+389,389,False,,,,,,,,,,
+390,390,False,,,,,,,,,,
+391,391,False,,,,,,,,,,
+392,392,False,,,,,,,,,,
+393,393,False,,,,,,,,,,
+394,394,False,,,,,,,,,,
+395,395,False,,,,,,,,,,
+396,396,False,,,,,,,,,,
+397,397,False,,,,,,,,,,
+398,398,False,,,,,,,,,,
+399,399,False,,,,,,,,,,
+400,400,False,,,,,,,,,,
+401,401,False,,,,,,,,,,
+402,402,False,,,,,,,,,,
+403,403,False,,,,,,,,,,
+404,404,False,,,,,,,,,,
+405,405,False,,,,,,,,,,
+406,406,False,,,,,,,,,,
+407,407,False,,,,,,,,,,
+408,408,False,,,,,,,,,,
+409,409,False,,,,,,,,,,
+410,410,False,,,,,,,,,,
+411,411,False,,,,,,,,,,
+412,412,False,,,,,,,,,,
+413,413,False,,,,,,,,,,
+414,414,False,,,,,,,,,,
+415,415,False,,,,,,,,,,
+416,416,False,,,,,,,,,,
+417,417,False,,,,,,,,,,
+418,418,False,,,,,,,,,,
+419,419,False,,,,,,,,,,
+420,420,False,,,,,,,,,,
+421,421,False,,,,,,,,,,
+422,422,False,,,,,,,,,,
+423,423,False,,,,,,,,,,
+424,424,False,,,,,,,,,,
+425,425,False,,,,,,,,,,
+426,426,False,,,,,,,,,,
+427,427,False,,,,,,,,,,
+428,428,False,,,,,,,,,,
+429,429,False,,,,,,,,,,
+430,430,False,,,,,,,,,,
+431,431,False,,,,,,,,,,
+432,432,False,,,,,,,,,,
+433,433,False,,,,,,,,,,
+434,434,False,,,,,,,,,,
+435,435,False,,,,,,,,,,
+436,436,False,,,,,,,,,,
+437,437,False,,,,,,,,,,
+438,438,False,,,,,,,,,,
+439,439,False,,,,,,,,,,
+440,440,False,,,,,,,,,,
+441,441,False,,,,,,,,,,
+442,442,False,,,,,,,,,,
+443,443,False,,,,,,,,,,
+444,444,False,,,,,,,,,,
+445,445,False,,,,,,,,,,
+446,446,False,,,,,,,,,,
+447,447,False,,,,,,,,,,
+448,448,False,,,,,,,,,,
+449,449,False,,,,,,,,,,
+450,450,False,,,,,,,,,,
+451,451,False,,,,,,,,,,
+452,452,False,,,,,,,,,,
+453,453,False,,,,,,,,,,
+454,454,False,,,,,,,,,,
+455,455,False,,,,,,,,,,
+456,456,False,,,,,,,,,,
+457,457,False,,,,,,,,,,
+458,458,False,,,,,,,,,,
+459,459,False,,,,,,,,,,
+460,460,False,,,,,,,,,,
+461,461,False,,,,,,,,,,
+462,462,False,,,,,,,,,,
+463,463,False,,,,,,,,,,
+464,464,False,,,,,,,,,,
+465,465,False,,,,,,,,,,
+466,466,False,,,,,,,,,,
+467,467,False,,,,,,,,,,
+468,468,False,,,,,,,,,,
+469,469,False,,,,,,,,,,
+470,470,False,,,,,,,,,,
+471,471,False,,,,,,,,,,
+472,472,False,,,,,,,,,,
+473,473,False,,,,,,,,,,
+474,474,False,,,,,,,,,,
+475,475,False,,,,,,,,,,
+476,476,False,,,,,,,,,,
+477,477,False,,,,,,,,,,
+478,478,False,,,,,,,,,,
+479,479,False,,,,,,,,,,
+480,480,False,,,,,,,,,,
+481,481,False,,,,,,,,,,
+482,482,False,,,,,,,,,,
+483,483,False,,,,,,,,,,
+484,484,False,,,,,,,,,,
+485,485,False,,,,,,,,,,
+486,486,False,,,,,,,,,,
+487,487,False,,,,,,,,,,
+488,488,False,,,,,,,,,,
+489,489,False,,,,,,,,,,
+490,490,False,,,,,,,,,,
+491,491,False,,,,,,,,,,
+492,492,False,,,,,,,,,,
+493,493,False,,,,,,,,,,
+494,494,False,,,,,,,,,,
+495,495,False,,,,,,,,,,
+496,496,False,,,,,,,,,,
+497,497,False,,,,,,,,,,
+498,498,False,,,,,,,,,,
+499,499,True,"ell or Share My Personal information| 1/2
+","4/2
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,10.453995768229166,0.4695250108506944,0.3847455512152777
+500,500,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,8.812143012152777,0.4075141059027777,0.5219490559895833
+501,501,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3691520182291666
+502,502,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,1.003357204861111,0.0036629231770833,0.3597615559895833
+503,503,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,13.33854465060764,0.0042483181423611,0.3640443250868055
+504,504,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,1.122011990017361,65.04538330078125,3.3596812608506945
+505,505,True,"TSELL MY PERSONAL INFORMATION| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",DO NOT SELL MY PERSONAL INFORMATION,0.0287049696180555,0.0036629231770833,0.3597615559895833
+506,506,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.1194466145833333,0.0036629231770833,0.3617263454861111
+507,507,True,"o Not Sell or Share My Personal nfo| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Info,1.841639539930556,0.0036629231770833,0.3597615559895833
+508,508,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,25.633072916666663,0.0498166232638888,0.3865435112847222
+509,509,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3616533745659722
+510,510,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259730360243055,0.0036629231770833,0.3607082790798611
+511,511,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,6.264119466145833,0.0036629231770833,0.3597615559895833
+512,512,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,9.14568820529514,0.0036629231770833,0.3597615559895833
+513,513,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.5408631727430555,0.6564165581597222,0.8873377821180556
+514,514,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0270553927951388,0.0036629231770833,0.3597615559895833
+515,515,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0042483181423611,0.3597615559895833
+516,516,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+517,517,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3609236653645833
+518,518,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,62.86751519097222,0.0036629231770833,0.3597615559895833
+519,519,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,8.917496473524306,0.0036629231770833,0.3597615559895833
+520,520,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,18.678991156684027,0.0086016167534722,0.3621096462673611
+521,521,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,32.31623019748264,0.0044832356770833,0.3597615559895833
+522,522,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,1.5752020941840277,0.0036629231770833,0.3597615559895833
+523,523,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.2369346788194444,0.6718109809027778
+524,524,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0266384548611111,0.0232741970486111,0.36523681640625
+525,525,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.02779541015625,3.7910880533854168,0.3597615559895833
+526,526,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.1880536566840277,0.0036629231770833,0.3597615559895833
+527,527,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.02650390625,0.0036629231770833,0.3597669813368055
+528,528,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0045296223958333,0.3618812391493055
+529,529,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+530,530,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3691520182291666
+531,531,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+532,532,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,14.856644965277775,1.828624945746528,1.2735611979166668
+533,533,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,53.62322970920139,0.0036629231770833,0.3617263454861111
+534,534,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0311669921875,0.0089114040798611,0.3660533311631944
+535,535,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3606635199652778
+536,536,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+537,537,True,"tSell/Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell/Share My Personal Information,50.45759033203125,0.0529777018229166,0.3875558810763889
+538,538,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+539,539,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0219539388020833,0.0056279839409722,0.7503645833333333
+540,540,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0045296223958333,0.3632359483506944
+541,541,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3615804036458333
+542,542,True,"Do not sell my info Wi
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell my info,1.0942146809895834,0.0036629231770833,0.3597615559895833
+543,543,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,18.77310085720486,0.0036629231770833,0.3608330620659722
+544,544,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0285085720486111,0.6766349283854166,0.3597615559895833
+545,545,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0267388237847222,0.0036629231770833,0.3608330620659722
+546,546,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0951321072048611,0.3810557725694444
+547,547,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+548,548,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+549,549,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3602265082465278
+550,550,True,"CCPA / Do Not Sell My Info| Wi
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",CCPA / Do Not Sell My Info,0.1547178819444444,0.0036629231770833,0.3597615559895833
+551,551,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,59.43256103515625,4.056224772135416,0.3605655924479167
+552,552,True,"Do Not Sell or Share My Info| Wi
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Info,39.19010769314236,0.0212801106770833,0.3975116644965277
+553,553,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3605655924479167
+554,554,True,"ell or Share My Personal information| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,0.0256911892361111,0.0036629231770833,0.3597615559895833
+555,555,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,2.265922037760417,0.0048556857638888,0.3597615559895833
+556,556,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,0.2429844835069444,0.0036629231770833,0.3597615559895833
+557,557,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",Do Not Sell My Personal Information,12.920079752604169,0.0138878038194444,0.3651614040798611
+558,558,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,58.95136176215278,0.0036629231770833,0.3597615559895833
+559,559,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0047062174479166,0.3597615559895833
+560,560,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0289699978298611,0.0036629231770833,0.3621956380208333
+561,561,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+562,562,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+563,563,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,7.77656494140625,0.1265611436631944,4.97703857421875
+564,564,True,,,,,,,,0.0005853949652777,0.0,0.0
+565,565,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0045296223958333,0.3597615559895833
+566,566,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",Do Not Sell My Personal Information,25.84654242621528,0.01866455078125,0.3616791449652777
+567,567,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+568,568,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+569,569,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0651882595486111,10.417023654513889,0.4654277886284722
+570,570,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,2.9955894639756946,0.0036629231770833,0.3617366536458333
+571,571,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,1.34408203125,0.0036629231770833,0.3597615559895833
+572,572,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,3.607517632378472,0.0279885525173611,0.4091474066840277
+573,573,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.1401755099826389,13.241106499565973,0.3597615559895833
+574,574,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,25.200368923611112,0.0036629231770833,0.3608045789930555
+575,575,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,3.310024956597222,0.0036629231770833,0.3617366536458333
+576,576,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,89.78057996961806,0.0941842990451388,0.3995285373263889
+577,577,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+578,578,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,37.023916015625,0.0036629231770833,0.3597615559895833
+579,579,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,1.9478754340277775,0.0036629231770833,0.3691520182291666
+580,580,True,"Do not sell my information| Wi
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell my information,12.6840185546875,4.406146375868056,0.4046183268229166
+581,581,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+582,582,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,32.46357014973958,0.0510259331597222,0.3820556640625
+583,583,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,46.33238389756944,0.06373046875,0.3900580512152777
+584,584,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,30.19732421875,0.0036629231770833,0.3603469509548611
+585,585,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,34.41168484157986,0.0036629231770833,0.3597615559895833
+586,586,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,4.286105414496528,2.577770453559028,1.4555078125
+587,587,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.8626302083333334,7.870877821180556,2.884266493055556
+588,588,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.36022216796875
+589,589,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+590,590,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0044832356770833,0.3597615559895833
+591,591,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,18.52027126736111,0.0552837456597222,0.3920648871527777
+592,592,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,27.48646945529514,0.5920906575520833,0.3597615559895833
+593,593,True,"tSell/Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",CA Do Not Sell/Share My Personal Information,3.8308558485243056,0.0036629231770833,0.3597615559895833
+594,594,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,1.5962505425347222,0.0837972005208333,0.3795068359375
+595,595,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3608984375
+596,596,True,"Do Not Sell My Datal Wi
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Data,53.45079616970486,0.0036629231770833,0.3598681640625
+597,597,True,"ell or Share My Personal information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal information,1.5795084635416667,16.60622097439236,0.3604074435763889
+598,598,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,3.565735134548611,15.931192220052084,0.3744845920138889
+599,599,True,"ell Or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell Or Share My Personal Information,6.628103569878472,3.512392306857639,0.3964168294270833
+600,600,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.4810801866319444,0.3597615559895833
+601,601,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3691520182291666
+602,602,True,"ell Or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell Or Share My Personal Information,36.91875868055556,0.0036629231770833,0.3597615559895833
+603,603,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,12.63341335720486,6.740102810329861,6.614097764756944
+604,604,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+605,605,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+606,606,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0350656467013888,0.0036678059895833,0.3656941731770833
+607,607,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0567073567708333,0.0063663736979166,0.3597615559895833
+608,608,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0047998046875,0.4719585503472222
+609,609,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3603469509548611
+610,610,True,"iell or share my personal information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell or share my personal information,4.69388671875,0.0611170789930555,0.41628662109375
+611,611,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0262917751736111,0.0041512044270833,0.3619089084201389
+612,612,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+613,613,True,"sonal Information - Currently Sharing] 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information - Currently Sharing,20.503873155381942,0.0498676215277777,0.4051128472222222
+614,614,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3691520182291666
+615,615,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0267388237847222,0.0036629231770833,0.3603011067708333
+616,616,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0047062174479166,0.3597615559895833
+617,617,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0046443684895833,0.3597615559895833
+618,618,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3702235243055555
+619,619,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3607652452256944
+620,620,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+621,621,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.02650390625,0.0036629231770833,0.3597615559895833
+622,622,True,"Do Not Sell My information| Wi
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Information,3.8487125651041674,0.0263370768229166,0.3626657443576389
+623,623,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+624,624,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.35991943359375
+625,625,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+626,626,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0395448133680555,4.187095811631944,0.4005330403645833
+627,627,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0347941080729166,0.0036629231770833,0.3597615559895833
+628,628,True,"Do not sell or share my info| Wi
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell or share my info,21.84813503689236,0.0332988823784722,0.41992919921875
+629,629,True,"to Not Sell or Share My Personal Data|_ 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Data,4.453533528645833,0.0483425564236111,0.4024357096354167
+630,630,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,13.488709581163194,8.89312255859375,7.279478352864583
+631,631,True,"Do not sell my info Wi
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell my info,7.0127099609375,0.0341064453125,0.4231724717881944
+632,632,True,"3ell My Personal Information request] 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information request,2.026686740451389,0.0036629231770833,0.3597615559895833
+633,633,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,5.113004014756944,0.0036629231770833,0.3597615559895833
+634,634,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,5.1399609375,0.0036629231770833,0.3597615559895833
+635,635,True,"iell or share my personal information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell or share my personal information,81.84316324869792,0.0036629231770833,2.049516330295139
+636,636,True,"to Not Sell or Share My Personal Data|_ 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Data,2.697870008680556,0.0344295247395833,0.4336165364583333
+637,637,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,58.728792860243054,0.0036629231770833,0.3604302300347222
+638,638,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0271112738715277,0.0036629231770833,0.36161376953125
+639,639,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0479250759548611,0.0036629231770833,0.3603228081597222
+640,640,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3608330620659722
+641,641,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+642,642,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+643,643,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,18.676007486979167,0.0051283094618055,0.3597615559895833
+644,644,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+645,645,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0270553927951388,0.0036629231770833,0.3683317057291667
+646,646,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,12.807618543836806
+647,647,True,"iell or share my personal information| 1/1
+","1
+","privacy choice| 1/3
+","13
+","privacy choice| 1/3
+","13
+",Do not sell or share my personal information,2.7290687391493056,4.773977864583333,0.4043948025173611
+648,648,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0694756401909722,0.0507069227430555,0.4251844618055556
+649,649,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0347455512152777,70.57884440104166,1.0641075303819445
+650,650,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,1.2088818359375,0.0048556857638888,0.3597615559895833
+651,651,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0042241753472222,0.3597615559895833
+652,652,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+653,653,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,3.0671080186631943,0.0036629231770833,0.3597615559895833
+654,654,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+655,655,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259193250868055,0.0036697048611111,0.3611640082465278
+656,656,True,"Do Not Sell My Info| Wi
+","1
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",Do Not Sell My Info,31.455437825520832,0.0368937174479166,0.4258024088541666
+657,657,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0117711046006944,24.158200141059027
+658,658,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+659,659,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+660,660,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+661,661,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0402650282118055,0.3725811089409722
+662,662,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3620258246527778
+663,663,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,1.4244124348958334,1.397760687934028,1.9408778211805555
+664,664,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,1.747333984375,0.0036629231770833,0.3597615559895833
+665,665,True,"iell or share my personal information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell or share my personal information,4.69388671875,0.0602503797743055,0.41628662109375
+666,666,True,"SELL OR SHARE MY PERSONAL INFO| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",DO NOT SELL OR SHARE MY PERSONAL INFO,25.182858615451387,0.0036629231770833,0.3597615559895833
+667,667,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+668,668,True,"nformation(Opens in anew window)| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","Do Not Sell My Personal Information
+(Opens in a new window)",0.0269053819444444,0.0036629231770833,0.3603390842013889
+669,669,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3619463433159722
+670,670,True,"Do Not Sell or Share My Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Information,23.356863335503476,0.0036629231770833,0.8891891818576388
+671,671,True,"iell or share my personal information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell or share my personal information,10.8208740234375,0.0588240559895833,0.41628662109375
+672,672,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,35.16660047743056,0.3308083767361111,0.3597615559895833
+673,673,True,"iell or share my personal information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell or share my personal information,4.330916341145834,0.0602503797743055,0.41628662109375
+674,674,True,"do not sell
+
+1""
+","1
+","1/181
+","/181
+","1/181
+","/181
+",,7.891443413628473,0.0881328667534722,0.4959773763020833
+675,675,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,63.916644151475694,0.0378285047743055,0.3927322048611111
+676,676,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,9.700687120225696,2.3178279622395834,0.436142578125
+677,677,True,"iell or share my personal information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell or share my personal information,6.889816351996528,0.0588240559895833,0.41628662109375
+678,678,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+679,679,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,6.637276204427083,0.5713278537326388,0.3597615559895833
+680,680,True,"o Not Sell or Share My Personal nfo| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Info,21.84919677734375,0.0036629231770833,0.3597615559895833
+681,681,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.6996565755208334,0.8381795247395833,1.7941110568576388
+682,682,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.5525263129340278
+683,683,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+684,684,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0355585394965277,7.62369384765625,0.3597615559895833
+685,685,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3614236111111111
+686,686,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0306759982638888,0.00748779296875,0.36593994140625
+687,687,True,"© Not Sell Or Share My Personal Data| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell Or Share My Personal Data,5.43198974609375,0.0036629231770833,0.3597615559895833
+688,688,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,5.2581640625,0.0169135199652777,0.38248291015625
+689,689,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3608048502604166
+690,690,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,22.22506130642361,0.0199281141493055,0.38725341796875
+691,691,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,55.83588894314236,0.0036629231770833,0.3598942057291667
+692,692,True,"do not sell
+
+1""
+","1
+",,,,,,31.431031358506942,0.0,0.0
+693,693,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0370298936631944,12.990272623697916,0.3597615559895833
+694,694,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.02650390625,0.0036629231770833,0.3597615559895833
+695,695,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0312326388888888,0.03798095703125,0.3678290473090277
+696,696,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+697,697,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+698,698,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,24.34508083767361,0.0036629231770833,0.3597615559895833
+699,699,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.1449614800347222,0.0357248263888888,4.4516615125868055
+700,700,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,55.559208984375,0.0801524522569444,0.4381174045138888
+701,701,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,7.768201768663195,6.435726182725695,0.3608048502604166
+702,702,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,3.5948109266493056,0.0036629231770833,0.3597615559895833
+703,703,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,3.7350154622395833,0.0613544379340277,0.3603385416666667
+704,704,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,0.0287961154513888,0.0045591905381944,0.3597615559895833
+705,705,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+706,706,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,145.70964382595486,0.0727145724826388,0.3778171115451388
+707,707,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,33.388988715277776,15.528278537326388,0.3597615559895833
+708,708,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,100.02112033420138,0.0904239908854166,0.3820081922743055
+709,709,True,"Do Not Sell My Info| Wi
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Info,1.1055343967013889,0.0064195421006944,0.3597615559895833
+710,710,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,56.53691460503472,0.9419843207465278,0.3932842339409722
+711,711,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+712,712,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+713,713,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+714,714,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3627715386284722
+715,715,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,3.7447425672743058,0.0197360568576388,0.3597615559895833
+716,716,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0045591905381944,0.3597615559895833
+717,717,True,"SELL OR SHARE MY PERSONAL INFO| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",DO NOT SELL OR SHARE MY PERSONAL INFO,5.219428168402778,75.23319932725694,0.3597615559895833
+718,718,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,113.75279812282986,0.00486328125,102.72392605251736
+719,719,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,116.93666395399306,0.0371500651041666,0.3613688151041667
+720,720,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,1.9848236762152776,3.134793836805556,0.3847284613715278
+721,721,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,5.25734375,0.0169135199652777,0.3844512261284722
+722,722,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,3.3530951605902777,0.0036629231770833,0.3691520182291666
+723,723,True,"DO NOTSELL MY PERSONALINFO| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",DO NOT SELL MY PERSONAL INFO,2.2991455078125,4.230997178819444,0.3880851236979166
+724,724,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+725,725,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0267388237847222,0.0036629231770833,0.3597615559895833
+726,726,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.1182099066840277,17.74464382595486,1.5903672960069444
+727,727,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+728,728,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,27.696165635850694,0.0036629231770833,0.3597615559895833
+729,729,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.1004782443576388,0.0036629231770833,0.3597615559895833
+730,730,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0293210177951388,0.0069805230034722,0.3639808485243055
+731,731,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.02650390625,0.0036629231770833,0.3605655924479167
+732,732,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,100.33218478732638,0.1403046332465277,0.6218174913194444
+733,733,True,"Do not sell my personal information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell my personal information,7.117311197916667,0.05084228515625,0.3948049587673611
+734,734,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+735,735,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,12.50033935546875,0.0036629231770833,0.366474609375
+736,736,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+737,737,True,"Do not sell my personal information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell my personal information,27.506227484809028,0.0036629231770833,0.3605818684895833
+738,738,True,"sHARE MY PERSONAL INFORMATION| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",DO NOT SELL OR SHARE MY PERSONAL INFORMATION,23.127289496527776,0.9847927517361112,0.40041748046875
+739,739,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,22.861256510416663,0.7450895182291667,0.4009678819444444
+740,740,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+741,741,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,80.4659095594618,0.0036629231770833,0.3597615559895833
+742,742,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,1.1092995876736111,0.0036629231770833,0.3597615559895833
+743,743,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.36141845703125
+744,744,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+745,745,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0370298936631944,12.6119873046875,0.3597615559895833
+746,746,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+747,747,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+748,748,False,,,,,,,,,,
+749,749,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+750,750,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597626410590278
+751,751,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.2679855685763889,0.3597615559895833
+752,752,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3702235243055555
+753,753,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,13.488744574652776,0.0036629231770833,0.3597615559895833
+754,754,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0270553927951388,0.0036629231770833,0.3600770399305555
+755,755,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,0.8733832465277778,3.47917724609375,0.4025726996527777
+756,756,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+757,757,True,"Do Not Sell or Share My Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Information,2.5389830186631945,0.0036629231770833,0.3597615559895833
+758,758,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,1.036736111111111,0.0111436631944444,0.3750455729166667
+759,759,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,5.3101953125,0.11733642578125,0.6630156792534723
+760,760,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+761,761,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,1.2224205186631945,0.0036629231770833,0.3597615559895833
+762,762,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+763,763,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0416482204861111,13.279782443576387,0.3597615559895833
+764,764,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0325737847222222,0.0154253472222222,0.3715505642361111
+765,765,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.11636962890625,0.0345285373263888,0.5264919704861111
+766,766,True,"Do not sell my info Wi
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell my info,59.26169569227431,0.0036629231770833,0.3605805121527777
+767,767,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0523988172743055,0.0129749891493055,0.3865169270833333
+768,768,True,"TSELL MY PERSONAL INFORMATION| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",DO NOT SELL MY PERSONAL INFORMATION,118.0495925564236,0.0036629231770833,0.3597615559895833
+769,769,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,62.70458631727431,0.0340999348958333,0.3674747721354167
+770,770,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+771,771,True,"Do not sell my personal information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell my personal information,130.7304638671875,0.0208748372395833,0.3788026258680556
+772,772,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0379953342013888,0.0036629231770833,0.3597615559895833
+773,773,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.4582663302951389,0.0036629231770833,0.3597615559895833
+774,774,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0379953342013888,0.0044832356770833,0.3597615559895833
+775,775,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,46.24519097222223,0.0036629231770833,0.3642106119791666
+776,776,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+777,777,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.2616061740451388,0.0036629231770833,0.3597615559895833
+778,778,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0268147786458333,0.0036629231770833,0.3599641927083333
+779,779,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3608984375
+780,780,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+781,781,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,2.745462239583333,2.699787326388889,3.607286783854167
+782,782,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3608425564236111
+783,783,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+784,784,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0048556857638888,0.3602265082465278
+785,785,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3603228081597222
+786,786,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,74.70612413194445,0.0036629231770833,0.3597615559895833
+787,787,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+788,788,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0792849392361111,0.0036629231770833,0.4496123589409722
+789,789,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0268204752604166,0.0036629231770833,0.3627701822916667
+790,790,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,0.2751779513888889,0.0036629231770833,0.3606578233506944
+791,791,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,8.836685655381945,0.0036629231770833,0.3597615559895833
+792,792,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,20.688589409722223,0.0292575412326388,0.4099400499131944
+793,793,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.02650390625,0.0036629231770833,0.3597615559895833
+794,794,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.7577438693576389,0.2230029296875,6.488771430121528
+795,795,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,4.644744737413195,3.1962687174479165,0.4325984700520833
+796,796,True,"Do Not Sell or Share My Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Information,1.9459434678819445,7.1683577473958335,0.5442230902777778
+797,797,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.36200439453125
+798,798,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,2.2536490885416667,0.0042241753472222,0.3597615559895833
+799,799,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+800,800,True,"Do Not Sell or Share My Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",CA Do Not Sell or Share My Information,0.8538728841145833,0.0036629231770833,0.3597615559895833
+801,801,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,6.6612548828125,0.0036629231770833,0.3597615559895833
+802,802,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0371601019965277,0.0647932942708333,0.3608330620659722
+803,803,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0045591905381944,0.3608013237847222
+804,804,True,"Do Not Sell My information| Wi
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Information,1.4759478081597222,0.0036629231770833,0.3597615559895833
+805,805,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3605655924479167
+806,806,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,29.507525499131944,0.3252186414930555,0.6715017361111111
+807,807,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,23.653736707899306,0.0036629231770833,0.3597615559895833
+808,808,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0298453776041666,3.81037353515625,0.4095838758680555
+809,809,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0435468207465277,10.641931966145831,0.3977132161458333
+810,810,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0604538302951388,9.75060302734375,0.36080078125
+811,811,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.1231795247395833,12.1344384765625,0.4064189995659722
+812,812,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,4.572711859809028,2.6898125542534723,0.36057861328125
+813,813,True,"Do Not Sell My Personal Information| 1/1
+","1
+",,,,,Do Not Sell My Personal Information,1.9696381293402776,0.0373331705729166,0.3990155707465277
+814,814,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0385302734375,0.4130769856770833,0.3604530164930555
+815,815,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0285085720486111,13.659731174045138,0.3606578233506944
+816,816,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,2.824259711371528,0.0256312391493055,0.4003396267361111
+817,817,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0391349283854166,6.354401584201389,0.36080078125
+818,818,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,4.291775716145834,12.600834418402778,0.3892092556423611
+819,819,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0344818793402777,5.743911404079861,0.4064189995659722
+820,820,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,31.543074273003477,0.0350640190972222,0.3762038845486111
+821,821,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,2.857878960503472,2.6578466796875,0.4137068684895833
+822,822,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0385302734375,0.4078746202256944,0.3604530164930555
+823,823,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,46.9899058702257,4.524075520833334,0.4414352756076389
+824,824,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,40.69452202690972,0.0276801215277777,0.4911957465277777
+825,825,True,"sHARE MY PERSONAL INFORMATION| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",DO NOT SELL OR SHARE MY PERSONAL INFORMATION,13.090701226128472,2.6160630967881944,0.3908870442708333
+826,826,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,0.1949734157986111,0.0036629231770833,0.3597615559895833
+827,827,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0407565646701388,8.516470269097223,0.36080078125
+828,828,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+829,829,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0270553927951388,0.0036629231770833,0.3597615559895833
+830,830,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3603469509548611
+831,831,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+832,832,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,4.095960015190972,0.0950059678819444,1.0422219509548611
+833,833,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,2.1996695963541666,5.501474609375,3.509738226996528
+834,834,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,3.1779305013020838,5.501474609375,3.509738226996528
+835,835,True,"ot sell]
+
+o/o
+",,"acy choice|
+
+o/o
+",,"acy choice|
+
+o/o
+",,,29.861587999131945,57.06783148871528,25.00970865885417
+836,836,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,2.6979136827256944,5.502667371961806,3.509738226996528
+837,837,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,3.640600857204861,0.0036629231770833,0.3597615559895833
+838,838,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,12.006086968315971,0.0036629231770833,0.3597615559895833
+839,839,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.8436960177951389,0.0525637478298611,0.3605655924479167
+840,840,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3608330620659722
+841,841,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0268204752604166,0.0103333875868055,3.611127115885417
+842,842,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,2.5072309027777777,4.66685546875,0.3723261176215278
+843,843,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3608984375
+844,844,True,"NALINFORMATION / TARGETED ADS|_ 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",DO NOT SELL OR SHARE MY PERSONAL INFORMATION / TARGETED ADS,0.2327796766493055,0.0036629231770833,0.3597615559895833
+845,845,True,"o Not Sell or Share My Personal nfo| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Info,1.0895912000868055,0.0036629231770833,0.3597615559895833
+846,846,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+847,847,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,19.67550754123264,0.0036629231770833,0.3732305230034722
+848,848,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,82.81346218532985,5.4071487087673615,0.3927419704861111
+849,849,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3606578233506944
+850,850,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",Do Not Sell or Share My Personal Information,11.536351996527776,0.0063663736979166,0.3597615559895833
+851,851,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3669637044270833
+852,852,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0404720052083333,4.445658365885417,0.4155341254340278
+853,853,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.3428824869791667,0.0465985785590277,4.909584418402778
+854,854,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0048556857638888,0.3597615559895833
+855,855,True,"Do Not Sell] Wi
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell,22.74977484809028,0.0036629231770833,0.3597615559895833
+856,856,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,14.358812662760416,0.0036629231770833,0.3597615559895833
+857,857,True,"Do Not Sell or Share My Info| Wi
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Info,77.00987603081597,0.0149546983506944,0.3830929904513889
+858,858,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0396657986111111,0.2117933485243055,6.044972059461806
+859,859,True,"ellor share my personalinformation| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell or share my personal information.,0.3026901584201389,9.834425184461804,2.219203016493056
+860,860,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0369251844618055,0.87447509765625,6.439354112413194
+861,861,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.031044921875,0.3358029513888889,0.4522379557291666
+862,862,True,"sHARE MY PERSONAL INFORMATION| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",DO NOT SELL OR SHARE MY PERSONAL INFORMATION,4.049427354600694,0.0428040907118055,0.3916973198784722
+863,863,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.7347740342881944,0.0036629231770833,0.3606282552083333
+864,864,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",California Notice / Do Not Sell My Personal Information,4.460153266059028,9.635697699652775,7.600419379340278
+865,865,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,30.11541368272569,1.037734917534722,0.4114718967013889
+866,866,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0400222439236111,0.7545545789930556,6.496903483072916
+867,867,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,5.873160807291667,0.7230268012152777,8.063558213975694
+868,868,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,12.374699435763889,8.165723198784722,0.3597615559895833
+869,869,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0396489800347222,0.8243777126736112,6.554626736111112
+870,870,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,6.727962510850695,2.242310926649305,2.115485297309028
+871,871,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,4.371576334635416,0.38766845703125,1.1951646592881944
+872,872,True,"Do Not Sell] Wi
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell,31.92869032118056,0.0301744249131944,0.3879619683159722
+873,873,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3608984375
+874,874,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,10.503031141493056,0.7500990125868056
+875,875,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,13.753067491319444,22.99921413845486,0.3597615559895833
+876,876,True,"o Not Sell or Share My Personal nfo| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Info,1.0929505750868056,0.0036629231770833,0.3597615559895833
+877,877,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0269618055555555,0.0036629231770833,0.3597615559895833
+878,878,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0045648871527777,0.3597615559895833
+879,879,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+880,880,True,"Do Not Sell My Pl Wi
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My PI,28.349769965277776,16.757037489149305,0.3695534939236111
+881,881,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0270553927951388,0.0036629231770833,0.3597615559895833
+882,882,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0108951822916666,0.3869471571180555
+883,883,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.31861328125,0.3927571614583333,0.8049259440104166
+884,884,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+885,885,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,54.51326877170139,0.0036629231770833,0.3597615559895833
+886,886,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+887,887,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0270231119791666,0.0060980902777777,0.3608487955729166
+888,888,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,0.6605246310763889,0.0036629231770833,0.3605818684895833
+889,889,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+890,890,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+891,891,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+892,892,True,"DO NOTSELL MY INFO| 1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",DO NOT SELL MY INFO,12.708995768229167,0.0511124674479166,2.227980143229167
+893,893,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,1.643115234375,0.0036629231770833,0.3608984375
+894,894,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+895,895,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3627677408854167
+896,896,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0516121419270833,11.322811957465278,0.4053184678819444
+897,897,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0275960286458333,0.0036629231770833,0.3597615559895833
+898,898,True,"iell or share my personal information| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell or share my personal information,0.0260283745659722,0.0036629231770833,0.3858376736111111
+899,899,True,"iell or share my personal information| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell or share my personal information,0.0260283745659722,0.0036629231770833,0.3913935004340277
+900,900,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0306521267361111,0.0083512369791666,0.3659377712673611
+901,901,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0044832356770833,0.3597615559895833
+902,902,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3608048502604166
+903,903,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+904,904,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,18.122171766493057,3.081894802517361,0.3943134223090278
+905,905,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+906,906,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,1.51477783203125,0.0047998046875,0.3597615559895833
+907,907,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3603469509548611
+908,908,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+909,909,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.4704351128472222,0.5165812174479166,0.8047884114583334
+910,910,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+911,911,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0271112738715277,0.0036629231770833,0.3597615559895833
+912,912,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0042241753472222,0.3597615559895833
+913,913,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3605818684895833
+914,914,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+915,915,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+916,916,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+917,917,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0519574652777777,7.131024576822917,0.4053184678819444
+918,918,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.067119140625,3.633018391927084,0.4176272243923611
+919,919,True,"Do Not Sell Or Share My Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell Or Share My Information,4.478070475260417,0.1186518012152777,0.4315117730034722
+920,920,True,"iell or share my personal information| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell or share my personal information,0.0260283745659722,0.0036629231770833,0.3865231662326389
+921,921,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0378746202256944,65.6832156032986,12.463993055555555
+922,922,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.1252164713541666,0.0056312391493055,0.3597615559895833
+923,923,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.4808433702256944,1.683905978732639,0.3609543185763889
+924,924,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,25.685421820746527,0.1199099392361111,0.3884950086805555
+925,925,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,1.2830189344618057,0.0036629231770833,0.3597615559895833
+926,926,True,"Do Not Sell or Share My Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Information,19.775582953559027,0.0451304796006944,0.4549622938368055
+927,927,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0465261501736111,0.01866943359375,0.3803691948784722
+928,928,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+929,929,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+930,930,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3608018663194444
+931,931,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0270553927951388,0.0036629231770833,0.3597615559895833
+932,932,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.8469083658854166,61.2049609375,0.4714350043402778
+933,933,True,"Do not sell my personal information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell my personal information,58.63299452039931,0.0036629231770833,0.3608121744791667
+934,934,True,"Do Not Sell or Share My Info| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Info,0.0270404730902777,0.0036629231770833,0.3597615559895833
+935,935,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,122.31974202473958,0.0049997287326388,0.3597615559895833
+936,936,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3616181098090277
+937,937,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3613783094618055
+938,938,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+939,939,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,54.51326877170139,0.0036629231770833,0.3597615559895833
+940,940,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,44.54606716579861,0.0047062174479166,0.3597615559895833
+941,941,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3636821831597222
+942,942,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,30.12932698567708,0.056572265625,0.4092648654513889
+943,943,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0516121419270833,11.322811957465278,0.4053184678819444
+944,944,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,7.701497395833333,0.0036629231770833,0.362783203125
+945,945,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,4.8419786241319445,0.0042483181423611,0.3597615559895833
+946,946,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+947,947,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,27.60864203559028,0.0036629231770833,0.3617431640625
+948,948,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+949,949,True,"do not sell
+
+2/2
+","2/2
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,25.76933946397569,0.0036629231770833,0.3597615559895833
+950,950,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0042241753472222,0.3597615559895833
+951,951,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3605818684895833
+952,952,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0478271484375,0.01816162109375,0.3627794053819444
+953,953,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0297607421875,0.0050382486979166,0.3631651475694444
+954,954,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+955,955,False,,,,,,,,,,
+956,956,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.5943248155381945,0.0036629231770833,0.3608330620659722
+957,957,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,17.004228515625,1.8877842881944444,0.4100553385416666
+958,958,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0136884223090277,0.7931000434027777
+959,959,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,5.525829535590278,0.1054497612847222,0.3875409613715277
+960,960,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,12.913539496527775,1.5771378580729167,0.6846405707465277
+961,961,True,"ot sell]
+
+o/o
+",,"acy choice|
+
+o/o
+",,"acy choice|
+
+o/o
+",,,2.352317437065972,51.874653591579865,32.04256673177083
+962,962,True,"AdChoices / Do Not Sell My Info| Wi
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",AdChoices / Do Not Sell My Info,5.805592990451389,0.0269590928819444,0.4077357313368056
+963,963,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3617293294270833
+964,964,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+965,965,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,2.975910915798611,0.5549948459201389,1.129539388020833
+966,966,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0409475368923611,30.11138617621528,6.197892252604166
+967,967,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3689838324652778
+968,968,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3666105143229167
+969,969,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.03367919921875,71.05352837456597,1.0152094184027778
+970,970,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,1.6369108072916667,1.6432335069444444,2.522849663628472
+971,971,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,40.10183322482639,0.0525944010416666,0.3827004665798611
+972,972,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0484575737847222,66.71231038411459,3.3596812608506945
+973,973,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+974,974,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0435104709201388,5.649892035590278,0.3597615559895833
+975,975,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,4.9214794921875,6.143323838975695,6.262727864583334
+976,976,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,14.547576768663196,8.031974012586806,0.4076209852430555
+977,977,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,17.80033203125,3.9087828233506943,0.4012369791666667
+978,978,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,3.252309841579861,2.788532986111111,2.622549099392361
+979,979,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0537212456597222,0.0036629231770833,0.3617377387152777
+980,980,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.3556594509548611,0.0
+981,981,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.5207967122395833,0.1132790798611111,0.3627747938368055
+982,982,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,0.1438134765625,0.0688297526041666,0.4114699978298611
+983,983,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0047998046875,0.3666105143229167
+984,984,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,114.33158528645832,0.0104839409722222,5.494942220052083
+985,985,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,1.001257052951389,0.0036629231770833,0.3597615559895833
+986,986,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0667426215277777,40.49979275173611,0.3949631076388888
+987,987,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3601934136284722
+988,988,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+989,989,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0264797634548611,0.0036629231770833,0.3699560546875
+990,990,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0044832356770833,0.3597615559895833
+991,991,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,4.754268120659722,0.0149281141493055,0.37957763671875
+992,992,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.3198708767361111,0.6062342664930556,1.1940730794270833
+993,993,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,13.989057074652775,3.950352647569445,0.3674495442708333
+994,994,True,"Do Not Sell or Share My Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Information,6.419722493489584,0.0045591905381944,0.3597615559895833
+995,995,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0047998046875,0.3632565646701389
+996,996,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3603469509548611
+997,997,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,58.07830322265625,0.0138484700520833,0.3833018663194444
+998,998,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+999,999,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,18.23164035373264,0.0036629231770833,0.3597615559895833
+1000,1000,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0271112738715277,0.0036629231770833,0.3597615559895833
+1001,1001,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0042241753472222,0.3597615559895833
+1002,1002,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3605818684895833
+1003,1003,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3608048502604166
+1004,1004,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1005,1005,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1006,1006,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1007,1007,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0270553927951388,0.0036629231770833,0.3597615559895833
+1008,1008,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0042483181423611,0.3597615559895833
+1009,1009,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3606282552083333
+1010,1010,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.02643310546875,0.0050667317708333,0.3625816514756944
+1011,1011,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,14.754749620225695,0.0036629231770833,0.3597615559895833
+1012,1012,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1013,1013,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0264797634548611,0.0036629231770833,0.3597615559895833
+1014,1014,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0044832356770833,0.3597615559895833
+1015,1015,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,2.1631789822048613,0.0411710611979166,0.3884369574652778
+1016,1016,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,1.1332489691840275,3.234555121527778,0.4452232530381944
+1017,1017,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1018,1018,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,45.823421495225695,0.0171742078993055,0.3817518446180555
+1019,1019,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3598784722222222
+1020,1020,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,9.537897677951388,11.217379014756943,0.3823592122395833
+1021,1021,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3650941297743055
+1022,1022,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 4/2
+","4/2
+","privacy choice| 4/2
+","4/2
+",Do Not Sell My Personal Information,38.58024468315972,2.932416178385417,0.5039995659722222
+1023,1023,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,13.23168972439236,0.0048556857638888,0.3597615559895833
+1024,1024,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3603228081597222
+1025,1025,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.7133151584201389,33.60920383029514,0.3872292751736111
+1026,1026,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,10.702804904513888,0.0632061089409722,0.4025387912326389
+1027,1027,True,"tSell/Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell/Share My Personal Information,1.3673155381944444,0.0195209418402777,0.3893212890625
+1028,1028,True,"DO NOTSELL MY DATA 1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",DO NOT SELL MY DATA,3.5220109049479165,3.943725857204861,0.45173828125
+1029,1029,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",California: Do Not Sell My Personal Information,12.312341851128473,0.0412654622395833,1.35563720703125
+1030,1030,True,"do not sell
+
+1""
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,19.004762912326388,0.0036629231770833,0.3597615559895833
+1031,1031,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1032,1032,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.03607666015625,19.936758897569444,3.7907486979166665
+1033,1033,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0045296223958333,0.3597615559895833
+1034,1034,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3614390733506944
+1035,1035,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1036,1036,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,20.88063802083333,0.0036629231770833,0.3597615559895833
+1037,1037,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1038,1038,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0267388237847222,0.0036629231770833,0.3597615559895833
+1039,1039,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0047062174479166,0.3597615559895833
+1040,1040,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.1276215277777777,0.1059404839409722,0.4153843858506944
+1041,1041,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,6.2921337890625,0.0036629231770833,0.3597615559895833
+1042,1042,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.2011984592013889,0.2010498046875,0.3620415581597222
+1043,1043,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,3.3422520616319447,0.0036629231770833,0.3597615559895833
+1044,1044,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,32.90835720486111,0.0036629231770833,0.3597615559895833
+1045,1045,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0387953016493055,142.01372233072917,82.04553059895834
+1046,1046,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,6.2921337890625,0.0036629231770833,0.3597615559895833
+1047,1047,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1048,1048,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1049,1049,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0264797634548611,0.0036629231770833,0.3597615559895833
+1050,1050,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0044832356770833,0.3597615559895833
+1051,1051,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3598394097222222
+1052,1052,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597884114583333
+1053,1053,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1054,1054,True,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information,2.1633848741319444,0.0411710611979166,0.3884369574652778
+1055,1055,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,22.5203076171875,0.0047998046875,0.3597615559895833
+1056,1056,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0262858072916666,0.0036629231770833,0.3603469509548611
+1057,1057,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3609280056423611
+1058,1058,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3606597222222222
+1059,1059,True,"do not sell
+
+1""
+","1
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,79.23005615234375,1.885304904513889,0.3597615559895833
+1060,1060,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,30.847105577256944,0.0036629231770833,0.3597615559895833
+1061,1061,True,"do not sell
+
+1""
+","1
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,143.7522954644097,5.694929741753472,0.3597615559895833
+1062,1062,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,3.3072409396701388,0.0036629231770833,0.3605818684895833
+1063,1063,True,"onal Information (CA residents only)|_ 2/2
+","2/2
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information (CA residents only),7.767099609375,0.1625802951388889,0.5841257052951389
+1064,1064,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1065,1065,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1066,1066,True,"onal Information (CA Residents Only)| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell or Share My Personal Information (CA Residents Only),3.127990451388889,0.0036629231770833,0.3597615559895833
+1067,1067,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0047998046875,0.3597615559895833
+1068,1068,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3603469509548611
+1069,1069,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1070,1070,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1071,1071,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0039651150173611,0.3597615559895833
+1072,1072,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.2094376627604166,0.1159600151909722,0.4520233832465278
+1073,1073,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,37.95476182725695,0.0036629231770833,0.3597615559895833
+1074,1074,True,"1al Informationopens in new window| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","Do Not Sell/Share My Personal Information
+opens in new window",0.0256431749131944,0.0044832356770833,0.3597615559895833
+1075,1075,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259223090277777,0.00470947265625,0.3597653537326389
+1076,1076,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1077,1077,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,8.94705593532986,0.0036629231770833,0.3597615559895833
+1078,1078,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3608024088541666
+1079,1079,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0270553927951388,0.0036629231770833,0.3597615559895833
+1080,1080,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0042483181423611,0.3597615559895833
+1081,1081,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1082,1082,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0327045355902777,0.0036629231770833,0.3597615559895833
+1083,1083,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1084,1084,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1085,1085,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0264797634548611,0.0036629231770833,0.3597615559895833
+1086,1086,True,"iell or share my personal information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do not sell or share my personal information,10.6653076171875,0.0036629231770833,0.3597615559895833
+1087,1087,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| Wi
+","1
+","privacy choice| Wi
+","1
+",,0.0331301540798611,7.352881401909722,0.3597615559895833
+1088,1088,True,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",,0.0259185112847222,0.0036629231770833,0.3597615559895833
+1089,1089,True,"Do Not Sell My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+",Do Not Sell My Personal Information,21.8268701171875,0.0551402452256944,0.3931252712673611
