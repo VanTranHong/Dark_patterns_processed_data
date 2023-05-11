@@ -1,0 +1,2380 @@
+<html lang="en" data-ng-app="geneCardsApp" class="js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths ng-scope"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}</style>
+    <base href="/">
+    <title>GeneCards - Human Genes | Gene Database | Gene Search</title>
+    
+<link rel="shortcut icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAACapJREFUWEedlwl0VOUVx39v3rxJZrLMZCOELARyQlhEQKJA2JRNgaoBVGgp6qnWKq0tPQUtByiillpsq0fxFE/V1gU1IKsKLQSkRogEkQCGLSQsSUhCQiazJJmZN+99Pe9Nwo54euecOcm87313+9//vVfiB0qgo03UV3yFqN2LqC1DuXAIp+Q33/aKWPTk/nR0L0DJGkb6gAKiHXHSD7n6podamhpF3c6V9Dj5DolqHVgAAaom0a5ZTR0OOYxiEZFnOlyQ0/DkPUzCXfNITEn7Xh3f+/Dw5ldFxv4luBQfhAEJ2lQZVbcgXfWmEJhGxChh00BkaFFjaMxfRv/75t9Qz3Uf+DxuUf/ubHL9W9CD4AsrOKNVWkMyLquGJ6SYnkumJkNf5BqnotKqybhsGt6gQowcRo4SnI2fQNyPPyYxKfkafdf8cOZsrXB+NBynVou3TQEhiHeFWXGoH69/PY5pA/fx2vCySLi1zizLkbQs2JvPxweH8Ys7drF4cAU+jxUdCWeMSrOUjndWKTm9sq7QecU/Pn+7kFf2xK414TaUI5EQH+K/tancueUhaE5lxJA9bB69g+cP5tPWqd8uJBYP2s+c0tEUfzMWkhrZNnktE3vW4/YYTkTuadWSkJ4+jct5CaBXGHDo5fFioL6DVo9i5jjaomGL0sndWkhVdR7WpCYaZ6ymuDaNmUVPgKMNJAH+eN564G0e7H2abp/MJticSkZ2JaenbEBTJTo0GaFLuBJCVEoj6bNg90W9F/8oWb9KjKp+Ep87EjYzpw6VknPdGLN9OrTH8GzBDl4aXQ4eOOZ2EtYsJjBlSdAvoRUSYOlXA3l+9ySI6mD7xA1MyKzHY0bTsFUQnxSmJOt1xjz4tKnE/PL5/cK2Ih6rrOMNKZ3qwRmvsrx8IItK7sbiauH01CKSHEGeOzSYOElHUtQICMNWPJqVJQPLCagyGZ/NInyhG0tGbuf5/AN4jDREYEKsLYymSQR/14LT6YoU0+73l4mCuqV4vEqnSZHkGgbMLR3G3/eMp0fOceruW0et20HmR09Ce7zppSmhKLAFqZi5iv5pHnI2FVJdOYDHh+/kHwWleH1KZ72YmMYVr1Le4xmGPLxCkoLBoPC+kEyi4scbsl70vsuABWVD+cueicT1OMOpu9eTFBWkwuNENk3vKkPQhMQtcR58mpXsbdNpOZvDr0bs5PXhe/F6LzPAcMymcj4YQ9SCWqQT3+wUuVvH4Qtcyn0XhTrjVD440Zs5X9wLks6GiRspHFDD6ZoY3qnqjyoJjI+iyzycc5Tcnj62HunBlG3TQFN4c+znPNG/MhLZy0RGEGsPc3Ds50gH1rwoBp9YTGvHpdx3nY23qTQFoui+ZSaiOZW8rGrKpm/mw4pePLVhTqQKjCj4nLz5wL94YtQJRrw/la8rB0DSeWqmrCEjph1P8EoDjLi5HCr7MxciHX9tisht3WIy19ViMF28M8zCfUN4acf9EOdh6z1F3JN9ju+aXBieKJIgMTqIKzrIr78eyRtHhkIwml/esYuVBWUXyejquw1mPWyfhHR2abpI4xxt4UhjuVwMSx2KZiL79weHMTv7BCOzz4MKIiDRHIxGleCgN4FnDwzjcG22Cch+vY9zZPIGVF3CH1SwGFxxlTisYc7bByC1Lo0TUjhwEaVXH9R1iShZw5GsmRWy+mAO/6zqyx53Ch2qDXQJOhyRSrCGGZdzlHV3bsNlU3H7bViMLnkdibJotEjJSJ6lcUKEA9c9ZPyoGzRqD5ncP6tkHEVHBkPIBhYNooIg62ANMcDp5tHex5l/+yFQoL1BJiBkk6SuJwbLNpOEVPeHVJEiztOuXz8F0bJOtF1jfPEkdh4ZAlaV5JQGFt9ygILEJuySRpISorujDckFNfUO3q3O4zd5h1FkQSBsuaK0u4yxyxpN9r5IR/82UeT5t98AhBDvVFn+7S0sKpkMikphrwreG7OLWKuKP6AQFpI5KqS4Quw4lcaE4kJoSeG5iRtZetshvJ5LHHB5JAwQVkSPQzr00RIxsOoFPB3XVkGcEsajKqRueQi1MZ0+WSc5PmcdGw9nMW3tIxDTWYbtsay6t4jCPjUMXldIQ30GckoDjVPWkBAVxNc5P3QZcLEM03+HdKx0q8grnnxDIiqqzGaWQUS6hdUTNvGTIafZdzyJN44NRrVGeoESVpjbt5w78i6w7mAWD2y/HwM07931KXP6VOPxXemcQaLxdpXygvVIbW1+of4p0QypT72Kip0qz5YNZcXuCTjSaqmatI7ujgD17dHmWGaUhXGZkAw+0ElzBHAHbPTaNh1PbS/mFRTzyrB91zBhV2S1eXURfOx567diRPMrtHojc0CXGM3oqT3DWVU6jh45x6i7bz1nWmLJ/uRnkdKL6qyeULTZmE7OeJucbn5yNxdysqsZjSy9oheYVRUfojz5SYY8viqi7sKFFpG4MtEElP+yKBgGLPt2EM99NQlr0nnO/agIq1Vn7r4RxEgCS2c71sNW2nSZlfmlWIQg7bOZBJvSWFhQzPL8by9GwCQ2q2ZGq2VuA8ndul/yt2T1H8Wo+kV4WxRjgjLFmOW2n01jUvE0CEXz4qj/sGhEBXihxusgrBnDIFgtGpnOdoiDv5b1Y/6Xk832/Nn4TUzNrsXj78SAAGeiSknKUsY8suzSQNIV8qrlA0Vv6TBun82kT6NWJaug5+czqD+bQ2zqOdwPfsCaqmxmb3gUYnyRV9vieK/wXX6ae4qEtbPxNKSTlHGKuqmfmBFpD1sxGDXBGaJO5JKxsPLakcy4p6GxSaS+3R00DXeHzex0CU6VTdWZFP57BnhdTBlawsrb9vLM/gI6LLqpP1qXeTl/N/MP5LN+351m0yqatIGHck+b86WR98TYkDkJNTx2joz0S8vKNWN5xXffidyN+SgEaG1XsEqC2Pgwz+wfwhul45h2axkfjCmJeH75WC7BYyUFfFw+gp8P28Wrt++nzWclpFtIcITo0G1U3v8NgwbdeuOxvCsV52tPicCH08gMlxPssKBiIVYJc8YfQ7q9PbKSGZtYJ88b4DKWE2MRqe1w0DO2zQSzMeJE23WaovoTnPEpmdk5N19MuowIq6o4tnYJfY7/GUUR6CpYZOhQLQQ1+bqrWZSsY1c0dC1yNhCWOdN3Hr1nLMcWFXXdLeymy2lN9THh+2IFmWfeJ9YoO2FChJAum+E1xGbRsUo6ijXS+fwhK829Z6GMXUhGzoD/fzm9vHk01lSJpqO7kWu+JNZzGKuvBjuRqbgDO3psOh7nrehZo0nOG0n3nrk3dc7tdov/AdlWJVW4GM50AAAAAElFTkSuQmCC" type="image/png">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="msapplication-config" content="none">
+<meta name="author" content="GeneCards Human Gene Database">
+<meta name="description" content="GeneCards is a searchable, integrated, database of human genes that provides concise genomic related information, on all known and predicted human genes">
+<meta name="keywords" content="Human Genes, Gene Database, Gene Search, genecards, bioinformatic, alias, symbol, gene, genomic, clones, mutation, ortholog, reagent, antibody, protein, disease, expression, snp, pathway, drug, genetic, compound, cluster, human, interaction, rna, GeneALaCart">
+
+
+        
+        <link href="/styles/layout-head?v=MvXsEVP7zvPaOxSR6xep3V7-3_6LWPjsxKKSsyNW54E1" rel="stylesheet">
+
+        
+    <link href="/Styles/home?v=NgR4IEjlb_Mjs_8uoy9sKhrryB_ICr0wNk9AjbbrId41" rel="stylesheet">
+
+
+        
+        
+    <script async="" type="text/javascript" src="https://genecards.kayakocdn.com/messenger" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=UA-2971710-1&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script type="text/javascript">
+        window.googletag = window.googletag || { cmd: [] };
+    </script>
+
+        
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-XQREZYM5KY"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-XQREZYM5KY');
+        // Track Universal Analytics
+        gtag('config', 'UA-2971710-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+
+        <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+        
+        
+    <meta http-equiv="origin-trial" content="Az6AfRvI8mo7yiW5fLfj04W21t0ig6aMsGYpIqMTaX60H+b0DkO1uDr+7BrzMcimWzv/X7SXR8jI+uvbV0IJlwYAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A+USTya+tNvDPaxUgJooz+LaVk5hPoAxpLvSxjogX4Mk8awCTQ9iop6zJ9d5ldgU7WmHqBlnQB41LHHRFxoaBwoAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A7FovoGr67TUBYbnY+Z0IKoJbbmRmB8fCyirUGHavNDtD91CiGyHHSA2hDG9r9T3NjUKFi6egL3RbgTwhhcVDwUAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="As0hBNJ8h++fNYlkq8cTye2qDLyom8NddByiVytXGGD0YVE+2CEuTCpqXMDxdhOMILKoaiaYifwEvCRlJ/9GcQ8AAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3MTk1MzI3OTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="AgRYsXo24ypxC89CJanC+JgEmraCCBebKl8ZmG7Tj5oJNx0cmH0NtNRZs3NB5ubhpbX/bIt7l2zJOSyO64NGmwMAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3MTk1MzI3OTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2023031401.js?cb=31073151" async=""></script><style>
+    @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700');
+    .kykm__sandbox * {
+      font-family: 'Source Sans Pro', sans-serif;
+      box-sizing: border-box;
+    }
+
+    body.kykm__m__optimized {
+      position: fixed;
+      overflow: hidden;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .kykm__sandbox a {
+      color: #F1703F
+    }
+
+    .kykm__image__container, .kykm__article__container {
+      z-index: 2147483001;
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      left: 0;
+      padding: 40px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: scroll;
+    }
+
+    .kykm__article__contents__container {
+      position: relative;
+      max-width: 692px;
+      height: 800px;
+      max-height: 90%;
+      background: #fff;
+      border-radius: 4px;
+      padding-top: 10px;
+    }
+
+    .kykm__article {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      padding-top: 10px;
+      overflow: scroll;
+    }
+
+    .kykm__article__header {
+      padding: 15px 40px;
+      position: relative;
+    }
+
+    .kykm__breadcrumb {
+      padding: 0 38px;
+    }
+
+    .kykm_breadcrumb_separator {
+      padding: 3px;
+      color: lightgray;
+    }
+
+    .kykm_breadcrumb_section {
+      color: #F1703F
+    }
+
+    .kykm__icon__close {
+      background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTEiIGhlaWdodD0iMTEiIHZpZXdCb3g9IjAgMCAxMSAxMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNS4yMzggNi42NTJMOC40OSA5LjkwNWMuNjgyLjY4IDEuMjU2LjcyNSAxLjY5OC4yODMuNDQyLS40NDIuMzk4LTEuMDE2LS4yODMtMS42OTdMNi42NTIgNS4yNGwzLjI1My0zLjI1MmMuNjgtLjY4LjcyNS0xLjI1Ni4yODMtMS42OTctLjQ0Mi0uNDQzLTEuMDE2LS40LTEuNjk3LjI4TDUuMjQgMy44MjUgMS45ODYuNTdDMS4zMDYtLjExLjczLS4xNTIuMjkuMjljLS40NDMuNDQtLjQgMS4wMTUuMjggMS42OTZsMy4yNTQgMy4yNTJMLjU3IDguNDljLS42OC42ODItLjcyMyAxLjI1Ni0uMjggMS42OTguNDQuNDQyIDEuMDE1LjM5OCAxLjY5Ni0uMjgzbDMuMjUyLTMuMjUzeiIgZmlsbD0iIzdjN2M3YyIgZmlsbC1ydWxlPSJldmVub2RkIi8+PC9zdmc+);
+      content: "";
+      width: 32px;
+      height: 32px;
+      position: absolute;
+      right: 18px;
+      background-repeat: no-repeat;
+      top: 25px;
+      cursor: pointer;
+      border-radius: 50%;
+      background-position: center;
+      z-index: 2;
+      background-color: rgba(0, 0, 0, 0.17);
+    }
+
+    .kykm__article__header h2 {
+      font-weight: 300;
+      font-size: 32px;
+      color: #2D3138;
+      line-height: 42px;
+      margin: 0;
+    }
+
+    .kykm__article__body {
+      padding: 0px 40px 20px 40px;
+      flex: 1;
+    }
+
+    .kykm__article__body h1, .kykm__article__body h2, .kykm__article__body h3, .kykm__article__body strong {
+      color: #2d3138;
+    }
+
+    .kykm__article__body h1 {
+      font-size: 30px;
+      font-weight: 300;
+      line-height: 1.2;
+      margin-bottom: 0.6em;
+      margin-top: 1.4em;
+    }
+
+    .kykm__article__body h3 {
+      font-size: 18px;
+      font-weight: 600;
+      margin: 0.2em 0;
+    }
+
+    .kykm__article__body p {
+      font-weight: 400;
+      font-size: 16px;
+      color: #5F6C73;
+      line-height: 24px;
+      margin-bottom: 20px;
+    }
+
+    .kykm__article__body ul, .kykm__article__body ol {
+      margin: 15px 0 20px 20px;
+      padding: 0;
+    }
+
+    .kykm__close__container {
+      position: absolute;
+      right: 40px;
+      top: 40px;
+      cursor: pointer;
+      width: 24px;
+      height: 24px;
+    }
+
+    .kykm__close__container i {
+      background: #fff;
+      height: 25px;
+      width: 5px;
+      border-radius: 4px;
+      display: inline-block;
+      position: absolute;
+      right: 50%;
+    }
+
+    .kykm__close__container i:first-child {
+      transform: rotate(45deg);
+    }
+
+    .kykm__close__container i:last-child {
+      transform: rotate(-45deg);
+    }
+
+    .kykm__image__container img {
+      max-width: 90%;
+      height: auto;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.6s cubic-bezier(0.19, 1, 0.22, 1);
+    }
+
+    .kykm__image__container img.appear {
+      opacity: 1;
+      pointer-events: auto;
+    }
+
+    .kykm__backdrop {
+      background: rgba(32,32,32,0.85);
+      position: fixed;
+      z-index: 2147483001;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .kykm__backdrop.active {
+      opacity: 1;
+      pointer-events: inherit;
+      transition: opacity 300ms ease;
+    }
+
+    .kykm__throbber {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      bottom: 0;
+      right: 0;
+      transform: translate(-50%, -50%);
+      transition: opacity 300ms ease;
+    }
+
+    .kykm__throbber.hide {
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .kykm__throbber i {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      bottom: 0;
+      right: 0;
+      margin-top: -9px;
+      margin-left: -9px;
+      display: block;
+      width: 25px;
+      height: 25px;
+      border: 3px solid;
+      border-top-color: transparent;
+      border-left-color: transparent;
+      border-radius: 50%;
+      color: #fff;
+      background-color: transparent;
+      animation: kykm__sanbox__anim__load 0.6s linear infinite;
+    }
+
+    @keyframes kykm__sanbox__anim__load {
+      100% { transform: rotate(360deg); }
+    }
+
+    @media only screen and (max-width: 480px) {
+      .kykm__article__header {
+        padding: 20px 45px 20px 24px;
+        border-radius: 0px;
+      }
+
+      .kykm__article__header h2 {
+        font-size: 22px;
+        font-weight: 500;
+        line-height: 30px;
+      }
+
+      .kykm__article__body {
+        padding: 0px 24px 20px 24px;
+      }
+    }
+
+    @media only screen and (max-width: 690px) {
+      .kykm__article__container, .kykm__image__container {
+        padding: 0;
+      }
+
+      .kykm__article__contents__container {
+        width: 100%;
+        max-height: 100%;
+        border-radius: 0px;
+      }
+    }
+  </style></head>
+
+    <body id="genecards" data-ga-category="Home Page Links" class="eupopup eupopup-bottom homePage">
+
+    
+<div class="container" id="NewVersionNotification">
+    <div class="alert alert-success alert-dismissible show" role="alert" data-ga-category="WhatsNewBanner">
+            <span class="glyphicon glyphicon-info-sign icon"></span> We’ve updated GeneCards - <a href="/Guide/News" target="_self" data-track-event="Clicked" data-ga-label="v5.14">what’s new in version 5.14</a>
+            <button type="button" class="close" data-dismiss="alert" data-bs-dismiss="alert" aria-label="Close" data-track-event="Close" data-ga-label="v5.14">
+                <span aria-hidden="true">×</span>
+            </button>
+    </div>
+</div>
+    <div id="wrap" class="container">
+        
+
+
+
+<header class="hidden-sm hidden-md hidden-lg" style="">
+
+    
+    <div class="fixed-mobile-toolbar">
+        <div id="mainIcon"><span class="glyphicon glyphicon-menu-hamburger" onclick="toggleHeaderState('main')"></span></div>
+        <div id="logo">
+
+        </div>
+        <div id="searchBoxContainer" style="display: none;">
+            <div id="searchBox" class="geneSearchBar">
+                <form class="form-inline ng-pristine ng-valid" role="search" action="/Search/Keyword" name="searchForm" method="get">
+                    <input type="text" class="searchText" placeholder="Search GeneCards" name="queryString" value="" autocomplete="off">
+                    <button id="searchTypeSelector" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"><span>Keywords</span> <span class="caret"></span></button>
+                    <ul class="dropdown-menu" role="menu">
+                            <li class="active"><a href="#" data-type="Keyword">Keywords</a></li>
+                            <li><a href="#" data-type="Symbol">Symbols</a></li>
+                            <li><a href="#" data-type="SymbolAlias">Symbols/Aliases</a></li>
+                            <li><a href="#" data-type="Identifier">Symbols/Aliases/Identifiers</a></li>
+                    </ul>
+                    <i class="glyphicon glyphicon-search magnifier" onclick="if (document.forms['searchForm'].queryString.value) document.forms['searchForm'].submit()"></i>
+                </form>
+            </div>
+        </div>
+        <div id="searchIcon"><i onclick="toggleHeaderState('search')" class="glyphicon glyphicon-search"></i></div>
+        <div id="userIcon"><i onclick="toggleHeaderState('user')" class="glyphicon glyphicon-user "></i></div>
+        <div id="mainDropDown">
+            <ul>
+                <li><span class="gc-seo-link" data-url="/">Home</span></li>
+                <li><span class="gc-seo-link" data-url="/Guide">User Guide</span></li>
+                <li><span class="gc-seo-link" data-url="/Guide/News">Release Notes</span></li>
+                <li><span class="gc-seo-link" data-url="/Guide/Datasets">Data Access</span></li>
+                <li><span class="gc-seo-link" data-url="/Guide/Publications">Our Publications</span></li>
+                <li><span class="gc-seo-link" data-url="/Guide/HowToCiteUs">How To Cite Us</span></li>
+                <li><span class="gc-seo-link" data-url="/Guide/Citations">Papers That Cite Us</span></li>
+                <li><span class="gc-seo-link" data-url="/Guide/Sources">Our Sources</span></li>
+                <li><span class="gc-seo-link" data-url="/Guide/GeneCardsTeam">GeneCards Team</span></li>
+                    <li class="last"><span class="gc-seo-link" href="javascript:;" onclick="showKayako()">Contact Us</span></li>
+            </ul>
+        </div>
+        <div id="userDropDown">
+            <ul>
+                    <li>
+                        <a data-ga-category="GCSuite" data-track-event="Log In" href="/Account/LogOn?moduleName=GC" rel="nofollow" target="_self">Log In</a>
+                    </li>
+                    <li>
+                        <a data-ga-category="GCSuite" data-track-event="Sign Up" href="/Account/Register?moduleName=GC" rel="nofollow" target="_self">Sign Up</a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</header>
+
+
+<header class="hidden-xs">    
+    <div class="row" style="" }="">
+        <span class="gc-seo-link" data-url="/" title="GeneCards">
+        </span>
+        <div class="col-xs-12">
+            <div class="row">
+                <div class="col-xs-3 col-sm-2 col-md-2 gc-logo">
+                        <span class="gc-seo-link gc-logo" data-url="/">
+                            <img src="/Images/logo_genecards.png" alt="GeneCards Gene Database">
+                        </span>
+                </div>
+                <div class="col-xs-9 col-sm-10 col-md-10">
+                    <div class="gc-header-body">
+                        <div id="headerTop" class="text-right row">
+
+                            <span class="gc-seo-link lm-logo" data-url="http://www.lifemapsc.com/" data-target="_blank" title="LifeMap Sciences"><span class="bg-logo bg-logo_lifemap hidden-print" style="" alt="LifeMap Sciences Logo"></span></span>
+                            <span class="gc-seo-link wz-logo" data-url="http://www.weizmann.ac.il/" data-target="_blank" title="Weizmann Institute of Science"><span class="bg-logo bg-logo_weizmann" alt="Weizmann Institute of Science Logo"></span></span>
+                                <div id="copyrightNotice">
+                                    <p class="text-left">
+                                        Free for academic non-profit institutions.<br class="hidden-lg">Other users need a <span class="gc-seo-link" data-url="http://www.lifemapsc.com/contact-us/" data-target="_blank">Commercial license</span>
+                                    </p>
+                                </div>
+                        </div>
+                        <div id="headerBottom">
+                            
+<div class="geneSearchBar" role="search" data-ga-category="Search">
+    <div id="basicSearch">
+        <form class="form-inline ng-pristine ng-valid" role="search" action="/Search/Keyword" method="get">
+            <div class="input-group input-group-sm">
+                <input name="queryString" type="text" class="form-control" placeholder="Search GeneCards" value="" autocomplete="off" autofocus="">
+
+                <div class="input-group-btn">
+                    <button class="btn btn-warning search-bar-btn-addon" data-track-event="Keyword Search"><i class="glyphicon glyphicon-search"></i></button>
+                </div>
+            </div>
+            <a id="advancedSearchButton" class="hidden-sm" href="/Search" data-role="advanced-search">Advanced</a>
+        </form>
+    </div>
+</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+        <div class="row hidden-print hidden-xs">
+    <nav id="mainMenu">
+        <ul class="list-inline">
+            <li><span class="gc-seo-link" data-url="/">Home</span></li>
+            <li><span class="gc-seo-link" data-url="/Guide">User Guide</span></li>
+            <li>
+                <div class="dropdown">
+                    <span class="dropdown-toggle" data-toggle="dropdown">Analysis <span class="hidden-sm">Tools</span><span class="caret"></span></span>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://ve.genecards.org" target="_blank">VarElect</a></li>
+                        <li><a href="https://ga.genecards.org" target="_blank">GeneAnalytics</a></li>
+                        <li><a href="https://genealacart.genecards.org" target="_blank">GeneAlaCart</a></li>
+                        <li><a href="https://glm.genecards.org" target="_blank">GenesLikeMe</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li><span class="gc-seo-link" data-url="/Guide/News"><span class="hidden-sm">Release Notes</span><span class="visible-sm-inline">News</span></span></li>
+            <li>
+                <div class="dropdown">
+                    <span class="dropdown-toggle" data-toggle="dropdown">About<span class="caret"></span></span>
+                    <ul class="dropdown-menu">
+                        <li><span class="gc-seo-link" data-url="/Guide/Publications">Our Publications</span></li>
+                        <li><span class="gc-seo-link" data-url="/Guide/HowToCiteUs">How To Cite Us</span></li>
+                        <li><span class="gc-seo-link" data-url="/Guide/Citations">Papers That Cite Us</span></li>
+                        <li><span class="gc-seo-link" data-url="/Guide/GeneCardsTeam">GeneCards Team</span></li>
+                        <li><span class="gc-seo-link" data-url="/Guide/Sources">Our Sources</span></li>
+                        <li><span class="gc-seo-link" data-url="https://www.weizmann.ac.il">Weizmann Institute</span></li>
+                        <li><span class="gc-seo-link" data-url="https://www.lifemapsc.com">LifeMap Sciences Inc</span></li>
+                    </ul>
+                </div>
+            </li>
+                <li><span class="gc-seo-link" data-url="/Guide/Datasets">Data Access</span></li>
+                <li><span class="gc-seo-link hidden-sm" data-url="/Guide/GeneCardsTeam">GeneCards Team</span></li>
+                <li class="hidden-print gc-nav-login">
+<a data-ga-category="GCSuite" data-track-event="Log In" href="/Account/LogOn?moduleName=GC" rel="nofollow" target="_self">Log In</a>                        <span>&nbsp;/&nbsp;</span>
+<a data-ga-category="GCSuite" data-track-event="Sign Up" href="/Account/Register?moduleName=GC" rel="nofollow" target="_self">Sign Up</a>                </li>
+                <li class="gc-nav-mygenes hidden-sm"><span class="gc-seo-link" data-url="/MyGenes" title="View list of your chosen favorite genes">My Genes</span></li>
+        </ul>
+    </nav>
+</div>
+        <div id="mobile-padding-wrapper"> 
+            
+
+
+
+
+<main id="homePage" class="row" data-ga-category="Home">
+    <div class="gc-main-inner-wrap">
+        <div class="row hidden-sm hidden-md hidden-lg gc-logo">
+            
+            <div class="col-xs-12">
+                <img class="center-block" src="/Images/logo_genecards.png" alt="GeneCards Logo">
+            </div>
+        </div>
+
+        <div class="row hidden-sm hidden-md hidden-lg gc-logo">
+            
+            <div class="col-xs-12 gene-explore ng-scope" data-ng-controller="randomGeneController" ng-init="setExample('')">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="input-group">
+                            <input class="form-control ng-pristine ng-untouched ng-valid" type="text" data-ng-model="currentGene" placeholder="Enter gene / keyword" ng-enter="goToLookup()">
+                            <span class="input-group-btn">
+                                <button class="btn btn-default" ng-click="goToLookup()" data-ga-label="" data-track-event="GO button Clicked">GO</button>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 search-examples">Examples: <a ng-click="setExample('FOXP2')">FOXP2</a> <a ng-click="setExample('BRCA1')">BRCA1</a> <a ng-click="setExample('CANCER')">CANCER</a></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            
+            <div class="col-xs-12">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div id="geneCardsIntro">
+                            <h1 class="hidden-xs"><span>GeneCards<sup>®</sup>:</span> The Human Gene Database</h1>
+                            <p class="font-brand text-justify">GeneCards is a searchable, integrative database that provides comprehensive, user-friendly information on all annotated and predicted human genes. The knowledgebase automatically integrates gene-centric data from ~150 web sources, including genomic, transcriptomic, proteomic, genetic, clinical and functional information.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row hidden-sm hidden-md hidden-lg gc-logo">
+            
+            <div class="col-xs-12 suite-sites">
+                <h2>Other GeneCards Suite Databases</h2>
+                <div class="gc-center-align">
+                    <a class="gc-ga-link" href="https://www.malacards.org" title="Human Disease Database">
+                        <span class="logo-sprite logo-MalaCards-mobile" alt="MalaCards - Human disease database">
+                    </span></a>
+                    <a class="gc-ga-link" href="https://pathcards.genecards.org/" title="Super Pathways">
+                        <span class="logo-sprite logo-PathCards-mobile" alt="PathCards - Human biological pathway unification">
+                    </span></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            
+            <div class="gc-center-align row hidden-sm hidden-md hidden-lg main-brand-logos">
+                <span class="gc-seo-link wz-logo" data-url="http://www.weizmann.ac.il/" data-target="_blank" title="Weizmann Institute of Science"><span class="bg-logo bg-logo_weizmann hidden-print" alt="Weizmann Institute of Science Logo"></span></span>
+                <span class="gc-seo-link lm-logo" data-url="http://www.lifemapsc.com/" data-target="_blank" title="LifeMap Sciences"><span class="bg-logo bg-logo_lifemap hidden-print" alt="LifeMap Sciences Logo"></span></span>
+            </div>
+        </div>
+
+        
+
+        <div class="row hidden-xs section gene-explore">
+            
+            <div class="col-lg-12 col-md-12 ng-scope" data-ng-controller="randomGeneController" ng-init="setExample('')">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <h2>Explore a gene</h2>
+                    </div>
+                </div>
+                <div class="row" style="display: flex; align-items: center">
+                    <div class="col-lg-3"></div>
+                    <div class="col-xs-11 col-lg-6">
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <div class="input-group ">
+                                    <input class="form-control ng-pristine ng-untouched ng-valid" type="text" data-ng-model="currentGene" ng-enter="goToLookup()" autofocus="">
+                                    <span class="input-group-btn">
+                                        <button class="btn btn-default" ng-click="goToLookup()" data-ga-label="" data-track-event="GO button Clicked"><i class="glyphicon glyphicon-search"></i></button>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row examples">
+                            <div class="col-xs-8">
+                                <span>Examples:</span>
+                                <a ng-click="setExample('FOXP2')" href="#">FOXP2</a>,
+                                <a ng-click="setExample('&quot;prostate cancer&quot;')" href="#">"prostate cancer"</a>,
+                                <a ng-click="setExample('collagen')" href="#">collagen</a>,
+                                <a ng-click="setExample('metabolism')" href="#">metabolism</a>
+                            </div>
+                            <div class="col-xs-4 text-right">
+                                <a href="/Search" target="_top">Advanced</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row hidden-xs section">
+            <div class="col-lg-12 col-md-12">
+                <h2>Analysis Tools and Other Databases</h2>
+            </div>
+            <div class="col-lg-12 col-md-12 row genecardssuite">
+                <div class="item">
+                    <div class="col-xs-3">
+                        <div class="suiteMember MalaCards center-block">
+                            <a href="https://www.malacards.org" target="_blank"><img class="img-responsive center-block" src="/Images/Carousel/MalaCards.png"></a>
+                            <div class="content-wrapper col-xs-12">
+                                <div class="description">An integrated database of human diseases and their annotations</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="col-xs-3">
+                        <div class="suiteMember GeneAnalytics ">
+                            <a href="https://geneanalytics.genecards.org" target="_blank"><img class="img-responsive center-block" src="/Images/Carousel/GeneAnalytics.png"></a>
+                            <div class="content-wrapper col-xs-12">
+                                <div class="description">Analyze gene sets with GeneCards' easy to use gene set analysis tool</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="col-xs-3">
+                        <div class="suiteMember GeneALaCart">
+                            <a href="https://genealacart.genecards.org" target="_blank"><img class="img-responsive center-block" src="/Images/Carousel/GeneALaCart.png"></a>
+                            <div class="content-wrapper col-xs-12">
+                                <div class="description">Download GeneCards gene annotations for multiple genes</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="col-xs-3">
+                        <div class="suiteMember VarElect">
+                            <a href="https://varelect.genecards.org" target="_blank"><img class="img-responsive center-block" src="/Images/Carousel/VarElect.png"></a>
+                            <div class="content-wrapper col-xs-12">
+                                <div class="description">Rapid prioritization of genes based on disease phenotype of interest</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-12 col-md-12 row genecardssuite">
+                <div class="item">
+                    <div class="col-xs-3">
+                        <div class="suiteMember GeneHancer">
+                            <a href="https://genecards.blob.core.windows.net/public/GeneHancerDataSheet-2021.pdf" target="_blank"><img class="img-responsive center-block" src="/Images/Carousel/GeneHancer.png"></a>
+                            <div class="content-wrapper col-xs-12">
+                                <div class="description">Genome-wide integration of enhancers and target genes</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="col-xs-3">
+                        <div class="suiteMember GeneCaRNA">
+                            <a href="/genecarna" target="_blank"><img class="img-responsive center-block" src="/Images/Carousel/GeneCaRNA.png"></a>
+                            <div class="content-wrapper col-xs-12">
+                                <div class="description">An integrative database of all non-coding RNA (ncRNA) human genes</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="col-xs-3">
+                        <div class="suiteMember PathCards">
+                            <a href="https://pathcards.genecards.org" target="_blank"><img class="img-responsive center-block" src="/Images/Carousel/PathCards.png"></a>
+                            <div class="content-wrapper col-xs-12">
+                                <div class="description">An integrated database of human biological pathways</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="col-xs-3">
+                        <div class="suiteMember GenesLikeMe">
+                            <a href="https://glm.genecards.org/" target="_blank"><img class="img-responsive center-block" src="/Images/Carousel/GenesLikeMe.png"></a>
+                            <div class="content-wrapper col-xs-12">
+                                <div class="description">Finds genes with shared descriptors based on GeneCards</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<div id="gcStats" class="row">
+    <h2>
+        GeneCards Version 5.14
+        <br class="visible-xs">
+        <span class="updateDate">(Updated: Jan 3, 2023)</span>
+    </h2>
+    
+    
+    <div class="col-xs-12 hidden-sm hidden-md hidden-lg">
+        <div class="row">
+                <div class="col-xs-6 col-sm-3">
+                    <div class="row">
+                        <div class="col-xs-8"><a class="gc-ga-link " data-ga-action="Database Statistics" data-ga-label="Total genes" href="List/Statistics#All" target="_self">Total genes</a></div>
+                        <div class="col-xs-4">416,392</div>
+                    </div>
+                </div>
+                <div class="col-xs-6 col-sm-3">
+                    <div class="row">
+                        <div class="col-xs-8"><a class="gc-ga-link " data-ga-action="Database Statistics" data-ga-label="HGNC approved" href="List/Statistics#HgncApproved" target="_self">HGNC approved</a></div>
+                        <div class="col-xs-4">43,529</div>
+                    </div>
+                </div>
+                <div class="col-xs-6 col-sm-3">
+                    <div class="row">
+                        <div class="col-xs-8"><a class="gc-ga-link " data-ga-action="Database Statistics" data-ga-label="Disease genes" href="cgi-bin/listdiseasecards.pl" target="_self">Disease genes</a></div>
+                        <div class="col-xs-4">19,752</div>
+                    </div>
+                </div>
+                <div class="col-xs-6 col-sm-3">
+                    <div class="row">
+                        <div class="col-xs-8"><a class="gc-ga-link " data-ga-action="Database Statistics" data-ga-label="Hot genes" href="List/HotGenes" target="_self">Hot genes</a></div>
+                        <div class="col-xs-4">500</div>
+                    </div>
+                </div>
+
+<div class="col-xs-6 col-sm-3">
+                    <div class="row">
+                        <div class="col-xs-8">
+                            <a class="gc-category" target="_self" href="/stat_graphs.shtml#ProteinCoding" data-track-event="Gene Category" data-ga-label="Protein-coding">
+                                Protein-coding
+                            </a>
+                        </div>
+                        <div class="col-xs-4">21,637</div>
+                    </div>
+                </div>
+<div class="col-xs-6 col-sm-3">
+                    <div class="row">
+                        <div class="col-xs-8">
+                            <a class="gc-category" target="_self" href="/stat_graphs.shtml#RnaGenes" data-track-event="Gene Category" data-ga-label="ncRNA genes">
+                                ncRNA genes
+                            </a>
+                        </div>
+                        <div class="col-xs-4">293,262</div>
+                    </div>
+                </div>
+<div class="col-xs-6 col-sm-3">
+                    <div class="row">
+                        <div class="col-xs-8">
+                            <a class="gc-category" target="_self" href="/stat_graphs.shtml#LncRNAs" data-track-event="Gene Category" data-ga-label="lncRNAs">
+                                lncRNAs
+                            </a>
+                        </div>
+                        <div class="col-xs-4">131,025</div>
+                    </div>
+                </div>
+<div class="col-xs-6 col-sm-3">
+                    <div class="row">
+                        <div class="col-xs-8">
+                            <a class="gc-category" target="_self" href="/stat_graphs.shtml#PiRncRNAs" data-track-event="Gene Category" data-ga-label="piRNAs">
+                                piRNAs
+                            </a>
+                        </div>
+                        <div class="col-xs-4">111,811</div>
+                    </div>
+                </div>
+<div class="col-xs-6 col-sm-3">
+                    <div class="row">
+                        <div class="col-xs-8">
+                            <a class="gc-category" target="_self" href="/stat_graphs.shtml#MiNcRNAs" data-track-event="Gene Category" data-ga-label="miRNAs">
+                                miRNAs
+                            </a>
+                        </div>
+                        <div class="col-xs-4">9,251</div>
+                    </div>
+                </div>
+<div class="col-xs-6 col-sm-3">
+                    <div class="row">
+                        <div class="col-xs-8">
+                            <a class="gc-category" target="_self" href="/stat_graphs.shtml#RNcRNAs" data-track-event="Gene Category" data-ga-label="rRNAs">
+                                rRNAs
+                            </a>
+                        </div>
+                        <div class="col-xs-4">1,282</div>
+                    </div>
+                </div>
+<div class="col-xs-6 col-sm-3">
+                    <div class="row">
+                        <div class="col-xs-8">
+                            <a class="gc-category" target="_self" href="/stat_graphs.shtml#TNcRNAs" data-track-event="Gene Category" data-ga-label="tRNAs">
+                                tRNAs
+                            </a>
+                        </div>
+                        <div class="col-xs-4">1,388</div>
+                    </div>
+                </div>
+<div class="col-xs-6 col-sm-3">
+                    <div class="row">
+                        <div class="col-xs-8">
+                            <a class="gc-category" target="_self" href="/stat_graphs.shtml#SnoNcRNAs" data-track-event="Gene Category" data-ga-label="snoRNAs">
+                                snoRNAs
+                            </a>
+                        </div>
+                        <div class="col-xs-4">1,907</div>
+                    </div>
+                </div>
+<div class="col-xs-6 col-sm-3">
+                    <div class="row">
+                        <div class="col-xs-8">
+                            <a class="gc-category" target="_self" href="/stat_graphs.shtml#SrpNcRNAs" data-track-event="Gene Category" data-ga-label="SRP RNAs">
+                                SRP RNAs
+                            </a>
+                        </div>
+                        <div class="col-xs-4">9,045</div>
+                    </div>
+                </div>
+<div class="col-xs-6 col-sm-3">
+                    <div class="row">
+                        <div class="col-xs-8">
+                            <a class="gc-category" target="_self" href="/stat_graphs.shtml#OtherNcRNAs" data-track-event="Gene Category" data-ga-label="other ncRNAs">
+                                other ncRNAs
+                            </a>
+                        </div>
+                        <div class="col-xs-4">27,553</div>
+                    </div>
+                </div>
+<div class="col-xs-6 col-sm-3">
+                    <div class="row">
+                        <div class="col-xs-8">
+                            <a class="gc-category" target="_self" href="/stat_graphs.shtml#FunctionalElements" data-track-event="Gene Category" data-ga-label="Functional elements">
+                                Functional elements
+                            </a>
+                        </div>
+                        <div class="col-xs-4">76,193</div>
+                    </div>
+                </div>
+<div class="col-xs-6 col-sm-3">
+                    <div class="row">
+                        <div class="col-xs-8">
+                            <a class="gc-category" target="_self" href="/stat_graphs.shtml#Pseudogenes" data-track-event="Gene Category" data-ga-label="Pseudogenes">
+                                Pseudogenes
+                            </a>
+                        </div>
+                        <div class="col-xs-4">22,228</div>
+                    </div>
+                </div>
+<div class="col-xs-6 col-sm-3">
+                    <div class="row">
+                        <div class="col-xs-8">
+                            <a class="gc-category" target="_self" href="/stat_graphs.shtml#GeneticLoci" data-track-event="Gene Category" data-ga-label="Genetic loci">
+                                Genetic loci
+                            </a>
+                        </div>
+                        <div class="col-xs-4">1,386</div>
+                    </div>
+                </div>
+<div class="col-xs-6 col-sm-3">
+                    <div class="row">
+                        <div class="col-xs-8">
+                            <a class="gc-category" target="_self" href="/stat_graphs.shtml#GeneClusters" data-track-event="Gene Category" data-ga-label="Gene clusters">
+                                Gene clusters
+                            </a>
+                        </div>
+                        <div class="col-xs-4">10</div>
+                    </div>
+                </div>
+<div class="col-xs-6 col-sm-3">
+                    <div class="row">
+                        <div class="col-xs-8">
+                            <a class="gc-category" target="_self" href="/stat_graphs.shtml#Uncategorized" data-track-event="Gene Category" data-ga-label="Uncategorized">
+                                Uncategorized
+                            </a>
+                        </div>
+                        <div class="col-xs-4">1,676</div>
+                    </div>
+                </div>
+        </div>
+        
+        <div>
+            <h2>Additional Examples</h2>
+            <div class="row">
+                <div class="col-xs-4"><strong>Category</strong></div>
+                <div class="col-xs-8"><strong>Example Genes</strong></div>
+            </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <a class="gc-category " target="_self" href="/stat_graphs.shtml#ProteinCoding" data-track-event="Gene Category" data-ga-label="Protein-coding">
+                            Protein-coding
+                        </a>
+                    </div>
+                    <div class="col-xs-8">
+                        <ul class="list-inline">
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=FGFR2" title="GeneCard for FGFR2" data-track-event="Promoted Gene" data-ga-label="FGFR2">
+                                        FGFR2
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=FGFR3" title="GeneCard for FGFR3" data-track-event="Promoted Gene" data-ga-label="FGFR3">
+                                        FGFR3
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=FGFR1" title="GeneCard for FGFR1" data-track-event="Promoted Gene" data-ga-label="FGFR1">
+                                        FGFR1
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=EGFR" title="GeneCard for EGFR" data-track-event="Promoted Gene" data-ga-label="EGFR">
+                                        EGFR
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=ERBB2" title="GeneCard for ERBB2" data-track-event="Promoted Gene" data-ga-label="ERBB2">
+                                        ERBB2
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MTOR" title="GeneCard for MTOR" data-track-event="Promoted Gene" data-ga-label="MTOR">
+                                        MTOR
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=PTPN11" title="GeneCard for PTPN11" data-track-event="Promoted Gene" data-ga-label="PTPN11">
+                                        PTPN11
+                                    </span>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <a class="gc-category " target="_self" href="/stat_graphs.shtml#RnaGenes" data-track-event="Gene Category" data-ga-label="ncRNA genes">
+                            ncRNA genes
+                        </a>
+                    </div>
+                    <div class="col-xs-8">
+                        <ul class="list-inline">
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <a class="gc-category gc-category-sub" target="_self" href="/stat_graphs.shtml#LncRNAs" data-track-event="Gene Category" data-ga-label="lncRNAs">
+                            lncRNAs
+                        </a>
+                    </div>
+                    <div class="col-xs-8">
+                        <ul class="list-inline">
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=OFCC1" title="GeneCard for OFCC1" data-track-event="Promoted Gene" data-ga-label="OFCC1">
+                                        OFCC1
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SFTA3" title="GeneCard for SFTA3" data-track-event="Promoted Gene" data-ga-label="SFTA3">
+                                        SFTA3
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SPATA8" title="GeneCard for SPATA8" data-track-event="Promoted Gene" data-ga-label="SPATA8">
+                                        SPATA8
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SLC22A18AS" title="GeneCard for SLC22A18AS" data-track-event="Promoted Gene" data-ga-label="SLC22A18AS">
+                                        SLC22A18AS
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=TMEM105" title="GeneCard for TMEM105" data-track-event="Promoted Gene" data-ga-label="TMEM105">
+                                        TMEM105
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MIR1915HG" title="GeneCard for MIR1915HG" data-track-event="Promoted Gene" data-ga-label="MIR1915HG">
+                                        MIR1915HG
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=HCP5" title="GeneCard for HCP5" data-track-event="Promoted Gene" data-ga-label="HCP5">
+                                        HCP5
+                                    </span>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <a class="gc-category gc-category-sub" target="_self" href="/stat_graphs.shtml#PiRncRNAs" data-track-event="Gene Category" data-ga-label="piRNAs">
+                            piRNAs
+                        </a>
+                    </div>
+                    <div class="col-xs-8">
+                        <ul class="list-inline">
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=piR-61945-394" title="GeneCard for piR-61945-394" data-track-event="Promoted Gene" data-ga-label="piR-61945-394">
+                                        piR-61945-394
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=piR-61939" title="GeneCard for piR-61939" data-track-event="Promoted Gene" data-ga-label="piR-61939">
+                                        piR-61939
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=piR-61912" title="GeneCard for piR-61912" data-track-event="Promoted Gene" data-ga-label="piR-61912">
+                                        piR-61912
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=piR-60456" title="GeneCard for piR-60456" data-track-event="Promoted Gene" data-ga-label="piR-60456">
+                                        piR-60456
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=piR-60031-012" title="GeneCard for piR-60031-012" data-track-event="Promoted Gene" data-ga-label="piR-60031-012">
+                                        piR-60031-012
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=piR-59858" title="GeneCard for piR-59858" data-track-event="Promoted Gene" data-ga-label="piR-59858">
+                                        piR-59858
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=piR-57460-707" title="GeneCard for piR-57460-707" data-track-event="Promoted Gene" data-ga-label="piR-57460-707">
+                                        piR-57460-707
+                                    </span>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <a class="gc-category gc-category-sub" target="_self" href="/stat_graphs.shtml#MiNcRNAs" data-track-event="Gene Category" data-ga-label="miRNAs">
+                            miRNAs
+                        </a>
+                    </div>
+                    <div class="col-xs-8">
+                        <ul class="list-inline">
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MIR27A" title="GeneCard for MIR27A" data-track-event="Promoted Gene" data-ga-label="MIR27A">
+                                        MIR27A
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MIR21" title="GeneCard for MIR21" data-track-event="Promoted Gene" data-ga-label="MIR21">
+                                        MIR21
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MIR204" title="GeneCard for MIR204" data-track-event="Promoted Gene" data-ga-label="MIR204">
+                                        MIR204
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MIR149" title="GeneCard for MIR149" data-track-event="Promoted Gene" data-ga-label="MIR149">
+                                        MIR149
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MIR145" title="GeneCard for MIR145" data-track-event="Promoted Gene" data-ga-label="MIR145">
+                                        MIR145
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MIR143" title="GeneCard for MIR143" data-track-event="Promoted Gene" data-ga-label="MIR143">
+                                        MIR143
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MIR140" title="GeneCard for MIR140" data-track-event="Promoted Gene" data-ga-label="MIR140">
+                                        MIR140
+                                    </span>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <a class="gc-category gc-category-sub" target="_self" href="/stat_graphs.shtml#RNcRNAs" data-track-event="Gene Category" data-ga-label="rRNAs">
+                            rRNAs
+                        </a>
+                    </div>
+                    <div class="col-xs-8">
+                        <ul class="list-inline">
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MT-RNR2" title="GeneCard for MT-RNR2" data-track-event="Promoted Gene" data-ga-label="MT-RNR2">
+                                        MT-RNR2
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MT-RNR1" title="GeneCard for MT-RNR1" data-track-event="Promoted Gene" data-ga-label="MT-RNR1">
+                                        MT-RNR1
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RNA5S15" title="GeneCard for RNA5S15" data-track-event="Promoted Gene" data-ga-label="RNA5S15">
+                                        RNA5S15
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RNA5S12" title="GeneCard for RNA5S12" data-track-event="Promoted Gene" data-ga-label="RNA5S12">
+                                        RNA5S12
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RNA5S11" title="GeneCard for RNA5S11" data-track-event="Promoted Gene" data-ga-label="RNA5S11">
+                                        RNA5S11
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RNA5S8" title="GeneCard for RNA5S8" data-track-event="Promoted Gene" data-ga-label="RNA5S8">
+                                        RNA5S8
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RNA5S7" title="GeneCard for RNA5S7" data-track-event="Promoted Gene" data-ga-label="RNA5S7">
+                                        RNA5S7
+                                    </span>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <a class="gc-category gc-category-sub" target="_self" href="/stat_graphs.shtml#TNcRNAs" data-track-event="Gene Category" data-ga-label="tRNAs">
+                            tRNAs
+                        </a>
+                    </div>
+                    <div class="col-xs-8">
+                        <ul class="list-inline">
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MT-TL1" title="GeneCard for MT-TL1" data-track-event="Promoted Gene" data-ga-label="MT-TL1">
+                                        MT-TL1
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MT-TT" title="GeneCard for MT-TT" data-track-event="Promoted Gene" data-ga-label="MT-TT">
+                                        MT-TT
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MT-TS1" title="GeneCard for MT-TS1" data-track-event="Promoted Gene" data-ga-label="MT-TS1">
+                                        MT-TS1
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MT-TF" title="GeneCard for MT-TF" data-track-event="Promoted Gene" data-ga-label="MT-TF">
+                                        MT-TF
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MT-TV" title="GeneCard for MT-TV" data-track-event="Promoted Gene" data-ga-label="MT-TV">
+                                        MT-TV
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MT-TK" title="GeneCard for MT-TK" data-track-event="Promoted Gene" data-ga-label="MT-TK">
+                                        MT-TK
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MT-TI" title="GeneCard for MT-TI" data-track-event="Promoted Gene" data-ga-label="MT-TI">
+                                        MT-TI
+                                    </span>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <a class="gc-category gc-category-sub" target="_self" href="/stat_graphs.shtml#SnoNcRNAs" data-track-event="Gene Category" data-ga-label="snoRNAs">
+                            snoRNAs
+                        </a>
+                    </div>
+                    <div class="col-xs-8">
+                        <ul class="list-inline">
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SNORA62" title="GeneCard for SNORA62" data-track-event="Promoted Gene" data-ga-label="SNORA62">
+                                        SNORA62
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SCARNA6" title="GeneCard for SCARNA6" data-track-event="Promoted Gene" data-ga-label="SCARNA6">
+                                        SCARNA6
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SNORD89" title="GeneCard for SNORD89" data-track-event="Promoted Gene" data-ga-label="SNORD89">
+                                        SNORD89
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SNORD3A" title="GeneCard for SNORD3A" data-track-event="Promoted Gene" data-ga-label="SNORD3A">
+                                        SNORD3A
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SNORD118" title="GeneCard for SNORD118" data-track-event="Promoted Gene" data-ga-label="SNORD118">
+                                        SNORD118
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SNORA73B" title="GeneCard for SNORA73B" data-track-event="Promoted Gene" data-ga-label="SNORA73B">
+                                        SNORA73B
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SNORA64" title="GeneCard for SNORA64" data-track-event="Promoted Gene" data-ga-label="SNORA64">
+                                        SNORA64
+                                    </span>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <a class="gc-category gc-category-sub" target="_self" href="/stat_graphs.shtml#SrpNcRNAs" data-track-event="Gene Category" data-ga-label="SRP RNAs">
+                            SRP RNAs
+                        </a>
+                    </div>
+                    <div class="col-xs-8">
+                        <ul class="list-inline">
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RN7SL2" title="GeneCard for RN7SL2" data-track-event="Promoted Gene" data-ga-label="RN7SL2">
+                                        RN7SL2
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RN7SL1" title="GeneCard for RN7SL1" data-track-event="Promoted Gene" data-ga-label="RN7SL1">
+                                        RN7SL1
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RN7SL3" title="GeneCard for RN7SL3" data-track-event="Promoted Gene" data-ga-label="RN7SL3">
+                                        RN7SL3
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RF00017-945" title="GeneCard for RF00017-945" data-track-event="Promoted Gene" data-ga-label="RF00017-945">
+                                        RF00017-945
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RF00017-8482" title="GeneCard for RF00017-8482" data-track-event="Promoted Gene" data-ga-label="RF00017-8482">
+                                        RF00017-8482
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RF00017-8365" title="GeneCard for RF00017-8365" data-track-event="Promoted Gene" data-ga-label="RF00017-8365">
+                                        RF00017-8365
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RF00017-8144" title="GeneCard for RF00017-8144" data-track-event="Promoted Gene" data-ga-label="RF00017-8144">
+                                        RF00017-8144
+                                    </span>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <a class="gc-category gc-category-sub" target="_self" href="/stat_graphs.shtml#OtherNcRNAs" data-track-event="Gene Category" data-ga-label="other ncRNAs">
+                            other ncRNAs
+                        </a>
+                    </div>
+                    <div class="col-xs-8">
+                        <ul class="list-inline">
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=TERC" title="GeneCard for TERC" data-track-event="Promoted Gene" data-ga-label="TERC">
+                                        TERC
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RNU4ATAC" title="GeneCard for RNU4ATAC" data-track-event="Promoted Gene" data-ga-label="RNU4ATAC">
+                                        RNU4ATAC
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SCARNA8" title="GeneCard for SCARNA8" data-track-event="Promoted Gene" data-ga-label="SCARNA8">
+                                        SCARNA8
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SCARNA7" title="GeneCard for SCARNA7" data-track-event="Promoted Gene" data-ga-label="SCARNA7">
+                                        SCARNA7
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SCARNA13" title="GeneCard for SCARNA13" data-track-event="Promoted Gene" data-ga-label="SCARNA13">
+                                        SCARNA13
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SCARNA1" title="GeneCard for SCARNA1" data-track-event="Promoted Gene" data-ga-label="SCARNA1">
+                                        SCARNA1
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RPPH1" title="GeneCard for RPPH1" data-track-event="Promoted Gene" data-ga-label="RPPH1">
+                                        RPPH1
+                                    </span>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <a class="gc-category " target="_self" href="/stat_graphs.shtml#FunctionalElements" data-track-event="Gene Category" data-ga-label="Functional elements">
+                            Functional elements
+                        </a>
+                    </div>
+                    <div class="col-xs-8">
+                        <ul class="list-inline">
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=FRAXA" title="GeneCard for FRAXA" data-track-event="Promoted Gene" data-ga-label="FRAXA">
+                                        FRAXA
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=FRAXE" title="GeneCard for FRAXE" data-track-event="Promoted Gene" data-ga-label="FRAXE">
+                                        FRAXE
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=H19-ICR" title="GeneCard for H19-ICR" data-track-event="Promoted Gene" data-ga-label="H19-ICR">
+                                        H19-ICR
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=HBB-LCR" title="GeneCard for HBB-LCR" data-track-event="Promoted Gene" data-ga-label="HBB-LCR">
+                                        HBB-LCR
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=LOC111365204" title="GeneCard for LOC111365204" data-track-event="Promoted Gene" data-ga-label="LOC111365204">
+                                        LOC111365204
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=FRA10A" title="GeneCard for FRA10A" data-track-event="Promoted Gene" data-ga-label="FRA10A">
+                                        FRA10A
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=FRA10B" title="GeneCard for FRA10B" data-track-event="Promoted Gene" data-ga-label="FRA10B">
+                                        FRA10B
+                                    </span>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <a class="gc-category " target="_self" href="/stat_graphs.shtml#Pseudogenes" data-track-event="Gene Category" data-ga-label="Pseudogenes">
+                            Pseudogenes
+                        </a>
+                    </div>
+                    <div class="col-xs-8">
+                        <ul class="list-inline">
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=BIRC8" title="GeneCard for BIRC8" data-track-event="Promoted Gene" data-ga-label="BIRC8">
+                                        BIRC8
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=GUCY1B2" title="GeneCard for GUCY1B2" data-track-event="Promoted Gene" data-ga-label="GUCY1B2">
+                                        GUCY1B2
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SLC26A10P" title="GeneCard for SLC26A10P" data-track-event="Promoted Gene" data-ga-label="SLC26A10P">
+                                        SLC26A10P
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=GNRHR2" title="GeneCard for GNRHR2" data-track-event="Promoted Gene" data-ga-label="GNRHR2">
+                                        GNRHR2
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=C19orf48" title="GeneCard for C19orf48" data-track-event="Promoted Gene" data-ga-label="C19orf48">
+                                        C19orf48
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=TRIM16L" title="GeneCard for TRIM16L" data-track-event="Promoted Gene" data-ga-label="TRIM16L">
+                                        TRIM16L
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=CLECL1P" title="GeneCard for CLECL1P" data-track-event="Promoted Gene" data-ga-label="CLECL1P">
+                                        CLECL1P
+                                    </span>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <a class="gc-category " target="_self" href="/stat_graphs.shtml#GeneticLoci" data-track-event="Gene Category" data-ga-label="Genetic loci">
+                            Genetic loci
+                        </a>
+                    </div>
+                    <div class="col-xs-8">
+                        <ul class="list-inline">
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=ERVE-1" title="GeneCard for ERVE-1" data-track-event="Promoted Gene" data-ga-label="ERVE-1">
+                                        ERVE-1
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=TRBD2" title="GeneCard for TRBD2" data-track-event="Promoted Gene" data-ga-label="TRBD2">
+                                        TRBD2
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=VIS1" title="GeneCard for VIS1" data-track-event="Promoted Gene" data-ga-label="VIS1">
+                                        VIS1
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=ERDA1" title="GeneCard for ERDA1" data-track-event="Promoted Gene" data-ga-label="ERDA1">
+                                        ERDA1
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=IFNR" title="GeneCard for IFNR" data-track-event="Promoted Gene" data-ga-label="IFNR">
+                                        IFNR
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=IGKDEL" title="GeneCard for IGKDEL" data-track-event="Promoted Gene" data-ga-label="IGKDEL">
+                                        IGKDEL
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=ST2" title="GeneCard for ST2" data-track-event="Promoted Gene" data-ga-label="ST2">
+                                        ST2
+                                    </span>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <a class="gc-category " target="_self" href="/stat_graphs.shtml#GeneClusters" data-track-event="Gene Category" data-ga-label="Gene clusters">
+                            Gene clusters
+                        </a>
+                    </div>
+                    <div class="col-xs-8">
+                        <ul class="list-inline">
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=PCDHG%40" title="GeneCard for PCDHG@" data-track-event="Promoted Gene" data-ga-label="PCDHG@">
+                                        PCDHG@
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=PCDHB%40" title="GeneCard for PCDHB@" data-track-event="Promoted Gene" data-ga-label="PCDHB@">
+                                        PCDHB@
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=IGKV%40" title="GeneCard for IGKV@" data-track-event="Promoted Gene" data-ga-label="IGKV@">
+                                        IGKV@
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=IGLV%40" title="GeneCard for IGLV@" data-track-event="Promoted Gene" data-ga-label="IGLV@">
+                                        IGLV@
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=HOXD%40" title="GeneCard for HOXD@" data-track-event="Promoted Gene" data-ga-label="HOXD@">
+                                        HOXD@
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=HOXA%40" title="GeneCard for HOXA@" data-track-event="Promoted Gene" data-ga-label="HOXA@">
+                                        HOXA@
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=HOXB%40" title="GeneCard for HOXB@" data-track-event="Promoted Gene" data-ga-label="HOXB@">
+                                        HOXB@
+                                    </span>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <a class="gc-category " target="_self" href="/stat_graphs.shtml#Uncategorized" data-track-event="Gene Category" data-ga-label="Uncategorized">
+                            Uncategorized
+                        </a>
+                    </div>
+                    <div class="col-xs-8">
+                        <ul class="list-inline">
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=C20orf181" title="GeneCard for C20orf181" data-track-event="Promoted Gene" data-ga-label="C20orf181">
+                                        C20orf181
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=ERVH-1" title="GeneCard for ERVH-1" data-track-event="Promoted Gene" data-ga-label="ERVH-1">
+                                        ERVH-1
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=ERVK9-11" title="GeneCard for ERVK9-11" data-track-event="Promoted Gene" data-ga-label="ERVK9-11">
+                                        ERVK9-11
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=UGT1A" title="GeneCard for UGT1A" data-track-event="Promoted Gene" data-ga-label="UGT1A">
+                                        UGT1A
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=KHDRBS2-OT1" title="GeneCard for KHDRBS2-OT1" data-track-event="Promoted Gene" data-ga-label="KHDRBS2-OT1">
+                                        KHDRBS2-OT1
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=LINC02973" title="GeneCard for LINC02973" data-track-event="Promoted Gene" data-ga-label="LINC02973">
+                                        LINC02973
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=TRAJ15" title="GeneCard for TRAJ15" data-track-event="Promoted Gene" data-ga-label="TRAJ15">
+                                        TRAJ15
+                                    </span>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+        </div>
+
+    </div>
+
+    
+    <div class="col-xs-11 hidden-xs">
+        <div id="generalStatisticsTable">
+            <table class="table table-very-condensed">
+                <tbody>
+                        <tr>
+                            <td style="white-space: nowrap;"><a class="gc-ga-link " data-ga-action="Database Statistics" data-ga-label="Total genes" href="List/Statistics#All" target="_self">Total genes</a></td>
+                            <td>416,392</td>
+                        </tr>
+                        <tr>
+                            <td style="white-space: nowrap;"><a class="gc-ga-link " data-ga-action="Database Statistics" data-ga-label="HGNC approved" href="List/Statistics#HgncApproved" target="_self">HGNC approved</a></td>
+                            <td>43,529</td>
+                        </tr>
+                        <tr>
+                            <td style="white-space: nowrap;"><a class="gc-ga-link " data-ga-action="Database Statistics" data-ga-label="Disease genes" href="cgi-bin/listdiseasecards.pl" target="_self">Disease genes</a></td>
+                            <td>19,752</td>
+                        </tr>
+                        <tr>
+                            <td style="white-space: nowrap;"><a class="gc-ga-link " data-ga-action="Database Statistics" data-ga-label="Hot genes" href="List/HotGenes" target="_self">Hot genes</a></td>
+                            <td>500</td>
+                        </tr>
+                </tbody>
+            </table>
+        </div>
+        <div id="promotedGenesTable">
+            <table class="table table-very-condensed">
+                <thead>
+                    <tr>
+                        <th id="category">Category <a class="gc-help-icon glyphicon glyphicon-question-sign" data-ga-action="Help Icon Click" href="/Guide/GeneCard#tocEl-2" rel="nofollow" target="_blank" title="See more information in the GeneCards Guide"></a></th>
+                        <th id="geneCount"># of Genes</th>
+                        <th id="promotedGenes">Example Genes</th>
+                    </tr>
+                </thead>
+                <tbody>
+<tr>
+                            <td class="">
+                                <a class="gc-category gc-category-protein-coding " target="_self" href="/stat_graphs.shtml#ProteinCoding" data-track-event="Gene Category" data-ga-label="Protein-coding">
+                                    Protein-coding
+                                </a>
+
+                            </td>
+                            <td>21,637</td>
+                            <td>
+                                <ul class="list-inline">
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=FGFR2" title="GeneCard for FGFR2" data-track-event="Promoted Gene" data-ga-label="FGFR2">
+                                                FGFR2
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=FGFR3" title="GeneCard for FGFR3" data-track-event="Promoted Gene" data-ga-label="FGFR3">
+                                                FGFR3
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=FGFR1" title="GeneCard for FGFR1" data-track-event="Promoted Gene" data-ga-label="FGFR1">
+                                                FGFR1
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=EGFR" title="GeneCard for EGFR" data-track-event="Promoted Gene" data-ga-label="EGFR">
+                                                EGFR
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=ERBB2" title="GeneCard for ERBB2" data-track-event="Promoted Gene" data-ga-label="ERBB2">
+                                                ERBB2
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MTOR" title="GeneCard for MTOR" data-track-event="Promoted Gene" data-ga-label="MTOR">
+                                                MTOR
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=PTPN11" title="GeneCard for PTPN11" data-track-event="Promoted Gene" data-ga-label="PTPN11">
+                                                PTPN11
+                                            </span>
+                                        </li>
+                                </ul>
+                            </td>
+                        </tr>
+<tr>
+                            <td class="">
+                                <a class="gc-category gc-category-rna-gene " target="_self" href="/stat_graphs.shtml#RnaGenes" data-track-event="Gene Category" data-ga-label="ncRNA genes">
+                                    ncRNA genes
+                                </a>
+
+                            </td>
+                            <td>293,262</td>
+                            <td>
+                                <ul class="list-inline">
+                                </ul>
+                            </td>
+                        </tr>
+<tr>
+                            <td class="">
+                                <a class="gc-category gc-category-rna-gene gc-category-sub" target="_self" href="/stat_graphs.shtml#LncRNAs" data-track-event="Gene Category" data-ga-label="lncRNAs">
+                                    lncRNAs
+                                </a>
+
+                            </td>
+                            <td>131,025</td>
+                            <td>
+                                <ul class="list-inline">
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=OFCC1" title="GeneCard for OFCC1" data-track-event="Promoted Gene" data-ga-label="OFCC1">
+                                                OFCC1
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SFTA3" title="GeneCard for SFTA3" data-track-event="Promoted Gene" data-ga-label="SFTA3">
+                                                SFTA3
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SPATA8" title="GeneCard for SPATA8" data-track-event="Promoted Gene" data-ga-label="SPATA8">
+                                                SPATA8
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SLC22A18AS" title="GeneCard for SLC22A18AS" data-track-event="Promoted Gene" data-ga-label="SLC22A18AS">
+                                                SLC22A18AS
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=TMEM105" title="GeneCard for TMEM105" data-track-event="Promoted Gene" data-ga-label="TMEM105">
+                                                TMEM105
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MIR1915HG" title="GeneCard for MIR1915HG" data-track-event="Promoted Gene" data-ga-label="MIR1915HG">
+                                                MIR1915HG
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=HCP5" title="GeneCard for HCP5" data-track-event="Promoted Gene" data-ga-label="HCP5">
+                                                HCP5
+                                            </span>
+                                        </li>
+                                </ul>
+                            </td>
+                        </tr>
+<tr>
+                            <td class="">
+                                <a class="gc-category gc-category-rna-gene gc-category-sub" target="_self" href="/stat_graphs.shtml#PiRncRNAs" data-track-event="Gene Category" data-ga-label="piRNAs">
+                                    piRNAs
+                                </a>
+
+                            </td>
+                            <td>111,811</td>
+                            <td>
+                                <ul class="list-inline">
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=piR-61945-394" title="GeneCard for piR-61945-394" data-track-event="Promoted Gene" data-ga-label="piR-61945-394">
+                                                piR-61945-394
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=piR-61939" title="GeneCard for piR-61939" data-track-event="Promoted Gene" data-ga-label="piR-61939">
+                                                piR-61939
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=piR-61912" title="GeneCard for piR-61912" data-track-event="Promoted Gene" data-ga-label="piR-61912">
+                                                piR-61912
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=piR-60456" title="GeneCard for piR-60456" data-track-event="Promoted Gene" data-ga-label="piR-60456">
+                                                piR-60456
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=piR-60031-012" title="GeneCard for piR-60031-012" data-track-event="Promoted Gene" data-ga-label="piR-60031-012">
+                                                piR-60031-012
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=piR-59858" title="GeneCard for piR-59858" data-track-event="Promoted Gene" data-ga-label="piR-59858">
+                                                piR-59858
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=piR-57460-707" title="GeneCard for piR-57460-707" data-track-event="Promoted Gene" data-ga-label="piR-57460-707">
+                                                piR-57460-707
+                                            </span>
+                                        </li>
+                                </ul>
+                            </td>
+                        </tr>
+<tr>
+                            <td class="">
+                                <a class="gc-category gc-category-rna-gene gc-category-sub" target="_self" href="/stat_graphs.shtml#MiNcRNAs" data-track-event="Gene Category" data-ga-label="miRNAs">
+                                    miRNAs
+                                </a>
+
+                            </td>
+                            <td>9,251</td>
+                            <td>
+                                <ul class="list-inline">
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MIR27A" title="GeneCard for MIR27A" data-track-event="Promoted Gene" data-ga-label="MIR27A">
+                                                MIR27A
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MIR21" title="GeneCard for MIR21" data-track-event="Promoted Gene" data-ga-label="MIR21">
+                                                MIR21
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MIR204" title="GeneCard for MIR204" data-track-event="Promoted Gene" data-ga-label="MIR204">
+                                                MIR204
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MIR149" title="GeneCard for MIR149" data-track-event="Promoted Gene" data-ga-label="MIR149">
+                                                MIR149
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MIR145" title="GeneCard for MIR145" data-track-event="Promoted Gene" data-ga-label="MIR145">
+                                                MIR145
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MIR143" title="GeneCard for MIR143" data-track-event="Promoted Gene" data-ga-label="MIR143">
+                                                MIR143
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MIR140" title="GeneCard for MIR140" data-track-event="Promoted Gene" data-ga-label="MIR140">
+                                                MIR140
+                                            </span>
+                                        </li>
+                                </ul>
+                            </td>
+                        </tr>
+<tr>
+                            <td class="">
+                                <a class="gc-category gc-category-rna-gene gc-category-sub" target="_self" href="/stat_graphs.shtml#RNcRNAs" data-track-event="Gene Category" data-ga-label="rRNAs">
+                                    rRNAs
+                                </a>
+
+                            </td>
+                            <td>1,282</td>
+                            <td>
+                                <ul class="list-inline">
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MT-RNR2" title="GeneCard for MT-RNR2" data-track-event="Promoted Gene" data-ga-label="MT-RNR2">
+                                                MT-RNR2
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MT-RNR1" title="GeneCard for MT-RNR1" data-track-event="Promoted Gene" data-ga-label="MT-RNR1">
+                                                MT-RNR1
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RNA5S15" title="GeneCard for RNA5S15" data-track-event="Promoted Gene" data-ga-label="RNA5S15">
+                                                RNA5S15
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RNA5S12" title="GeneCard for RNA5S12" data-track-event="Promoted Gene" data-ga-label="RNA5S12">
+                                                RNA5S12
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RNA5S11" title="GeneCard for RNA5S11" data-track-event="Promoted Gene" data-ga-label="RNA5S11">
+                                                RNA5S11
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RNA5S8" title="GeneCard for RNA5S8" data-track-event="Promoted Gene" data-ga-label="RNA5S8">
+                                                RNA5S8
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RNA5S7" title="GeneCard for RNA5S7" data-track-event="Promoted Gene" data-ga-label="RNA5S7">
+                                                RNA5S7
+                                            </span>
+                                        </li>
+                                </ul>
+                            </td>
+                        </tr>
+<tr>
+                            <td class="">
+                                <a class="gc-category gc-category-rna-gene gc-category-sub" target="_self" href="/stat_graphs.shtml#TNcRNAs" data-track-event="Gene Category" data-ga-label="tRNAs">
+                                    tRNAs
+                                </a>
+
+                            </td>
+                            <td>1,388</td>
+                            <td>
+                                <ul class="list-inline">
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MT-TL1" title="GeneCard for MT-TL1" data-track-event="Promoted Gene" data-ga-label="MT-TL1">
+                                                MT-TL1
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MT-TT" title="GeneCard for MT-TT" data-track-event="Promoted Gene" data-ga-label="MT-TT">
+                                                MT-TT
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MT-TS1" title="GeneCard for MT-TS1" data-track-event="Promoted Gene" data-ga-label="MT-TS1">
+                                                MT-TS1
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MT-TF" title="GeneCard for MT-TF" data-track-event="Promoted Gene" data-ga-label="MT-TF">
+                                                MT-TF
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MT-TV" title="GeneCard for MT-TV" data-track-event="Promoted Gene" data-ga-label="MT-TV">
+                                                MT-TV
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MT-TK" title="GeneCard for MT-TK" data-track-event="Promoted Gene" data-ga-label="MT-TK">
+                                                MT-TK
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=MT-TI" title="GeneCard for MT-TI" data-track-event="Promoted Gene" data-ga-label="MT-TI">
+                                                MT-TI
+                                            </span>
+                                        </li>
+                                </ul>
+                            </td>
+                        </tr>
+<tr>
+                            <td class="">
+                                <a class="gc-category gc-category-rna-gene gc-category-sub" target="_self" href="/stat_graphs.shtml#SnoNcRNAs" data-track-event="Gene Category" data-ga-label="snoRNAs">
+                                    snoRNAs
+                                </a>
+
+                            </td>
+                            <td>1,907</td>
+                            <td>
+                                <ul class="list-inline">
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SNORA62" title="GeneCard for SNORA62" data-track-event="Promoted Gene" data-ga-label="SNORA62">
+                                                SNORA62
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SCARNA6" title="GeneCard for SCARNA6" data-track-event="Promoted Gene" data-ga-label="SCARNA6">
+                                                SCARNA6
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SNORD89" title="GeneCard for SNORD89" data-track-event="Promoted Gene" data-ga-label="SNORD89">
+                                                SNORD89
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SNORD3A" title="GeneCard for SNORD3A" data-track-event="Promoted Gene" data-ga-label="SNORD3A">
+                                                SNORD3A
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SNORD118" title="GeneCard for SNORD118" data-track-event="Promoted Gene" data-ga-label="SNORD118">
+                                                SNORD118
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SNORA73B" title="GeneCard for SNORA73B" data-track-event="Promoted Gene" data-ga-label="SNORA73B">
+                                                SNORA73B
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SNORA64" title="GeneCard for SNORA64" data-track-event="Promoted Gene" data-ga-label="SNORA64">
+                                                SNORA64
+                                            </span>
+                                        </li>
+                                </ul>
+                            </td>
+                        </tr>
+<tr>
+                            <td class="">
+                                <a class="gc-category gc-category-rna-gene gc-category-sub" target="_self" href="/stat_graphs.shtml#SrpNcRNAs" data-track-event="Gene Category" data-ga-label="SRP RNAs">
+                                    SRP RNAs
+                                </a>
+
+                            </td>
+                            <td>9,045</td>
+                            <td>
+                                <ul class="list-inline">
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RN7SL2" title="GeneCard for RN7SL2" data-track-event="Promoted Gene" data-ga-label="RN7SL2">
+                                                RN7SL2
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RN7SL1" title="GeneCard for RN7SL1" data-track-event="Promoted Gene" data-ga-label="RN7SL1">
+                                                RN7SL1
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RN7SL3" title="GeneCard for RN7SL3" data-track-event="Promoted Gene" data-ga-label="RN7SL3">
+                                                RN7SL3
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RF00017-945" title="GeneCard for RF00017-945" data-track-event="Promoted Gene" data-ga-label="RF00017-945">
+                                                RF00017-945
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RF00017-8482" title="GeneCard for RF00017-8482" data-track-event="Promoted Gene" data-ga-label="RF00017-8482">
+                                                RF00017-8482
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RF00017-8365" title="GeneCard for RF00017-8365" data-track-event="Promoted Gene" data-ga-label="RF00017-8365">
+                                                RF00017-8365
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RF00017-8144" title="GeneCard for RF00017-8144" data-track-event="Promoted Gene" data-ga-label="RF00017-8144">
+                                                RF00017-8144
+                                            </span>
+                                        </li>
+                                </ul>
+                            </td>
+                        </tr>
+<tr>
+                            <td class="">
+                                <a class="gc-category gc-category-rna-gene gc-category-sub" target="_self" href="/stat_graphs.shtml#OtherNcRNAs" data-track-event="Gene Category" data-ga-label="other ncRNAs">
+                                    other ncRNAs
+                                </a>
+
+                            </td>
+                            <td>27,553</td>
+                            <td>
+                                <ul class="list-inline">
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=TERC" title="GeneCard for TERC" data-track-event="Promoted Gene" data-ga-label="TERC">
+                                                TERC
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RNU4ATAC" title="GeneCard for RNU4ATAC" data-track-event="Promoted Gene" data-ga-label="RNU4ATAC">
+                                                RNU4ATAC
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SCARNA8" title="GeneCard for SCARNA8" data-track-event="Promoted Gene" data-ga-label="SCARNA8">
+                                                SCARNA8
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SCARNA7" title="GeneCard for SCARNA7" data-track-event="Promoted Gene" data-ga-label="SCARNA7">
+                                                SCARNA7
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SCARNA13" title="GeneCard for SCARNA13" data-track-event="Promoted Gene" data-ga-label="SCARNA13">
+                                                SCARNA13
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SCARNA1" title="GeneCard for SCARNA1" data-track-event="Promoted Gene" data-ga-label="SCARNA1">
+                                                SCARNA1
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=RPPH1" title="GeneCard for RPPH1" data-track-event="Promoted Gene" data-ga-label="RPPH1">
+                                                RPPH1
+                                            </span>
+                                        </li>
+                                </ul>
+                            </td>
+                        </tr>
+<tr>
+                            <td class="">
+                                <a class="gc-category gc-category-functional-element " target="_self" href="/stat_graphs.shtml#FunctionalElements" data-track-event="Gene Category" data-ga-label="Functional elements">
+                                    Functional elements
+                                </a>
+
+                            </td>
+                            <td>76,193</td>
+                            <td>
+                                <ul class="list-inline">
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=FRAXA" title="GeneCard for FRAXA" data-track-event="Promoted Gene" data-ga-label="FRAXA">
+                                                FRAXA
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=FRAXE" title="GeneCard for FRAXE" data-track-event="Promoted Gene" data-ga-label="FRAXE">
+                                                FRAXE
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=H19-ICR" title="GeneCard for H19-ICR" data-track-event="Promoted Gene" data-ga-label="H19-ICR">
+                                                H19-ICR
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=HBB-LCR" title="GeneCard for HBB-LCR" data-track-event="Promoted Gene" data-ga-label="HBB-LCR">
+                                                HBB-LCR
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=LOC111365204" title="GeneCard for LOC111365204" data-track-event="Promoted Gene" data-ga-label="LOC111365204">
+                                                LOC111365204
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=FRA10A" title="GeneCard for FRA10A" data-track-event="Promoted Gene" data-ga-label="FRA10A">
+                                                FRA10A
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=FRA10B" title="GeneCard for FRA10B" data-track-event="Promoted Gene" data-ga-label="FRA10B">
+                                                FRA10B
+                                            </span>
+                                        </li>
+                                </ul>
+                            </td>
+                        </tr>
+<tr>
+                            <td class="">
+                                <a class="gc-category gc-category-pseudogene " target="_self" href="/stat_graphs.shtml#Pseudogenes" data-track-event="Gene Category" data-ga-label="Pseudogenes">
+                                    Pseudogenes
+                                </a>
+
+                            </td>
+                            <td>22,228</td>
+                            <td>
+                                <ul class="list-inline">
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=BIRC8" title="GeneCard for BIRC8" data-track-event="Promoted Gene" data-ga-label="BIRC8">
+                                                BIRC8
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=GUCY1B2" title="GeneCard for GUCY1B2" data-track-event="Promoted Gene" data-ga-label="GUCY1B2">
+                                                GUCY1B2
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=SLC26A10P" title="GeneCard for SLC26A10P" data-track-event="Promoted Gene" data-ga-label="SLC26A10P">
+                                                SLC26A10P
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=GNRHR2" title="GeneCard for GNRHR2" data-track-event="Promoted Gene" data-ga-label="GNRHR2">
+                                                GNRHR2
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=C19orf48" title="GeneCard for C19orf48" data-track-event="Promoted Gene" data-ga-label="C19orf48">
+                                                C19orf48
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=TRIM16L" title="GeneCard for TRIM16L" data-track-event="Promoted Gene" data-ga-label="TRIM16L">
+                                                TRIM16L
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=CLECL1P" title="GeneCard for CLECL1P" data-track-event="Promoted Gene" data-ga-label="CLECL1P">
+                                                CLECL1P
+                                            </span>
+                                        </li>
+                                </ul>
+                            </td>
+                        </tr>
+<tr>
+                            <td class="">
+                                <a class="gc-category gc-category-genetic-locus " target="_self" href="/stat_graphs.shtml#GeneticLoci" data-track-event="Gene Category" data-ga-label="Genetic loci">
+                                    Genetic loci
+                                </a>
+
+                            </td>
+                            <td>1,386</td>
+                            <td>
+                                <ul class="list-inline">
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=ERVE-1" title="GeneCard for ERVE-1" data-track-event="Promoted Gene" data-ga-label="ERVE-1">
+                                                ERVE-1
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=TRBD2" title="GeneCard for TRBD2" data-track-event="Promoted Gene" data-ga-label="TRBD2">
+                                                TRBD2
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=VIS1" title="GeneCard for VIS1" data-track-event="Promoted Gene" data-ga-label="VIS1">
+                                                VIS1
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=ERDA1" title="GeneCard for ERDA1" data-track-event="Promoted Gene" data-ga-label="ERDA1">
+                                                ERDA1
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=IFNR" title="GeneCard for IFNR" data-track-event="Promoted Gene" data-ga-label="IFNR">
+                                                IFNR
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=IGKDEL" title="GeneCard for IGKDEL" data-track-event="Promoted Gene" data-ga-label="IGKDEL">
+                                                IGKDEL
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=ST2" title="GeneCard for ST2" data-track-event="Promoted Gene" data-ga-label="ST2">
+                                                ST2
+                                            </span>
+                                        </li>
+                                </ul>
+                            </td>
+                        </tr>
+<tr>
+                            <td class="">
+                                <a class="gc-category gc-category-gene-cluster " target="_self" href="/stat_graphs.shtml#GeneClusters" data-track-event="Gene Category" data-ga-label="Gene clusters">
+                                    Gene clusters
+                                </a>
+
+                            </td>
+                            <td>10</td>
+                            <td>
+                                <ul class="list-inline">
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=PCDHG%40" title="GeneCard for PCDHG@" data-track-event="Promoted Gene" data-ga-label="PCDHG@">
+                                                PCDHG@
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=PCDHB%40" title="GeneCard for PCDHB@" data-track-event="Promoted Gene" data-ga-label="PCDHB@">
+                                                PCDHB@
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=IGKV%40" title="GeneCard for IGKV@" data-track-event="Promoted Gene" data-ga-label="IGKV@">
+                                                IGKV@
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=IGLV%40" title="GeneCard for IGLV@" data-track-event="Promoted Gene" data-ga-label="IGLV@">
+                                                IGLV@
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=HOXD%40" title="GeneCard for HOXD@" data-track-event="Promoted Gene" data-ga-label="HOXD@">
+                                                HOXD@
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=HOXA%40" title="GeneCard for HOXA@" data-track-event="Promoted Gene" data-ga-label="HOXA@">
+                                                HOXA@
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=HOXB%40" title="GeneCard for HOXB@" data-track-event="Promoted Gene" data-ga-label="HOXB@">
+                                                HOXB@
+                                            </span>
+                                        </li>
+                                </ul>
+                            </td>
+                        </tr>
+<tr>
+                            <td class="">
+                                <a class="gc-category gc-category-uncategorized " target="_self" href="/stat_graphs.shtml#Uncategorized" data-track-event="Gene Category" data-ga-label="Uncategorized">
+                                    Uncategorized
+                                </a>
+
+                            </td>
+                            <td>1,676</td>
+                            <td>
+                                <ul class="list-inline">
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=C20orf181" title="GeneCard for C20orf181" data-track-event="Promoted Gene" data-ga-label="C20orf181">
+                                                C20orf181
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=ERVH-1" title="GeneCard for ERVH-1" data-track-event="Promoted Gene" data-ga-label="ERVH-1">
+                                                ERVH-1
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=ERVK9-11" title="GeneCard for ERVK9-11" data-track-event="Promoted Gene" data-ga-label="ERVK9-11">
+                                                ERVK9-11
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=UGT1A" title="GeneCard for UGT1A" data-track-event="Promoted Gene" data-ga-label="UGT1A">
+                                                UGT1A
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=KHDRBS2-OT1" title="GeneCard for KHDRBS2-OT1" data-track-event="Promoted Gene" data-ga-label="KHDRBS2-OT1">
+                                                KHDRBS2-OT1
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=LINC02973" title="GeneCard for LINC02973" data-track-event="Promoted Gene" data-ga-label="LINC02973">
+                                                LINC02973
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <span class="gc-seo-link" data-url="/cgi-bin/carddisp.pl?gene=TRAJ15" title="GeneCard for TRAJ15" data-track-event="Promoted Gene" data-ga-label="TRAJ15">
+                                                TRAJ15
+                                            </span>
+                                        </li>
+                                </ul>
+                            </td>
+                        </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+        </div>
+        <div id="push" class="row"></div>
+        </div>
+
+        
+
+
+<footer>
+    <div class="container">
+        <div class="clearfix"> 
+            <div class="col-md-10 col-md-offset-1 split-line">
+                <div id="geneIndex" class="row">
+                    <div>The GeneCards human gene database index: </div>
+                    <div>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=1">1</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=3">3</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=4">4</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=5">5</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=6">6</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=7">7</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=A">A</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=B">B</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=C">C</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=D">D</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=E">E</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=F">F</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=G">G</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=H">H</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=I">I</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=J">J</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=K">K</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=L">L</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=M">M</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=N">N</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=O">O</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=P">P</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=Q">Q</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=R">R</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=S">S</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=T">T</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=U">U</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=V">V</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=W">W</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=X">X</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=Y">Y</a>
+                            <a target="_self" href="/cgi-bin/cardlist.pl?letter=Z">Z</a>
+                    </div>
+                </div>
+                <div class="row gc-center-align hidden-md hidden-lg">
+                    <ul class="list-inline gc-list-bullet-separated">
+                        
+                        <li><a href="/Guide/News" target="_self">Release Notes</a></li>
+                        <li><a href="https://www.weizmann.ac.il">Weizmann Institute</a></li>
+                        <li><a href="https://www.lifemapsc.com">LifeMap Sciences Inc</a></li>
+                        <li><a href="/Guide/GeneCardsTeam" target="_self">GeneCards Team</a></li>
+                    </ul>
+                </div>
+                <div class="row gc-center-align">
+                    <ul class="list-inline gc-list-bullet-separated">
+                        <li><span class="gc-seo-link" data-target="_blank" data-url="https://auth.lifemapsc.com/termsofuse">Terms and Conditions</span></li>
+                            <li><a onclick="showKayako()">User Feedback</a></li>
+                        <li><span class="gc-seo-link" data-target="_blank" data-url="https://auth.lifemapsc.com/privacypolicy">Privacy Policy</span></li>
+                    </ul>
+                </div>
+
+                <div class="row gc-center-align">
+                    <div class="col-xs-12">
+                        <b>GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</b>
+                    </div>
+                </div>
+                
+                <div class="row gc-center-align">
+                    <div class="col-xs-12">
+                        Copyright © 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+                        <span title="2023 March 02">v5.14.0 Build 873</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+  
+        <script src="/Scripts/default?v=9Ks2RDvb0u33i6GYodlwjfjcnXnNMnUDP5gUXpbjQwo1"></script>
+
+        
+
+
+<script type="text/javascript">
+    (function (win) {
+        
+        win.LM = new LifeMapController
+        ({
+            baseUrl: 'https://www.genecards.org/',
+            version: '5.14.873.0',
+            pageName: 'Home.Index',
+            pageType: 'Home',
+            authBaseUrl: 'https://auth.lifemapsc.com',
+            geneSymbol: '',
+            isAuthUser: false,
+            requestValidationToken: 'BctYiEZcp-GAPVQNOfFk6v64a75Yi1yptusbt3-fOgRJJ_tdhGn09Bk0R9V39zamo9IwhAuyigFV_N4RcpowJ2vTqAc1',
+            renderFullHtml: false,
+
+            // URLS
+            varElectUrl: 'https://ve.genecards.org',
+            geneAnalyticsUrl: 'https://ga.genecards.org',
+            geneALaCartUrl: 'https://genealacart.genecards.org',
+
+            // Google Analytics properties
+            userAgent: 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36',
+            hid: '2890384041',
+            debugGAEvents: false,
+
+            // Misc settings
+
+            MaximalNumberOfTADBiosamples: 19
+    });
+    })(window);
+</script>
+
+        
+        
+    <!--
+    <script src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.14.873.0" data-container="#suiteBar" data-app="genecards" data-cdn="https://auth.lifemapsc.com" data-li=""></script>
+        -->
+    <script>
+        (function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});
+    </script>
+
+        
+
+
+    
+<div class="eupopup-container eupopup-container-bottom eupopup-color-default" style="display: block;"><div class="eupopup-body">We use cookies to ensure that we give you the best experience on our website. To learn more, please see our</div><div class="eupopup-buttons"><a href="https://qa-auth.lifemapsc.com/privacypolicy" target="_blank" class="eupopup-button eupopup-button_2">&nbsp;Privacy Policy</a><a href="#" class="eupopup-button eupopup-button_1">OK</a><div class="clearfix"></div></div><a href="#" class="eupopup-closebutton">x</a></div><div id="kayako-messenger" style="position: fixed; right: 0px; bottom: 0px; width: 117px; height: 122px; z-index: 2147483000;"><iframe id="kayako-messenger-frame" style="border: none; width: 100%; height: 100%; min-height: initial;"></iframe></div><div class="kykm__sandbox"><div class="kykm__backdrop"></div></div></body></html>

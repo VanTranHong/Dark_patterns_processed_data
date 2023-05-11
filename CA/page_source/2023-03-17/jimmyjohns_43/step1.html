@@ -1,0 +1,563 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><style type="text/css">.mui-textfield.mui-textfield--float-label > label {-webkit-transition:all .15s ease-out;-moz-transition:all .15s ease-out;-o-transition:all .15s ease-out;transition:all .15s ease-out;}</style><style type="text/css">@keyframes mui-btn-inserted{from{transform:none;}to{transform:none;}}.mui-btn{animation-duration:0.0001s;animation-name:mui-btn-inserted;}@keyframes mui-dropdown-inserted{from{transform:none;}to{transform:none;}}[data-mui-toggle="dropdown"]{animation-duration:0.0001s;animation-name:mui-dropdown-inserted;}@keyframes mui-btn-inserted,mui-dropdown-inserted{from{transform:none;}to{transform:none;}}.mui-btn[data-mui-toggle="dropdown"]{animation-duration:0.0001s;animation-name:mui-btn-inserted,mui-dropdown-inserted;}@keyframes mui-tab-inserted{from{transform:none;}to{transform:none;}}[data-mui-toggle="tab"]{animation-duration:0.0001s;animation-name:mui-tab-inserted;}@keyframes mui-textfield-inserted{from{transform:none;}to{transform:none;}}.mui-textfield > input{animation-duration:0.0001s;animation-name:mui-textfield-inserted;}@keyframes mui-textfield-inserted{from{transform:none;}to{transform:none;}}.mui-textfield > textarea{animation-duration:0.0001s;animation-name:mui-textfield-inserted;}@keyframes mui-select-inserted{from{transform:none;}to{transform:none;}}.mui-select > select{animation-duration:0.0001s;animation-name:mui-select-inserted;}@keyframes mui-node-inserted{from{transform:none;}to{transform:none;}}.mui-select > select ~ .mui-event-trigger{animation-duration:0.0001s;animation-name:mui-node-inserted;}@keyframes mui-node-disabled{from{transform:none;}to{transform:none;}}.mui-select > select:disabled ~ .mui-event-trigger{animation-duration:0.0001s;animation-name:mui-node-disabled;}</style><style type="text/css">/*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2em;margin:.67em 0}hr{-webkit-box-sizing:content-box;box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent}abbr[title]{border-bottom:none;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{-webkit-box-sizing:border-box;box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{-webkit-box-sizing:border-box;box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}template{display:none}[hidden]{display:none}html{-webkit-tap-highlight-color:transparent}body{font-family:Arial,Verdana,Tahoma;font-size:14px;font-weight:400;line-height:1.429;color:rgba(0,0,0,.87);background-color:#FFF}a{color:#2196F3;text-decoration:none}a:focus,a:hover{text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}p{margin:0 0 10px}ol,ul{margin-top:0;margin-bottom:10px}hr{margin-top:20px;margin-bottom:20px;border:0;height:1px;background-color:rgba(0,0,0,.12)}strong{font-weight:700}abbr[title]{cursor:help;-webkit-text-decoration-color:#2196F3;text-decoration-color:#2196F3}h1,h2,h3{margin-top:20px;margin-bottom:10px}h4,h5,h6{margin-top:10px;margin-bottom:10px}.mui--appbar-height{height:56px}.mui--appbar-min-height,.mui-appbar{min-height:56px}.mui--appbar-line-height{line-height:56px}.mui--appbar-top{top:56px}@media (orientation:landscape) and (max-height:480px){.mui--appbar-height{height:48px}.mui--appbar-min-height,.mui-appbar{min-height:48px}.mui--appbar-line-height{line-height:48px}.mui--appbar-top{top:48px}}@media (min-width:480px){.mui--appbar-height{height:64px}.mui--appbar-min-height,.mui-appbar{min-height:64px}.mui--appbar-line-height{line-height:64px}.mui--appbar-top{top:64px}}.mui-appbar{background-color:#2196F3;color:#FFF}.mui-btn{font-weight:500;font-size:14px;line-height:18px;text-transform:uppercase;color:rgba(0,0,0,.87);background-color:#FFF;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;display:inline-block;height:36px;padding:0 26px;margin:6px 0;border:none;border-radius:2px;cursor:pointer;-ms-touch-action:manipulation;touch-action:manipulation;background-image:none;text-align:center;line-height:36px;vertical-align:middle;white-space:nowrap;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;font-size:14px;font-family:inherit;letter-spacing:.03em;position:relative;overflow:hidden}.mui-btn:active,.mui-btn:focus,.mui-btn:hover{color:rgba(0,0,0,.87);background-color:#fff}.mui-btn[disabled]:active,.mui-btn[disabled]:focus,.mui-btn[disabled]:hover{color:rgba(0,0,0,.87);background-color:#FFF}.mui-btn.mui-btn--flat{color:rgba(0,0,0,.87);background-color:transparent}.mui-btn.mui-btn--flat:active,.mui-btn.mui-btn--flat:focus,.mui-btn.mui-btn--flat:hover{color:rgba(0,0,0,.87);background-color:#f2f2f2}.mui-btn.mui-btn--flat[disabled]:active,.mui-btn.mui-btn--flat[disabled]:focus,.mui-btn.mui-btn--flat[disabled]:hover{color:rgba(0,0,0,.87);background-color:transparent}.mui-btn:active,.mui-btn:focus,.mui-btn:hover{outline:0;text-decoration:none;color:rgba(0,0,0,.87)}.mui-btn:focus,.mui-btn:hover{-webkit-box-shadow:0 0 2px rgba(0,0,0,.12),0 2px 2px rgba(0,0,0,.2);box-shadow:0 0 2px rgba(0,0,0,.12),0 2px 2px rgba(0,0,0,.2)}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.mui-btn:focus,.mui-btn:hover{-webkit-box-shadow:0 -1px 2px rgba(0,0,0,.12),-1px 0 2px rgba(0,0,0,.12),0 0 2px rgba(0,0,0,.12),0 2px 2px rgba(0,0,0,.2);box-shadow:0 -1px 2px rgba(0,0,0,.12),-1px 0 2px rgba(0,0,0,.12),0 0 2px rgba(0,0,0,.12),0 2px 2px rgba(0,0,0,.2)}}@supports (-ms-ime-align:auto){.mui-btn:focus,.mui-btn:hover{-webkit-box-shadow:0 -1px 2px rgba(0,0,0,.12),-1px 0 2px rgba(0,0,0,.12),0 0 2px rgba(0,0,0,.12),0 2px 2px rgba(0,0,0,.2);box-shadow:0 -1px 2px rgba(0,0,0,.12),-1px 0 2px rgba(0,0,0,.12),0 0 2px rgba(0,0,0,.12),0 2px 2px rgba(0,0,0,.2)}}.mui-btn:active:hover{-webkit-box-shadow:0 0 4px rgba(0,0,0,.12),1px 3px 4px rgba(0,0,0,.2);box-shadow:0 0 4px rgba(0,0,0,.12),1px 3px 4px rgba(0,0,0,.2)}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.mui-btn:active:hover{-webkit-box-shadow:0 -1px 2px rgba(0,0,0,.12),-1px 0 2px rgba(0,0,0,.12),0 0 4px rgba(0,0,0,.12),1px 3px 4px rgba(0,0,0,.2);box-shadow:0 -1px 2px rgba(0,0,0,.12),-1px 0 2px rgba(0,0,0,.12),0 0 4px rgba(0,0,0,.12),1px 3px 4px rgba(0,0,0,.2)}}@supports (-ms-ime-align:auto){.mui-btn:active:hover{-webkit-box-shadow:0 -1px 2px rgba(0,0,0,.12),-1px 0 2px rgba(0,0,0,.12),0 0 4px rgba(0,0,0,.12),1px 3px 4px rgba(0,0,0,.2);box-shadow:0 -1px 2px rgba(0,0,0,.12),-1px 0 2px rgba(0,0,0,.12),0 0 4px rgba(0,0,0,.12),1px 3px 4px rgba(0,0,0,.2)}}.mui-btn.mui--is-disabled,.mui-btn:disabled{cursor:not-allowed;pointer-events:none;opacity:.6;-webkit-box-shadow:none;box-shadow:none}.mui-btn+.mui-btn{margin-left:8px}.mui-btn--flat{background-color:transparent}.mui-btn--flat:active,.mui-btn--flat:active:hover,.mui-btn--flat:focus,.mui-btn--flat:hover{-webkit-box-shadow:none;box-shadow:none;background-color:#f2f2f2}.mui-btn--fab,.mui-btn--raised{-webkit-box-shadow:0 0 2px rgba(0,0,0,.12),0 2px 2px rgba(0,0,0,.2);box-shadow:0 0 2px rgba(0,0,0,.12),0 2px 2px rgba(0,0,0,.2)}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.mui-btn--fab,.mui-btn--raised{-webkit-box-shadow:0 -1px 2px rgba(0,0,0,.12),-1px 0 2px rgba(0,0,0,.12),0 0 2px rgba(0,0,0,.12),0 2px 2px rgba(0,0,0,.2);box-shadow:0 -1px 2px rgba(0,0,0,.12),-1px 0 2px rgba(0,0,0,.12),0 0 2px rgba(0,0,0,.12),0 2px 2px rgba(0,0,0,.2)}}@supports (-ms-ime-align:auto){.mui-btn--fab,.mui-btn--raised{-webkit-box-shadow:0 -1px 2px rgba(0,0,0,.12),-1px 0 2px rgba(0,0,0,.12),0 0 2px rgba(0,0,0,.12),0 2px 2px rgba(0,0,0,.2);box-shadow:0 -1px 2px rgba(0,0,0,.12),-1px 0 2px rgba(0,0,0,.12),0 0 2px rgba(0,0,0,.12),0 2px 2px rgba(0,0,0,.2)}}.mui-btn--fab:active,.mui-btn--raised:active{-webkit-box-shadow:0 0 4px rgba(0,0,0,.12),1px 3px 4px rgba(0,0,0,.2);box-shadow:0 0 4px rgba(0,0,0,.12),1px 3px 4px rgba(0,0,0,.2)}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.mui-btn--fab:active,.mui-btn--raised:active{-webkit-box-shadow:0 -1px 2px rgba(0,0,0,.12),-1px 0 2px rgba(0,0,0,.12),0 0 4px rgba(0,0,0,.12),1px 3px 4px rgba(0,0,0,.2);box-shadow:0 -1px 2px rgba(0,0,0,.12),-1px 0 2px rgba(0,0,0,.12),0 0 4px rgba(0,0,0,.12),1px 3px 4px rgba(0,0,0,.2)}}@supports (-ms-ime-align:auto){.mui-btn--fab:active,.mui-btn--raised:active{-webkit-box-shadow:0 -1px 2px rgba(0,0,0,.12),-1px 0 2px rgba(0,0,0,.12),0 0 4px rgba(0,0,0,.12),1px 3px 4px rgba(0,0,0,.2);box-shadow:0 -1px 2px rgba(0,0,0,.12),-1px 0 2px rgba(0,0,0,.12),0 0 4px rgba(0,0,0,.12),1px 3px 4px rgba(0,0,0,.2)}}.mui-btn--fab{position:relative;padding:0;width:55px;height:55px;line-height:55px;border-radius:50%;z-index:1}.mui-btn--primary{color:#FFF;background-color:#2196F3}.mui-btn--primary:active,.mui-btn--primary:focus,.mui-btn--primary:hover{color:#FFF;background-color:#39a1f4}.mui-btn--primary[disabled]:active,.mui-btn--primary[disabled]:focus,.mui-btn--primary[disabled]:hover{color:#FFF;background-color:#2196F3}.mui-btn--primary.mui-btn--flat{color:#2196F3;background-color:transparent}.mui-btn--primary.mui-btn--flat:active,.mui-btn--primary.mui-btn--flat:focus,.mui-btn--primary.mui-btn--flat:hover{color:#2196F3;background-color:#f2f2f2}.mui-btn--primary.mui-btn--flat[disabled]:active,.mui-btn--primary.mui-btn--flat[disabled]:focus,.mui-btn--primary.mui-btn--flat[disabled]:hover{color:#2196F3;background-color:transparent}.mui-btn--dark{color:#FFF;background-color:#424242}.mui-btn--dark:active,.mui-btn--dark:focus,.mui-btn--dark:hover{color:#FFF;background-color:#4f4f4f}.mui-btn--dark[disabled]:active,.mui-btn--dark[disabled]:focus,.mui-btn--dark[disabled]:hover{color:#FFF;background-color:#424242}.mui-btn--dark.mui-btn--flat{color:#424242;background-color:transparent}.mui-btn--dark.mui-btn--flat:active,.mui-btn--dark.mui-btn--flat:focus,.mui-btn--dark.mui-btn--flat:hover{color:#424242;background-color:#f2f2f2}.mui-btn--dark.mui-btn--flat[disabled]:active,.mui-btn--dark.mui-btn--flat[disabled]:focus,.mui-btn--dark.mui-btn--flat[disabled]:hover{color:#424242;background-color:transparent}.mui-btn--danger{color:#FFF;background-color:#F44336}.mui-btn--danger:active,.mui-btn--danger:focus,.mui-btn--danger:hover{color:#FFF;background-color:#f55a4e}.mui-btn--danger[disabled]:active,.mui-btn--danger[disabled]:focus,.mui-btn--danger[disabled]:hover{color:#FFF;background-color:#F44336}.mui-btn--danger.mui-btn--flat{color:#F44336;background-color:transparent}.mui-btn--danger.mui-btn--flat:active,.mui-btn--danger.mui-btn--flat:focus,.mui-btn--danger.mui-btn--flat:hover{color:#F44336;background-color:#f2f2f2}.mui-btn--danger.mui-btn--flat[disabled]:active,.mui-btn--danger.mui-btn--flat[disabled]:focus,.mui-btn--danger.mui-btn--flat[disabled]:hover{color:#F44336;background-color:transparent}.mui-btn--accent{color:#FFF;background-color:#FF4081}.mui-btn--accent:active,.mui-btn--accent:focus,.mui-btn--accent:hover{color:#FFF;background-color:#ff5a92}.mui-btn--accent[disabled]:active,.mui-btn--accent[disabled]:focus,.mui-btn--accent[disabled]:hover{color:#FFF;background-color:#FF4081}.mui-btn--accent.mui-btn--flat{color:#FF4081;background-color:transparent}.mui-btn--accent.mui-btn--flat:active,.mui-btn--accent.mui-btn--flat:focus,.mui-btn--accent.mui-btn--flat:hover{color:#FF4081;background-color:#f2f2f2}.mui-btn--accent.mui-btn--flat[disabled]:active,.mui-btn--accent.mui-btn--flat[disabled]:focus,.mui-btn--accent.mui-btn--flat[disabled]:hover{color:#FF4081;background-color:transparent}.mui-btn--small{height:30.6px;line-height:30.6px;padding:0 16px;font-size:13px}.mui-btn--large{height:54px;line-height:54px;padding:0 26px;font-size:14px}.mui-btn--fab.mui-btn--small{width:44px;height:44px;line-height:44px}.mui-btn--fab.mui-btn--large{width:75px;height:75px;line-height:75px}.mui-checkbox,.mui-radio{position:relative;display:block;margin-top:10px;margin-bottom:10px}.mui-checkbox>label,.mui-radio>label{min-height:20px;padding-left:20px;margin-bottom:0;font-weight:400;cursor:pointer}.mui-checkbox input:disabled,.mui-radio input:disabled{cursor:not-allowed}.mui-checkbox input:focus,.mui-radio input:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.mui-checkbox--inline>label>input[type=checkbox],.mui-checkbox>label>input[type=checkbox],.mui-radio--inline>label>input[type=radio],.mui-radio>label>input[type=radio]{position:absolute;margin-left:-20px;margin-top:4px}.mui-checkbox+.mui-checkbox,.mui-radio+.mui-radio{margin-top:-5px}.mui-checkbox--inline,.mui-radio--inline{display:inline-block;padding-left:20px;margin-bottom:0;vertical-align:middle;font-weight:400;cursor:pointer}.mui-checkbox--inline>input[type=checkbox],.mui-checkbox--inline>input[type=radio],.mui-checkbox--inline>label>input[type=checkbox],.mui-checkbox--inline>label>input[type=radio],.mui-radio--inline>input[type=checkbox],.mui-radio--inline>input[type=radio],.mui-radio--inline>label>input[type=checkbox],.mui-radio--inline>label>input[type=radio]{margin:4px 0 0;line-height:normal}.mui-checkbox--inline+.mui-checkbox--inline,.mui-radio--inline+.mui-radio--inline{margin-top:0;margin-left:10px}.mui-container{-webkit-box-sizing:border-box;box-sizing:border-box;margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.mui-container:after,.mui-container:before{content:" ";display:table}.mui-container:after{clear:both}@media (min-width:544px){.mui-container{max-width:570px}}@media (min-width:768px){.mui-container{max-width:740px}}@media (min-width:992px){.mui-container{max-width:960px}}@media (min-width:1200px){.mui-container{max-width:1170px}}.mui-container-fluid{-webkit-box-sizing:border-box;box-sizing:border-box;margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.mui-container-fluid:after,.mui-container-fluid:before{content:" ";display:table}.mui-container-fluid:after{clear:both}.mui-divider{display:block;height:1px;background-color:rgba(0,0,0,.12)}.mui--divider-top{border-top:1px solid rgba(0,0,0,.12)}.mui--divider-bottom{border-bottom:1px solid rgba(0,0,0,.12)}.mui--divider-left{border-left:1px solid rgba(0,0,0,.12)}.mui--divider-right{border-right:1px solid rgba(0,0,0,.12)}.mui-dropdown{display:inline-block;position:relative}[data-mui-toggle=dropdown]{outline:0}.mui-dropdown__menu{position:absolute;top:100%;left:0;display:none;min-width:160px;padding:5px 0;margin:2px 0 0;list-style:none;font-size:14px;text-align:left;background-color:#FFF;border-radius:2px;z-index:1;background-clip:padding-box}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.mui-dropdown__menu{border-top:1px solid rgba(0,0,0,.12);border-left:1px solid rgba(0,0,0,.12)}}@supports (-ms-ime-align:auto){.mui-dropdown__menu{border-top:1px solid rgba(0,0,0,.12);border-left:1px solid rgba(0,0,0,.12)}}.mui-dropdown__menu.mui--is-open{display:block}.mui-dropdown__menu>li>a{display:block;padding:3px 20px;clear:both;font-weight:400;line-height:1.429;color:rgba(0,0,0,.87);text-decoration:none;white-space:nowrap}.mui-dropdown__menu>li>a:focus,.mui-dropdown__menu>li>a:hover{text-decoration:none;color:rgba(0,0,0,.87);background-color:#EEE}.mui-dropdown__menu>.mui--is-disabled>a,.mui-dropdown__menu>.mui--is-disabled>a:focus,.mui-dropdown__menu>.mui--is-disabled>a:hover{color:#EEE}.mui-dropdown__menu>.mui--is-disabled>a:focus,.mui-dropdown__menu>.mui--is-disabled>a:hover{text-decoration:none;background-color:transparent;background-image:none;cursor:not-allowed}.mui-dropdown__menu--right{left:auto;right:0}.mui-form legend{display:block;width:100%;padding:0;margin-bottom:10px;font-size:21px;color:rgba(0,0,0,.87);line-height:inherit;border:0}.mui-form fieldset{border:0;padding:0;margin:0 0 20px 0}@media (min-width:544px){.mui-form--inline .mui-textfield{display:inline-block;vertical-align:bottom;margin-bottom:0}.mui-form--inline .mui-checkbox,.mui-form--inline .mui-radio{display:inline-block;margin-top:0;margin-bottom:0;vertical-align:middle}.mui-form--inline .mui-checkbox>label,.mui-form--inline .mui-radio>label{padding-left:0}.mui-form--inline .mui-checkbox>label>input[type=checkbox],.mui-form--inline .mui-radio>label>input[type=radio]{position:relative;margin-left:0}.mui-form--inline .mui-select{display:inline-block;vertical-align:bottom;margin-bottom:0}.mui-form--inline .mui-btn{margin-bottom:0;margin-top:0;vertical-align:bottom}}.mui-row{margin-left:-15px;margin-right:-15px}.mui-row:after,.mui-row:before{content:" ";display:table}.mui-row:after{clear:both}.mui-col-lg-1,.mui-col-lg-10,.mui-col-lg-11,.mui-col-lg-12,.mui-col-lg-2,.mui-col-lg-3,.mui-col-lg-4,.mui-col-lg-5,.mui-col-lg-6,.mui-col-lg-7,.mui-col-lg-8,.mui-col-lg-9,.mui-col-md-1,.mui-col-md-10,.mui-col-md-11,.mui-col-md-12,.mui-col-md-2,.mui-col-md-3,.mui-col-md-4,.mui-col-md-5,.mui-col-md-6,.mui-col-md-7,.mui-col-md-8,.mui-col-md-9,.mui-col-sm-1,.mui-col-sm-10,.mui-col-sm-11,.mui-col-sm-12,.mui-col-sm-2,.mui-col-sm-3,.mui-col-sm-4,.mui-col-sm-5,.mui-col-sm-6,.mui-col-sm-7,.mui-col-sm-8,.mui-col-sm-9,.mui-col-xs-1,.mui-col-xs-10,.mui-col-xs-11,.mui-col-xs-12,.mui-col-xs-2,.mui-col-xs-3,.mui-col-xs-4,.mui-col-xs-5,.mui-col-xs-6,.mui-col-xs-7,.mui-col-xs-8,.mui-col-xs-9{-webkit-box-sizing:border-box;box-sizing:border-box;min-height:1px;padding-left:15px;padding-right:15px}.mui-col-xs-1,.mui-col-xs-10,.mui-col-xs-11,.mui-col-xs-12,.mui-col-xs-2,.mui-col-xs-3,.mui-col-xs-4,.mui-col-xs-5,.mui-col-xs-6,.mui-col-xs-7,.mui-col-xs-8,.mui-col-xs-9{float:left}.mui-col-xs-1{width:8.33333%}.mui-col-xs-2{width:16.66667%}.mui-col-xs-3{width:25%}.mui-col-xs-4{width:33.33333%}.mui-col-xs-5{width:41.66667%}.mui-col-xs-6{width:50%}.mui-col-xs-7{width:58.33333%}.mui-col-xs-8{width:66.66667%}.mui-col-xs-9{width:75%}.mui-col-xs-10{width:83.33333%}.mui-col-xs-11{width:91.66667%}.mui-col-xs-12{width:100%}.mui-col-xs-offset-0{margin-left:0}.mui-col-xs-offset-1{margin-left:8.33333%}.mui-col-xs-offset-2{margin-left:16.66667%}.mui-col-xs-offset-3{margin-left:25%}.mui-col-xs-offset-4{margin-left:33.33333%}.mui-col-xs-offset-5{margin-left:41.66667%}.mui-col-xs-offset-6{margin-left:50%}.mui-col-xs-offset-7{margin-left:58.33333%}.mui-col-xs-offset-8{margin-left:66.66667%}.mui-col-xs-offset-9{margin-left:75%}.mui-col-xs-offset-10{margin-left:83.33333%}.mui-col-xs-offset-11{margin-left:91.66667%}.mui-col-xs-offset-12{margin-left:100%}@media (min-width:544px){.mui-col-sm-1,.mui-col-sm-10,.mui-col-sm-11,.mui-col-sm-12,.mui-col-sm-2,.mui-col-sm-3,.mui-col-sm-4,.mui-col-sm-5,.mui-col-sm-6,.mui-col-sm-7,.mui-col-sm-8,.mui-col-sm-9{float:left}.mui-col-sm-1{width:8.33333%}.mui-col-sm-2{width:16.66667%}.mui-col-sm-3{width:25%}.mui-col-sm-4{width:33.33333%}.mui-col-sm-5{width:41.66667%}.mui-col-sm-6{width:50%}.mui-col-sm-7{width:58.33333%}.mui-col-sm-8{width:66.66667%}.mui-col-sm-9{width:75%}.mui-col-sm-10{width:83.33333%}.mui-col-sm-11{width:91.66667%}.mui-col-sm-12{width:100%}.mui-col-sm-offset-0{margin-left:0}.mui-col-sm-offset-1{margin-left:8.33333%}.mui-col-sm-offset-2{margin-left:16.66667%}.mui-col-sm-offset-3{margin-left:25%}.mui-col-sm-offset-4{margin-left:33.33333%}.mui-col-sm-offset-5{margin-left:41.66667%}.mui-col-sm-offset-6{margin-left:50%}.mui-col-sm-offset-7{margin-left:58.33333%}.mui-col-sm-offset-8{margin-left:66.66667%}.mui-col-sm-offset-9{margin-left:75%}.mui-col-sm-offset-10{margin-left:83.33333%}.mui-col-sm-offset-11{margin-left:91.66667%}.mui-col-sm-offset-12{margin-left:100%}}@media (min-width:768px){.mui-col-md-1,.mui-col-md-10,.mui-col-md-11,.mui-col-md-12,.mui-col-md-2,.mui-col-md-3,.mui-col-md-4,.mui-col-md-5,.mui-col-md-6,.mui-col-md-7,.mui-col-md-8,.mui-col-md-9{float:left}.mui-col-md-1{width:8.33333%}.mui-col-md-2{width:16.66667%}.mui-col-md-3{width:25%}.mui-col-md-4{width:33.33333%}.mui-col-md-5{width:41.66667%}.mui-col-md-6{width:50%}.mui-col-md-7{width:58.33333%}.mui-col-md-8{width:66.66667%}.mui-col-md-9{width:75%}.mui-col-md-10{width:83.33333%}.mui-col-md-11{width:91.66667%}.mui-col-md-12{width:100%}.mui-col-md-offset-0{margin-left:0}.mui-col-md-offset-1{margin-left:8.33333%}.mui-col-md-offset-2{margin-left:16.66667%}.mui-col-md-offset-3{margin-left:25%}.mui-col-md-offset-4{margin-left:33.33333%}.mui-col-md-offset-5{margin-left:41.66667%}.mui-col-md-offset-6{margin-left:50%}.mui-col-md-offset-7{margin-left:58.33333%}.mui-col-md-offset-8{margin-left:66.66667%}.mui-col-md-offset-9{margin-left:75%}.mui-col-md-offset-10{margin-left:83.33333%}.mui-col-md-offset-11{margin-left:91.66667%}.mui-col-md-offset-12{margin-left:100%}}@media (min-width:992px){.mui-col-lg-1,.mui-col-lg-10,.mui-col-lg-11,.mui-col-lg-12,.mui-col-lg-2,.mui-col-lg-3,.mui-col-lg-4,.mui-col-lg-5,.mui-col-lg-6,.mui-col-lg-7,.mui-col-lg-8,.mui-col-lg-9{float:left}.mui-col-lg-1{width:8.33333%}.mui-col-lg-2{width:16.66667%}.mui-col-lg-3{width:25%}.mui-col-lg-4{width:33.33333%}.mui-col-lg-5{width:41.66667%}.mui-col-lg-6{width:50%}.mui-col-lg-7{width:58.33333%}.mui-col-lg-8{width:66.66667%}.mui-col-lg-9{width:75%}.mui-col-lg-10{width:83.33333%}.mui-col-lg-11{width:91.66667%}.mui-col-lg-12{width:100%}.mui-col-lg-offset-0{margin-left:0}.mui-col-lg-offset-1{margin-left:8.33333%}.mui-col-lg-offset-2{margin-left:16.66667%}.mui-col-lg-offset-3{margin-left:25%}.mui-col-lg-offset-4{margin-left:33.33333%}.mui-col-lg-offset-5{margin-left:41.66667%}.mui-col-lg-offset-6{margin-left:50%}.mui-col-lg-offset-7{margin-left:58.33333%}.mui-col-lg-offset-8{margin-left:66.66667%}.mui-col-lg-offset-9{margin-left:75%}.mui-col-lg-offset-10{margin-left:83.33333%}.mui-col-lg-offset-11{margin-left:91.66667%}.mui-col-lg-offset-12{margin-left:100%}}@media (min-width:1200px){.mui-col-xl-1,.mui-col-xl-10,.mui-col-xl-11,.mui-col-xl-12,.mui-col-xl-2,.mui-col-xl-3,.mui-col-xl-4,.mui-col-xl-5,.mui-col-xl-6,.mui-col-xl-7,.mui-col-xl-8,.mui-col-xl-9{float:left}.mui-col-xl-1{width:8.33333%}.mui-col-xl-2{width:16.66667%}.mui-col-xl-3{width:25%}.mui-col-xl-4{width:33.33333%}.mui-col-xl-5{width:41.66667%}.mui-col-xl-6{width:50%}.mui-col-xl-7{width:58.33333%}.mui-col-xl-8{width:66.66667%}.mui-col-xl-9{width:75%}.mui-col-xl-10{width:83.33333%}.mui-col-xl-11{width:91.66667%}.mui-col-xl-12{width:100%}.mui-col-xl-offset-0{margin-left:0}.mui-col-xl-offset-1{margin-left:8.33333%}.mui-col-xl-offset-2{margin-left:16.66667%}.mui-col-xl-offset-3{margin-left:25%}.mui-col-xl-offset-4{margin-left:33.33333%}.mui-col-xl-offset-5{margin-left:41.66667%}.mui-col-xl-offset-6{margin-left:50%}.mui-col-xl-offset-7{margin-left:58.33333%}.mui-col-xl-offset-8{margin-left:66.66667%}.mui-col-xl-offset-9{margin-left:75%}.mui-col-xl-offset-10{margin-left:83.33333%}.mui-col-xl-offset-11{margin-left:91.66667%}.mui-col-xl-offset-12{margin-left:100%}}.mui-panel{padding:15px;margin-bottom:20px;border-radius:0;background-color:#FFF;-webkit-box-shadow:0 2px 2px 0 rgba(0,0,0,.16),0 0 2px 0 rgba(0,0,0,.12);box-shadow:0 2px 2px 0 rgba(0,0,0,.16),0 0 2px 0 rgba(0,0,0,.12)}.mui-panel:after,.mui-panel:before{content:" ";display:table}.mui-panel:after{clear:both}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.mui-panel{-webkit-box-shadow:0 -1px 2px 0 rgba(0,0,0,.12),-1px 0 2px 0 rgba(0,0,0,.12),0 2px 2px 0 rgba(0,0,0,.16),0 0 2px 0 rgba(0,0,0,.12);box-shadow:0 -1px 2px 0 rgba(0,0,0,.12),-1px 0 2px 0 rgba(0,0,0,.12),0 2px 2px 0 rgba(0,0,0,.16),0 0 2px 0 rgba(0,0,0,.12)}}@supports (-ms-ime-align:auto){.mui-panel{-webkit-box-shadow:0 -1px 2px 0 rgba(0,0,0,.12),-1px 0 2px 0 rgba(0,0,0,.12),0 2px 2px 0 rgba(0,0,0,.16),0 0 2px 0 rgba(0,0,0,.12);box-shadow:0 -1px 2px 0 rgba(0,0,0,.12),-1px 0 2px 0 rgba(0,0,0,.12),0 2px 2px 0 rgba(0,0,0,.16),0 0 2px 0 rgba(0,0,0,.12)}}.mui-select{display:block;padding-top:15px;margin-bottom:20px;position:relative}.mui-select:focus{outline:0}.mui-select:focus>select{height:calc(32px + 1px);margin-bottom:-1px;border-color:#2196F3;border-width:2px}.mui-select>select{display:block;height:32px;width:100%;appearance:none;-webkit-appearance:none;-moz-appearance:none;outline:0;border:none;border-bottom:1px solid rgba(0,0,0,.26);border-radius:0;-webkit-box-shadow:none;box-shadow:none;background-color:transparent;background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNiIgd2lkdGg9IjEwIj48cG9seWdvbiBwb2ludHM9IjAsMCAxMCwwIDUsNiIgc3R5bGU9ImZpbGw6cmdiYSgwLDAsMCwuMjQpOyIvPjwvc3ZnPg==);background-repeat:no-repeat;background-position:right center;cursor:pointer;color:rgba(0,0,0,.87);font-size:16px;font-family:inherit;line-height:inherit;padding:0 25px 0 0}.mui-select>select::-ms-expand{display:none}.mui-select>select:focus{outline:0;height:calc(32px + 1px);margin-bottom:-1px;border-color:#2196F3;border-width:2px}.mui-select>select:disabled{color:rgba(0,0,0,.38);cursor:not-allowed;background-color:transparent;opacity:1}.mui-select>select:-moz-focusring{color:transparent;text-shadow:0 0 0 #000}.mui-select>select:focus::-ms-value{background:0 0;color:rgba(0,0,0,.87)}.mui-select>select.mui--text-placeholder{color:rgba(0,0,0,.26)}.mui-select>label{position:absolute;top:0;display:block;width:100%;color:rgba(0,0,0,.54);font-size:12px;font-weight:400;line-height:15px;overflow-x:hidden;text-overflow:ellipsis;white-space:nowrap}.mui-select:focus>label,.mui-select>select:focus~label{color:#2196F3}.mui-select__menu{position:absolute;z-index:2;min-width:100%;overflow-y:auto;padding:8px 0;-webkit-box-sizing:border-box;box-sizing:border-box;background-color:#FFF;font-size:16px}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.mui-select__menu{border-left:1px solid rgba(0,0,0,.12);border-top:1px solid rgba(0,0,0,.12)}}@supports (-ms-ime-align:auto){.mui-select__menu{border-left:1px solid rgba(0,0,0,.12);border-top:1px solid rgba(0,0,0,.12)}}.mui-select__menu>div{padding:0 22px;height:42px;line-height:42px;cursor:pointer;white-space:nowrap}.mui-select__menu>div.mui--is-selected{background-color:#EEE}.mui-select__menu>div.mui--is-disabled{color:rgba(0,0,0,.38);cursor:not-allowed}.mui-select__menu>div:not(.mui-optgroup__label):not(.mui--is-disabled):hover{background-color:#E0E0E0}.mui-optgroup__option{text-indent:1em}.mui-optgroup__label{color:rgba(0,0,0,.54);font-size:.9em}.mui-table{width:100%;max-width:100%;margin-bottom:20px}.mui-table>tbody>tr>th,.mui-table>tfoot>tr>th,.mui-table>thead>tr>th{text-align:left}.mui-table>tbody>tr>td,.mui-table>tbody>tr>th,.mui-table>tfoot>tr>td,.mui-table>tfoot>tr>th,.mui-table>thead>tr>td,.mui-table>thead>tr>th{padding:10px;line-height:1.429}.mui-table>thead>tr>th{border-bottom:2px solid rgba(0,0,0,.12);font-weight:700}.mui-table>tbody+tbody{border-top:2px solid rgba(0,0,0,.12)}.mui-table.mui-table--bordered>tbody>tr>td{border-bottom:1px solid rgba(0,0,0,.12)}.mui-tabs__bar{list-style:none;padding-left:0;margin-bottom:0;background-color:transparent;white-space:nowrap;overflow-x:auto}.mui-tabs__bar>li{display:inline-block}.mui-tabs__bar>li>a{display:block;white-space:nowrap;text-transform:uppercase;font-weight:500;font-size:14px;color:rgba(0,0,0,.87);cursor:default;height:48px;line-height:48px;padding-left:24px;padding-right:24px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.mui-tabs__bar>li>a:hover{text-decoration:none}.mui-tabs__bar>li.mui--is-active{border-bottom:2px solid #2196F3}.mui-tabs__bar>li.mui--is-active>a{color:#2196F3}.mui-tabs__bar.mui-tabs__bar--justified{display:table;width:100%;table-layout:fixed}.mui-tabs__bar.mui-tabs__bar--justified>li{display:table-cell}.mui-tabs__bar.mui-tabs__bar--justified>li>a{text-align:center;padding-left:0;padding-right:0}.mui-tabs__pane{display:none}.mui-tabs__pane.mui--is-active{display:block}.mui-textfield{display:block;padding-top:15px;margin-bottom:20px;position:relative}.mui-textfield>label{position:absolute;top:0;display:block;width:100%;color:rgba(0,0,0,.54);font-size:12px;font-weight:400;line-height:15px;overflow-x:hidden;text-overflow:ellipsis;white-space:nowrap}.mui-textfield>textarea{padding-top:5px}.mui-textfield>input:focus~label,.mui-textfield>textarea:focus~label{color:#2196F3}.mui-textfield--float-label>label{position:absolute;-webkit-transform:translate(0,15px);transform:translate(0,15px);font-size:16px;line-height:32px;color:rgba(0,0,0,.26);text-overflow:clip;cursor:text;pointer-events:none}.mui-textfield--float-label>input:-webkit-autofill~label,.mui-textfield--float-label>textarea:-webkit-autofill~label{-webkit-transform:translate(0,0);transform:translate(0,0);font-size:12px;line-height:15px;text-overflow:ellipsis}.mui-textfield--float-label>input:focus~label,.mui-textfield--float-label>textarea:focus~label{-webkit-transform:translate(0,0);transform:translate(0,0);font-size:12px;line-height:15px;text-overflow:ellipsis}.mui-textfield--float-label>input:not(:focus).mui--is-not-empty~label,.mui-textfield--float-label>input:not(:focus):not(:empty):not(.mui--is-empty):not(.mui--is-not-empty)~label,.mui-textfield--float-label>input:not(:focus)[value]:not([value=""]):not(.mui--is-empty):not(.mui--is-not-empty)~label,.mui-textfield--float-label>textarea:not(:focus).mui--is-not-empty~label,.mui-textfield--float-label>textarea:not(:focus):not(:empty):not(.mui--is-empty):not(.mui--is-not-empty)~label,.mui-textfield--float-label>textarea:not(:focus)[value]:not([value=""]):not(.mui--is-empty):not(.mui--is-not-empty)~label{color:rgba(0,0,0,.54);font-size:12px;line-height:15px;-webkit-transform:translate(0,0);transform:translate(0,0);text-overflow:ellipsis}.mui-textfield--wrap-label{display:table;width:100%;padding-top:0}.mui-textfield--wrap-label:not(.mui-textfield--float-label)>label{display:table-header-group;position:static;white-space:normal;overflow-x:visible}.mui-textfield>input,.mui-textfield>textarea{-webkit-box-sizing:border-box;box-sizing:border-box;display:block;background-color:transparent;color:rgba(0,0,0,.87);border:none;border-bottom:1px solid rgba(0,0,0,.26);outline:0;width:100%;padding:0;-webkit-box-shadow:none;box-shadow:none;border-radius:0;font-size:16px;font-family:inherit;line-height:inherit;background-image:none}.mui-textfield>input:focus,.mui-textfield>textarea:focus{border-color:#2196F3;border-width:2px}.mui-textfield>input:-moz-read-only,.mui-textfield>input:disabled,.mui-textfield>textarea:-moz-read-only,.mui-textfield>textarea:disabled{cursor:not-allowed;background-color:transparent;opacity:1}.mui-textfield>input:disabled,.mui-textfield>input:read-only,.mui-textfield>textarea:disabled,.mui-textfield>textarea:read-only{cursor:not-allowed;background-color:transparent;opacity:1}.mui-textfield>input::-webkit-input-placeholder,.mui-textfield>textarea::-webkit-input-placeholder{color:rgba(0,0,0,.26);opacity:1}.mui-textfield>input:-ms-input-placeholder,.mui-textfield>textarea:-ms-input-placeholder{color:rgba(0,0,0,.26);opacity:1}.mui-textfield>input::-ms-input-placeholder,.mui-textfield>textarea::-ms-input-placeholder{color:rgba(0,0,0,.26);opacity:1}.mui-textfield>input::placeholder,.mui-textfield>textarea::placeholder{color:rgba(0,0,0,.26);opacity:1}.mui-textfield>input{height:32px}.mui-textfield>input:focus{height:calc(32px + 1px);margin-bottom:-1px}.mui-textfield>textarea{min-height:64px}.mui-textfield>textarea[rows]:not([rows="2"]):focus{margin-bottom:-1px}.mui-textfield>input:focus{height:calc(32px + 1px);margin-bottom:-1px}.mui-textfield>input:invalid:not(:focus):not(:required),.mui-textfield>input:invalid:not(:focus):required.mui--is-empty.mui--is-touched,.mui-textfield>input:invalid:not(:focus):required.mui--is-not-empty,.mui-textfield>input:invalid:not(:focus):required:not(:empty):not(.mui--is-empty):not(.mui--is-not-empty),.mui-textfield>input:invalid:not(:focus):required[value]:not([value=""]):not(.mui--is-empty):not(.mui--is-not-empty),.mui-textfield>input:not(:focus).mui--is-invalid:not(:required),.mui-textfield>input:not(:focus).mui--is-invalid:required.mui--is-empty.mui--is-touched,.mui-textfield>input:not(:focus).mui--is-invalid:required.mui--is-not-empty,.mui-textfield>input:not(:focus).mui--is-invalid:required:not(:empty):not(.mui--is-empty):not(.mui--is-not-empty),.mui-textfield>input:not(:focus).mui--is-invalid:required[value]:not([value=""]):not(.mui--is-empty):not(.mui--is-not-empty),.mui-textfield>textarea:invalid:not(:focus):not(:required),.mui-textfield>textarea:invalid:not(:focus):required.mui--is-empty.mui--is-touched,.mui-textfield>textarea:invalid:not(:focus):required.mui--is-not-empty,.mui-textfield>textarea:invalid:not(:focus):required:not(:empty):not(.mui--is-empty):not(.mui--is-not-empty),.mui-textfield>textarea:invalid:not(:focus):required[value]:not([value=""]):not(.mui--is-empty):not(.mui--is-not-empty),.mui-textfield>textarea:not(:focus).mui--is-invalid:not(:required),.mui-textfield>textarea:not(:focus).mui--is-invalid:required.mui--is-empty.mui--is-touched,.mui-textfield>textarea:not(:focus).mui--is-invalid:required.mui--is-not-empty,.mui-textfield>textarea:not(:focus).mui--is-invalid:required:not(:empty):not(.mui--is-empty):not(.mui--is-not-empty),.mui-textfield>textarea:not(:focus).mui--is-invalid:required[value]:not([value=""]):not(.mui--is-empty):not(.mui--is-not-empty){border-color:#F44336;border-width:2px}.mui-textfield>input:invalid:not(:focus):not(:required),.mui-textfield>input:invalid:not(:focus):required.mui--is-empty.mui--is-touched,.mui-textfield>input:invalid:not(:focus):required.mui--is-not-empty,.mui-textfield>input:invalid:not(:focus):required:not(:empty):not(.mui--is-empty):not(.mui--is-not-empty),.mui-textfield>input:invalid:not(:focus):required[value]:not([value=""]):not(.mui--is-empty):not(.mui--is-not-empty),.mui-textfield>input:not(:focus).mui--is-invalid:not(:required),.mui-textfield>input:not(:focus).mui--is-invalid:required.mui--is-empty.mui--is-touched,.mui-textfield>input:not(:focus).mui--is-invalid:required.mui--is-not-empty,.mui-textfield>input:not(:focus).mui--is-invalid:required:not(:empty):not(.mui--is-empty):not(.mui--is-not-empty),.mui-textfield>input:not(:focus).mui--is-invalid:required[value]:not([value=""]):not(.mui--is-empty):not(.mui--is-not-empty){height:calc(32px + 1px);margin-bottom:-1px}.mui-textfield.mui-textfield--float-label>input:invalid:not(:focus):not(:required)~label,.mui-textfield.mui-textfield--float-label>input:invalid:not(:focus):required.mui--is-not-empty~label,.mui-textfield.mui-textfield--float-label>input:invalid:not(:focus):required:not(:empty):not(.mui--is-empty):not(.mui--is-not-empty)~label,.mui-textfield.mui-textfield--float-label>input:invalid:not(:focus):required[value]:not([value=""]):not(.mui--is-empty):not(.mui--is-not-empty)~label,.mui-textfield.mui-textfield--float-label>textarea:invalid:not(:focus):not(:required)~label,.mui-textfield.mui-textfield--float-label>textarea:invalid:not(:focus):required.mui--is-not-empty~label,.mui-textfield.mui-textfield--float-label>textarea:invalid:not(:focus):required:not(:empty):not(.mui--is-empty):not(.mui--is-not-empty)~label,.mui-textfield.mui-textfield--float-label>textarea:invalid:not(:focus):required[value]:not([value=""]):not(.mui--is-empty):not(.mui--is-not-empty)~label{color:#F44336}.mui-textfield:not(.mui-textfield--float-label)>input:invalid:not(:focus):not(:required)~label,.mui-textfield:not(.mui-textfield--float-label)>input:invalid:not(:focus):required.mui--is-empty.mui--is-touched~label,.mui-textfield:not(.mui-textfield--float-label)>input:invalid:not(:focus):required.mui--is-not-empty~label,.mui-textfield:not(.mui-textfield--float-label)>textarea:invalid:not(:focus):not(:required)~label,.mui-textfield:not(.mui-textfield--float-label)>textarea:invalid:not(:focus):required.mui--is-empty.mui--is-touched~label,.mui-textfield:not(.mui-textfield--float-label)>textarea:invalid:not(:focus):required.mui--is-not-empty~label{color:#F44336}.mui-textfield.mui-textfield--float-label>.mui--is-invalid.mui--is-not-empty:not(:focus)~label{color:#F44336}.mui-textfield:not(.mui-textfield--float-label)>.mui--is-invalid:not(:focus)~label{color:#F44336}.mui--no-transition{-webkit-transition:none!important;transition:none!important}.mui--no-user-select{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.mui-caret{display:inline-block;width:0;height:0;margin-left:2px;vertical-align:middle;border-top:4px solid;border-right:4px solid transparent;border-left:4px solid transparent}.mui--text-left{text-align:left!important}.mui--text-right{text-align:right!important}.mui--text-center{text-align:center!important}.mui--text-justify{text-align:justify!important}.mui--text-nowrap{white-space:nowrap!important}.mui--align-baseline{vertical-align:baseline!important}.mui--align-top{vertical-align:top!important}.mui--align-middle{vertical-align:middle!important}.mui--align-bottom{vertical-align:bottom!important}.mui--text-dark{color:rgba(0,0,0,.87)}.mui--text-dark-secondary{color:rgba(0,0,0,.54)}.mui--text-dark-hint{color:rgba(0,0,0,.38)}.mui--text-light{color:#FFF}.mui--text-light-secondary{color:rgba(255,255,255,.7)}.mui--text-light-hint{color:rgba(255,255,255,.3)}.mui--text-accent{color:rgba(255,64,129,.87)}.mui--text-accent-secondary{color:rgba(255,64,129,.54)}.mui--text-accent-hint{color:rgba(255,64,129,.38)}.mui--text-black{color:#000}.mui--text-white{color:#FFF}.mui--text-danger{color:#F44336}.mui--text-placeholder{color:rgba(0,0,0,.26)}.mui--bg-primary{background-color:#2196F3}.mui--bg-primary-dark{background-color:#1976D2}.mui--bg-primary-light{background-color:#BBDEFB}.mui--bg-accent{background-color:#FF4081}.mui--bg-accent-dark{background-color:#F50057}.mui--bg-accent-light{background-color:#FF80AB}.mui--bg-danger{background-color:#F44336}.mui-list--unstyled{padding-left:0;list-style:none}.mui-list--inline{padding-left:0;list-style:none;margin-left:-5px}.mui-list--inline>li{display:inline-block;padding-left:5px;padding-right:5px}.mui--z1,.mui-dropdown__menu,.mui-select__menu{-webkit-box-shadow:0 1px 3px rgba(0,0,0,.12),0 1px 2px rgba(0,0,0,.24);box-shadow:0 1px 3px rgba(0,0,0,.12),0 1px 2px rgba(0,0,0,.24)}.mui--z2{-webkit-box-shadow:0 3px 6px rgba(0,0,0,.16),0 3px 6px rgba(0,0,0,.23);box-shadow:0 3px 6px rgba(0,0,0,.16),0 3px 6px rgba(0,0,0,.23)}.mui--z3{-webkit-box-shadow:0 10px 20px rgba(0,0,0,.19),0 6px 6px rgba(0,0,0,.23);box-shadow:0 10px 20px rgba(0,0,0,.19),0 6px 6px rgba(0,0,0,.23)}.mui--z4{-webkit-box-shadow:0 14px 28px rgba(0,0,0,.25),0 10px 10px rgba(0,0,0,.22);box-shadow:0 14px 28px rgba(0,0,0,.25),0 10px 10px rgba(0,0,0,.22)}.mui--z5{-webkit-box-shadow:0 19px 38px rgba(0,0,0,.3),0 15px 12px rgba(0,0,0,.22);box-shadow:0 19px 38px rgba(0,0,0,.3),0 15px 12px rgba(0,0,0,.22)}.mui--clearfix:after,.mui--clearfix:before{content:" ";display:table}.mui--clearfix:after{clear:both}.mui--pull-right{float:right!important}.mui--pull-left{float:left!important}.mui--hide{display:none!important}.mui--show{display:block!important}.mui--invisible{visibility:hidden}.mui--overflow-hidden{overflow:hidden!important}.mui--overflow-hidden-x{overflow-x:hidden!important}.mui--overflow-hidden-y{overflow-y:hidden!important}.mui--visible-lg-block,.mui--visible-lg-inline,.mui--visible-lg-inline-block,.mui--visible-md-block,.mui--visible-md-inline,.mui--visible-md-inline-block,.mui--visible-sm-block,.mui--visible-sm-inline,.mui--visible-sm-inline-block,.mui--visible-xl-block,.mui--visible-xl-inline,.mui--visible-xl-inline-block,.mui--visible-xs-block,.mui--visible-xs-inline,.mui--visible-xs-inline-block{display:none!important}@media (max-width:543px){.mui-visible-xs{display:block!important}table.mui-visible-xs{display:table}tr.mui-visible-xs{display:table-row!important}td.mui-visible-xs,th.mui-visible-xs{display:table-cell!important}.mui--visible-xs-block{display:block!important}.mui--visible-xs-inline{display:inline!important}.mui--visible-xs-inline-block{display:inline-block!important}}@media (min-width:544px) and (max-width:767px){.mui-visible-sm{display:block!important}table.mui-visible-sm{display:table}tr.mui-visible-sm{display:table-row!important}td.mui-visible-sm,th.mui-visible-sm{display:table-cell!important}.mui--visible-sm-block{display:block!important}.mui--visible-sm-inline{display:inline!important}.mui--visible-sm-inline-block{display:inline-block!important}}@media (min-width:768px) and (max-width:991px){.mui-visible-md{display:block!important}table.mui-visible-md{display:table}tr.mui-visible-md{display:table-row!important}td.mui-visible-md,th.mui-visible-md{display:table-cell!important}.mui--visible-md-block{display:block!important}.mui--visible-md-inline{display:inline!important}.mui--visible-md-inline-block{display:inline-block!important}}@media (min-width:992px) and (max-width:1199px){.mui-visible-lg{display:block!important}table.mui-visible-lg{display:table}tr.mui-visible-lg{display:table-row!important}td.mui-visible-lg,th.mui-visible-lg{display:table-cell!important}.mui--visible-lg-block{display:block!important}.mui--visible-lg-inline{display:inline!important}.mui--visible-lg-inline-block{display:inline-block!important}}@media (min-width:1200px){.mui-visible-xl{display:block!important}table.mui-visible-xl{display:table}tr.mui-visible-xl{display:table-row!important}td.mui-visible-xl,th.mui-visible-xl{display:table-cell!important}.mui--visible-xl-block{display:block!important}.mui--visible-xl-inline{display:inline!important}.mui--visible-xl-inline-block{display:inline-block!important}}@media (max-width:543px){.mui--hidden-xs{display:none!important}}@media (min-width:544px) and (max-width:767px){.mui--hidden-sm{display:none!important}}@media (min-width:768px) and (max-width:991px){.mui--hidden-md{display:none!important}}@media (min-width:992px) and (max-width:1199px){.mui--hidden-lg{display:none!important}}@media (min-width:1200px){.mui--hidden-xl{display:none!important}}.mui-scrlock--showbar-y{overflow-y:scroll!important}.mui-scrlock--showbar-x{overflow-x:scroll!important}#mui-overlay{position:fixed;top:0;right:0;bottom:0;left:0;z-index:99999999;background-color:rgba(0,0,0,.2);overflow:auto}.mui-btn__ripple-container{position:absolute;top:0;left:0;display:block;height:100%;width:100%;overflow:hidden;z-index:0;pointer-events:none}.mui-ripple{position:absolute;top:0;left:0;border-radius:50%;opacity:0;pointer-events:none;-webkit-transform:scale(.0001,.0001);transform:scale(.0001,.0001)}.mui-ripple.mui--is-animating{-webkit-transform:none;transform:none;-webkit-transition:width .3s cubic-bezier(0,0,.2,1),height .3s cubic-bezier(0,0,.2,1),opacity .3s cubic-bezier(0,0,.2,1),-webkit-transform .3s cubic-bezier(0,0,.2,1);transition:width .3s cubic-bezier(0,0,.2,1),height .3s cubic-bezier(0,0,.2,1),opacity .3s cubic-bezier(0,0,.2,1),-webkit-transform .3s cubic-bezier(0,0,.2,1);transition:transform .3s cubic-bezier(0,0,.2,1),width .3s cubic-bezier(0,0,.2,1),height .3s cubic-bezier(0,0,.2,1),opacity .3s cubic-bezier(0,0,.2,1);transition:transform .3s cubic-bezier(0,0,.2,1),width .3s cubic-bezier(0,0,.2,1),height .3s cubic-bezier(0,0,.2,1),opacity .3s cubic-bezier(0,0,.2,1),-webkit-transform .3s cubic-bezier(0,0,.2,1)}.mui-ripple.mui--is-visible{opacity:.3}.mui-btn .mui-ripple{background-color:#a6a6a6}.mui-btn--primary .mui-ripple{background-color:#FFF}.mui-btn--dark .mui-ripple{background-color:#FFF}.mui-btn--danger .mui-ripple{background-color:#FFF}.mui-btn--accent .mui-ripple{background-color:#FFF}.mui-btn--flat .mui-ripple{background-color:#a6a6a6}.mui--text-display4{font-weight:300;font-size:112px;line-height:112px}.mui--text-display3{font-weight:400;font-size:56px;line-height:56px}.mui--text-display2{font-weight:400;font-size:45px;line-height:48px}.mui--text-display1,h1{font-weight:400;font-size:34px;line-height:40px}.mui--text-headline,h2{font-weight:400;font-size:24px;line-height:32px}.mui--text-title,h3{font-weight:400;font-size:20px;line-height:28px}.mui--text-subhead,h4{font-weight:400;font-size:16px;line-height:24px}.mui--text-body2,h5{font-weight:500;font-size:14px;line-height:24px}.mui--text-body1{font-weight:400;font-size:14px;line-height:20px}.mui--text-caption{font-weight:400;font-size:12px;line-height:16px}.mui--text-menu{font-weight:500;font-size:13px;line-height:17px}.mui--text-button{font-weight:500;font-size:14px;line-height:18px;text-transform:uppercase}</style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="cache-control" content="max-age=0">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="expires" content="-1">
+<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noindex">
+<meta http-equiv="Content-Security-Policy" content="
+media-src 'self'
+  https://truyodevelopmentvideos.truyo.com
+  https://truyoproductionus.blob.core.windows.net
+  https://truyovideoservices-usct.streaming.media.azure.net;
+
+default-src 'self'
+  http://*.zscaler.net
+  http://amp.azure.net
+  https://*.zscaler.net;
+
+font-src 'self'
+  https://fonts.googleapis.com
+  http://amp.azure.net
+  https://fonts.gstatic.com
+  https://cdnjs.cloudflare.com
+  http://*.zscaler.net
+  https://*.zscaler.net;
+
+img-src * data:;
+
+style-src 'self' 'unsafe-inline'
+  https://cdnjs.cloudflare.com
+  http://amp.azure.net
+  https://ajax.cloudflare.com
+  https://fonts.googleapis.com
+  http://ajax.googleapis.com
+  https://cdn.datatables.net
+  http://code.jquery.com
+  http://*.zscaler.net
+  https://*.zscaler.net;
+
+script-src 'self' 'unsafe-inline' 'unsafe-eval' blob:
+      https://code.jquery.com
+  http://amp.azure.net
+  https://cdnjs.cloudflare.com
+  https://ajax.cloudflare.com
+  https://cdn.datatables.net
+  http://cdn.muicss.com
+  https://unpkg.com
+  https://www.google.com/recaptcha/
+  https://www.gstatic.com/recaptcha/
+  http://*.zscaler.net
+  https://*.zscaler.net;
+
+connect-src 'self' 'unsafe-inline'
+      http://amp.azure.net
+  https://truyovideoservices-usct.streaming.media.azure.net
+  https://gdpredge.auth0.com;
+
+frame-src 'self'
+  https://www.google.com/recaptcha/
+  https://releases.truyo.com/
+  http://*.zscaler.net
+  https://*.zscaler.net;
+">
+    <title>Request</title>
+    <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css">
+
+	<script src="/shared/js/jquery-3.6.0.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css">
+ 	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+ 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <!-- sanitizer -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/1.0.11/purify.min.js"></script>
+
+	<script src="/shared/js/truyo.js?v=6.1.0"></script>
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+ 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <!-- for table sorting/search/pagination  -->
+<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.19/js/dataTables.material.min.js"></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-lite/1.1.0/material.min.css">
+<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.material.min.css">
+
+<!-- need font awesome if we have both Material and Truyo icons? -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <script src="/shared/js/moment.js"></script>
+
+  <!-- material UI css + js -->
+  <script src="//cdn.muicss.com/mui-0.9.41/extra/mui-combined.min.js"></script>
+
+  <link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="shortcut icon" href="https://janusstaticcontent.z19.web.core.windows.net/ZBHP7TT1TA6SA-favicon.png?ts=6414e3dc47da5"><style>
+:root {
+  --main: rgba(0,0,0,1);
+  --main-hover: rgba(0,0,0,0.6);
+  --button-text: var(--white);
+  --nav-background-color: rgba(250,250,250,1);
+  --nav-text-color: rgba(86, 86, 86, 1);
+  --accent: rgba(228,0,43,1);
+  --accent-reduced: rgba(228,0,43,0.6);
+  --link: rgba(228,0,43,1);
+}
+</style><script>
+  var page = window.location.href.split("/");
+  page = page[page.length-1];
+  page = page.split("#");
+  page = page[0];
+  page = page.split("?");
+  page = page[0];
+
+/*
+  const urlParams = new URLSearchParams(window.location.search);
+  const debugParam = urlParams.get('debug');  
+  
+    // temporarily redirect to old custom form while preparing standard intake form method
+  if(page == 'index' && !debugParam) {
+    window.location.href = window.location.href.replace("index","request_form");      
+  }
+*/
+
+$().ready(function(){
+  $('#consumer-request-verification-signup-text').hide();
+});
+
+</script><script type="text/javascript">
+    let loading_text = `Loading...`;
+    const portal_type_loader = "consumer";
+    if(portal_type_loader != 'org') {
+        loader = '<div class="lds-grid"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><p id="">'+loading_text+'</p></div>';
+    }
+</script>
+   <!-- load ours last -->
+   <link rel="stylesheet" type="text/css" href="/shared/css/css">
+
+<style>
+.footer_container.lgp {
+width: 750px !important;
+/* width: 100% !important; */
+text-align: center !important;
+/* margin-left: 140px; */
+margin-left: 25px !important;
+}
+</style>
+</head>
+<body class="login_body login consumer">
+
+    <div class="logo display-none">
+        <img alt="Jimmy Johns" src="https://janusstaticcontent.z19.web.core.windows.net/ZBHP7TT1TA6SA.png" class="header_logo">
+    </div>
+    <div id="sign_up_header" class="header_signup cursor-default">
+    <span aria-label="signup link" title="signup link" role="button" id="consumer-index-non-mob-signup-btn" onkeypress="onKeyPressClick(event, 'consumer-non-mob-index-signup-btn')" onclick="window.location='/consumer/signup'" class="non_mob_only_show clickme" tabindex="0">
+        Do not have an account? <a href="/consumer/signup" class="signup links_underline" role="link">Sign Up</a>    </span>
+    <span class="mob_only_show">
+        Login or
+        <span aria-label="signup link" title="signup link" role="button" class="link links_underline clickme" id="consumer-index-mob-signup-btn" onkeypress="onKeyPressClick(event, 'consumer-index-mob-signup-btn')" onclick="window.location='/consumer/signup'" tabindex="0">
+            Sign Up        </span>
+    </span>
+</div>
+<script>
+const employment_portal = 'false';
+const forgot_password = 'false';
+$(document).ready(function() {
+    var ahref = $('#sign_up_header').find('a');
+    for(i = 0; i < ahref.length; i++ ) {
+        //console.log(ahref[i]);
+        if (employment_portal === 'true' ){
+            ahref[i].setAttribute('href','/employment/signup');
+        } else{
+            ahref[i].setAttribute('href','/consumer/signup')
+        }
+    }
+
+})
+</script>
+<div class="login_layout">
+
+    <div class="login_box_no_acc move-up">
+        <div class="login_box_left_no_acc">
+            <img class="large_logo" src="https://janusstaticcontent.z19.web.core.windows.net/ZBHP7TT1TA6SA.png" alt="Jimmy Johns">
+            <div id="dns-resident-text" class="resident-text ">Under the California Consumer Privacy Act, as a resident of California, you have the right to:<ul role="list"><li role="listitem">Know what personal data is being collected about you.</li><li role="listitem">Know whether your personal data is sold or disclosed, and to whom.</li><li role="listitem">Say no to the sale of your personal data.</li><li role="listitem">Access your personal data.</li><li role="listitem">Request a business to delete any personal information about you.</li><li role="listitem">Not be discriminated against for exercising your privacy rights.</li></ul></div>
+        </div>
+
+        <div class="noauth_request_box_right">
+            <!--
+                  <form action="make_request" method="get" name="back" id="back">
+                              <div class="no-auth-request-form clickme flex-full flex-center align-self-start" onclick="back.submit()">
+                                  <div class="icon icon-arrow-left header-icon"></div>
+                                  <div class="heading_color">Back</div>
+                              </div>
+                  </form>
+            -->
+            <form action="no_account_request_verify" method="POST" id="request_form_final" name="request_form" class="width-320-pad-right align-self-start flex-basis-100 scroll-y">
+                <input type="hidden" name="no_account_request" value="DoNotSell">
+                <input type="hidden" name="resident" value="CA">
+                <input type="hidden" name="token" value="%2B90hKZJBr3v3xEfjCFE73cHndbtzx6Quc6%2BhPg3CeMM%3D">
+                <input type="hidden" name="externalConsumerId" value="">
+                                <h2 class="size-22">Do not sell my data request</h2>
+                                <p class="margin-bottom-20">Please provide the information below so we can complete your request.</p>
+
+                <div id="user_information" class="form-grid-20">
+                    <label class="label_login" for="first_name">First Name                        <input aria-label="First name" class="suppressed-validation" type="text" name="first_name" id="first_name" required="" maxlength="50">
+                        <div class="validation-error" id="donotsell-first-name" aria-invalid="false">Please enter your First Name</div>
+                    </label>
+
+                    <label class="label_login" for="last_name">Last Name                        <input aria-label="Last name" class="suppressed-validation" type="text" name="last_name" id="last_name" required="" maxlength="50">
+                        <div class="validation-error" id="donotsell-last-name" aria-invalid="false">Last Name</div>
+                    </label>
+
+
+                    <div id="has_email">
+                        <label class="label_login" for="email">Email                            <input aria-label="Email address" aria-describedby="email_err" data-custom-value="Please provide a valid email address" class="suppressed-validation" type="email" name="email" id="email" required="" maxlength="254" onkeyup="do_emails_match()">
+                            <div class="sub-email-text">  </div>
+                            <div class="validation-error" id="email_err" aria-invalid="false">Please provide a valid email address</div>
+                        </label>
+
+                        <label class="label_login" for="confirm_email">Confirm your Email                            <input aria-label="Confirm Email address" class="suppressed-validation" data-custom-value="Please provide a valid email address" type="email" name="confirm_email" id="confirm_email" required="" maxlength="254" onkeyup="do_emails_match()">
+                            <div class="validation-error" aria-invalid="false">Please provide a valid email address</div>
+                        </label>
+                        <div class="validation-error" id="email_validation_messages" aria-invalid="false"></div>
+                    </div>
+
+                    <!-- auth agent flow -->
+                    <div aria-checked="false" role="checkbox" tabindex="0" onkeypress="onKeyPressClick(event, 'yes-agent')" class="mui-checkbox" id="noauth-make-request-aa-box">
+  <input type="checkbox" name="yes-agent" id="yes-agent" value="agency" onchange="toggle_aria_checked (this);">
+  <label for="yes-agent">I am acting as an authorized agent<p>for the person named above
+</p></label></div>
+
+
+<div id="auth-agent" style="display: none;">
+  <label class="label_login" for="agent_name">Authorized Agent's Name *
+  <input aria-label="Agent's name" class="suppressed-validation" type="text" name="agent_name" id="agent_name" maxlength="50">
+  <div class="validation-error" aria-invalid="false">Authorized agent's name is required</div>
+  </label>
+
+  <label class="label_login" for="agent_email">Authorized agent's Email *
+  <input aria-label="Email address" class="suppressed-validation" type="email" data-custom-value="Email address is required" name="agent_email" id="agent_email" maxlength="254" onkeyup="do_emails_match('#agent_email','#confirm_agent_email','#agent_email_validation_messages')">
+  <div class="validation-error" aria-invalid="false">Email address is required</div>
+  </label>
+
+  <label class="label_login" for="confirm_email">Confirm Authorized agent's Email *
+  <input aria-label="Email address" class="suppressed-validation" type="email" data-custom-value="Email address is required" name="confirm_agent_email" id="confirm_agent_email" maxlength="254" onkeyup="do_emails_match('#agent_email','#confirm_agent_email','#agent_email_validation_messages')">
+  <div class="validation-error" aria-invalid="false">Email address is required</div>
+  </label>
+
+  <div class="validation-error" id="agent_email_validation_messages" aria-invalid="false"></div>
+
+  <label class="label_login" for="agent_phone">Authorized Agent's Phone Number *
+  <input aria-label="Agent Phone" class="suppressed-validation" type="text" name="agent_phone" id="agent_phone" maxlength="24">
+  <div class="validation-error" aria-invalid="false">Phone number is required</div>
+  </label>
+</div>
+
+<script>
+    $('#auth-agent').toggle(false);
+    // auth agent
+    $('#yes-agent').on('click keypress', event=>{
+        $this = $(event.target);
+        let shown = $this.is(':checked');
+        $('#auth-agent').toggle(shown);
+        if ($('#auth-agent').is(':visible')) {
+            $('#auth-agent').css('display', 'contents');
+        }
+        // $('#auth-agent .validation-error').hide();
+        $('#agent_name,#agent_email,#agent_email,#confirm_agent_email,#agent_phone').val('');
+        $('#agent_email_validation_messages').text("").hide();
+        $('#agent_email').removeClass('invalid');
+        $('#confirm_agent_email').removeClass('invalid');
+        // set required properties
+        $('#agent_email, #agent_name, #confirm_agent_email,#agent_phone').prop('required', shown);
+        $('#request_form-submit_final').prop('disabled', false );
+
+    });    
+
+    function authAgentEmailValidation() {
+          // auth agent email validation
+        if($("#agent_email").val() !== ''){ 
+          if($("#email").val() !== $("#agent_email").val()) {
+            $('#agent_email').addClass("suppressed-validation");
+            $('#agent_email').removeClass("invalid");
+            $('#agent_email').next('.validation-error').text("Email is required").fadeOut();
+          } else {
+            $('#agent_email').removeClass("suppressed-validation");
+            $('#agent_email').addClass("invalid");
+            $('#agent_email').next('.validation-error').css('opacity','1').text("Authorized agent's email must be different than requester's email.").fadeIn();
+          }
+        }
+    }
+</script>
+                    <div id="noauth-step3-resident-confirm">
+                        I declare under penalty of perjury I am the person identified above and the information I provide to this Privacy Portal is true and accurate.                    </div>
+
+                </div>
+                <!-- user information div end -->
+                <!-- verification questions -->
+                <div id="verification-questions" class="display-none">
+                                    </div>
+
+                <div class="margin-top-28">
+                    <button class="button login_button" type="submit" id="request_form-submit_final">
+                        <div class="icon icon-check"></div>
+                        <div class="button_text_icon_before" id="donotsell-submit-request-btn">Submit Request</div>
+                    </button>
+                    <button class="button login_button display-none" type="button" id="next_req_button" role="button">
+                        <div class="icon icon-arrow-right"></div>
+                        <div class="button_text_icon_before">Next</div>
+                    </button>
+                                    </div>
+        </form></div>
+        
+    </div>
+</div>
+<script>
+    $('#request_form_final input').on('change blur', ()=>{
+        if($('#yes-agent').is(':checked')) {
+            authAgentEmailValidation();
+            $('#request_form_final').prop('action','get_noauth_step4');
+        } else {
+            $('#request_form_final').prop('action','no_account_request_verify');
+        }
+        //console.log($("#request_form_final").find(':invalid').length);
+        $('#request_form-submit_final').removeAttr("disabled");;
+    });
+
+    // noauth step 3
+    $('#request_form-submit_final').on('click',function(e){
+        e.preventDefault();
+        inputChecking();
+        // if left empty refocus on missing input
+        if ( $("#first_name").val() == '') {  $("#first_name").focus(); return false; }
+        if ( $("#last_name").val() == '') {  $("#last_name").focus(); return false; }
+        if ( $("#email").val() == '') {  $("#email").focus(); return false; }
+        if ( $("#confirm_email").val() == '') {  $("#confirm_email").focus(); return false; }
+
+        if($("#request_form_final").find(':invalid').length === 0){
+            if($('#yes-agent').is(':checked')) {
+                if($("#email").val() !== $("#agent_email").val() &&
+                    $("#agent_email").val() === $("#confirm_agent_email").val()) {
+                    $("#request_form_final").submit();
+                }
+            } else {
+                $("#request_form_final").submit();
+            }
+        }
+    });
+
+    /* hiding this - do not remove will implement in future
+    // check verification questions enabled
+    var show_verify_questions = "";
+    var show_submit = "#request_form-submit_final, #donotsell-cancel-btn";
+    var show_next = "#next_req_button";
+
+    if(show_verify_questions) {
+        $(show_submit).addClass('display-none');
+        $(show_next).removeClass('display-none');
+        $(show_next).prop('disabled', true);
+        $('#request_form_final').on('change', function() {
+            if($('#yes-agent').is(':checked')) {
+              if($("#email").val() !== $("#agent_email").val() &&
+              $("#agent_email").val() === $("#confirm_agent_email").val()) {
+                $(show_next).prop('disabled', $("#request_form_final").find(':invalid').length !== 0);
+              }
+            } else {
+              $(show_next).prop('disabled', $("#request_form_final").find(':invalid').length !== 0);
+            }
+        });
+
+        $(show_next).on('click', function() {
+            $('#user_information').addClass('display-none');
+            $('#verification-questions').removeClass('display-none');
+            $(show_submit).removeClass('display-none');
+            $(show_next).addClass('display-none');
+            var offset_value = $('#request_form_final').offset();
+            scrollTopByValue(offset_value.top);
+        });
+    } else {
+        $(show_submit).removeClass('display-none');
+        $(show_next).addClass('display-none');
+    }
+    */
+</script>
+
+
+
+<!-- idle warning -->
+<div id="idle_timeout" class="modal modal-warning">
+  <div class="modal_container">
+    <div class="modal_text_title">
+      <span data-icon="x" class="h1-icon"></span> Session Timeout
+    </div>
+
+    <div class="modal_center_content_text2">
+      Your session is about to expire due to inactivity. Press continue to stay signed in, otherwise we will sign you out automatically in <span id="time-until-logout">0</span> seconds.
+    </div>
+  </div>
+
+  <div class="modal_bottom">
+    <div>&nbsp;</div>
+      <a href="#" id="idle_continue_btn" class="button" role="link">
+      <div class="button_text">Continue</div>
+    </a>
+  </div>
+</div>
+
+<!-- footer -->
+<footer class="footer grid-span consumer" role="contentinfo" data-html2canvas-ignore="true">
+        <div id="tos" class="modal">
+        <div class="modal_container">
+            <div id="top_terms"></div>    <h1 class="text_align-center">Website Terms of Use</h1>    <p><i>Last Modified: 04/10/2019</i></p>    <p>This page describes the terms and conditions that govern your use of this website together with any materials provided therein, and any subdomains thereof (the “Website”). Please see our Privacy Policy for information on our      data collection practices. PLEASE REVIEW THESE TERMS CAREFULLY. YOUR ACCESS TO AND/OR USE OF THE WEBSITE CONSTITUTES YOUR ACCEPTANCE OF, AND CONSENT TO BE BOUND BY, THESE TERMS. IF YOU DO NOT ACCEPT AND CONSENT TO BE BOUND BY THESE TERMS, THEN      YOU MUST NOT USE OR ACCESS THE SITE.    </p>    <h3>Eligibility and Scope of Agreement</h3>    <p>This Website is offered and available to users who 18 years of age or older. By using this Website, you represent and warrant that you are of legal age to form a binding contract with us. If you do not meet all of these      requirements, you must not access or use the Website. By choosing to use the Website, you are agreeing to abide by all of the terms and conditions of these Terms of Use and the Privacy Policy between you and us. If you do not want to agree to      these Terms of Use or the Privacy Policy, you must not access or use the Website.</p>    <h3>Changes to the Terms of Use</h3>    <p>We may change, add or remove portions of these Terms of Use at any time, which shall become effective immediately upon posting. It is your responsibility to review these Terms of Use prior to each use of the Website and by      continuing to use this Website, you agree to any changes.</p>    <h3>Access and Security</h3>    <p>We reserve the right to withdraw or amend this Website, and any service or material we provide on the Website, in our sole discretion without notice. We will not be liable if for any reason all or any part of the Website is      unavailable at any time or for any period. From time to time, we may restrict access to some parts of the Website, or the entire Website, to any users. It is your responsibility to arrange for your access to this Website and ensure that all      persons accessing the Website through your internet connection are aware of these Terms of Use and comply with them.</p>    <h3>Proprietary Rights and Limited License</h3>    <p>We (and our licensors) retain all rights to all data and information on our sites and online services, including text, graphics, images, designs, articles, business processes, and any other form of content (collectively      referred to as “content”). You agree that any such content is the intellectual property of our company. We agree that information you provide on our Website is not part of this content, and you agree that any information you provide we may use      to operate our systems, store in our secure databases, and use to facilitate the providing of services to you. By agreeing to these terms of service we grants you a limited, non-exclusive, and non-transferable license to use our online      services for your personal and business use, provided that you do not modify the content in any way and that you include any copyright and proprietary notices displayed in or on the content. You agree to only use our online services for the      purpose of engaging and interacting with use.</p>    <h3>Restrictions</h3>    <p>You may use the Website only for lawful purposes and in accordance with these Terms of Use. You agree not to use the Website:</p>    <ul role="list">      <li role="listitem">To access parts of the Website to which you are not authorized;</li>      <li role="listitem">In any way that violates any applicable federal, state, local or international law or regulation.</li>      <li role="listitem">To impersonate or attempt to impersonate the Company, a Company employee, another user or any other person or entity.</li>      <li role="listitem">To engage in any other conduct that restricts or inhibits anyone's use or enjoyment of the Website, or which, as determined by us, may harm the Company or users of the Website or expose them to liability.</li>      <li role="listitem">In any manner that could disable, overburden, damage, or impair the Website or interfere with any other party's use of the Website, including their ability to engage in real time activities through the Website.</li>      <li role="listitem">To engage in any activity that which is malicious or technically harmful to the proper working of the Website.</li>      <li role="listitem">To collect or aggregate data about users of this Website;</li>      <li role="listitem">To reproduce, modify, adapt, translate, create derivative works of, sell, rent, lease, loan, timeshare, distribute or otherwise exploit any portion of (or any use of) the Website except as expressly authorized herein;</li>      <li role="listitem">If you print, copy, modify, download or otherwise use or provide any other person with access to any part of the Website in breach of the Terms of Use, your right to use the Website will cease immediately and you must, at        our option, return or destroy any copies of the materials you have made. No right, title or interest in or to the Website or any content on the Website is transferred to you, and all rights not expressly granted are reserved by us. Any use        of the Website not expressly permitted by these Terms of Use is a breach of these Terms of Use and may violate copyright, trademark and other laws.</li>    </ul>    <h3>Copyrights</h3>    <p>All content and functionality on the Website, including any text, graphics, logos, icons, and images and the selection and arrangement thereof, is the exclusive property of the Company or our licensors and is protected by      U.S. and international copyright laws. All rights not expressly granted are reserved.</p>    <h3>User Information</h3>    <p>You are solely responsible for the content and the accuracy of the information you submit to the Website, including any changes to any outdated information. It is a condition of your use of the Website that any information      you provide on the Website is correct, current and complete. All submitted materials (documents, information, comments, etc.) are treated as non-confidential and does not create any legal, fiduciary, or other obligation on behalf of us to you.      We may screen, monitor, evaluate and remove any submitted materials at any time and for any reason. Personal information submitted to us will be governed by our <a class="links_underline" title="privacy" aria-label="privacy" href="#privacy" rel="modal:open" role="link">Privacy Policy</a>.</p>    <h3>Monitoring and Enforcement; Termination</h3>    <p>We have the right to take appropriate legal action, including without limitation, referral to law enforcement, for any illegal or unauthorized use of the Website. In addition, we have the right to terminate or suspend your      access to all or part of the Website for any or no reason, including without limitation, any violation of these Terms of Use.</p>    <p>YOU WAIVE AND HOLD US HARMLESS AND OUR AFFILIATES, LICENSEES AND SERVICE PROVIDERS FROM ANY CLAIMS RESULTING FROM ANY ACTION TAKEN BY ANY OF THE FOREGOING PARTIES DURING OR AS A RESULT OF ITS INVESTIGATIONS AND FROM ANY      ACTIONS TAKEN AS A CONSEQUENCE OF INVESTIGATIONS BY EITHER US OR LAW ENFORCEMENT AUTHORITIES.</p>    <h3>No Legal Advice or Fiduciary Obligations</h3>    <p>None of information on the Website shall not be construed as legal advice or relied on as legal advice, or a substitution for the advice of an attorney in any way. We are not engaged in the practice of law and do not provide      legal advice including with respect to compliance with the EU’s General Data Protection Regulation (GDPR) or other state privacy legislations. The information presented on or through the Website is made available solely for general information      purposes. We do not warrant the accuracy, completeness or usefulness of this information. Any reliance you place on such information is strictly at your own risk. We disclaim all liability and responsibility arising from any reliance placed on      such materials by you or any other visitor to the Website, or by anyone who may be informed of any of its contents.</p>    <h3>Changes to the Website</h3>    <p>We may update the content on this Website from time to time, but its content is not necessarily complete or up-to-date. Any of the material on the Website may be out of date at any given time, and we are under no obligation      to update such material.</p>    <h3>Geographic Restrictions</h3>    <p>User access to this Website is governed by all applicable federal, state and local laws. All information available on the Website is subject to U.S. export control laws and may also be subject to the laws of the country      where you reside. We makes no representation that information or materials in the site are appropriate or available for use in other locations, and access to them from territories where their content is illegal is prohibited. Those who choose      to access this site from other locations do so on their own initiative and are responsible for compliance with applicable local laws.</p>    <h3>Disclaimer of Warranties</h3>    <p>The Website may include inaccuracies, errors and materials that violate or conflict with these Terms. Additionally, third parties may make unauthorized alterations to the Website. YOUR USE OF THE WEBSITE, ITS CONTENT AND ANY      SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE IS AT YOUR OWN RISK. THE WEBSITE, ITS CONTENT AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, EITHER      EXPRESS OR IMPLIED. WE HEREBY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT AND FITNESS FOR PARTICULAR PURPOSE.</p>    <p>The foregoing does not affect any warranties which cannot be excluded or limited under applicable law.</p>    <h3>Limitation on Liability</h3>    <p>IN NO EVENT WILL WE, OUR AFFILIATES OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR      INABILITY TO USE, THE WEBSITE, ANY WEBSITES LINKED TO IT, ANY CONTENT ON THE WEBSITE OR SUCH OTHER WEBSITES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO, PERSONAL INJURY,      PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT OR OTHERWISE,      EVEN IF FORESEEABLE.</p>    <p>The foregoing does not affect any liability which cannot be excluded or limited under applicable law.</p>    <h3>Governing Law and Jurisdiction</h3>    <p>These Terms of Use constitute the entire agreement between you and us and govern your use of the Website. All matters relating to the Website and these Terms of Use and any dispute or claim arising therefrom or related      thereto (in each case, including non-contractual disputes or claims), shall be governed by and construed in accordance with the internal laws of the State of Arizona without giving effect to any choice or conflict of law provision or rule      (whether of the State of Arizona or any other jurisdiction).</p>    <p>Any legal suit, action or proceeding arising out of, or related to, these Terms of Use or the Website shall be instituted exclusively in the federal courts of the United States or the courts of the State of Arizona in each      case located in the County of Maricopa. You waive any and all objections to the exercise of jurisdiction over you by such courts and to venue in such courts. If any provision of these Terms of Use is found by a court of competent jurisdiction      to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of the Terms of Use remain in full force and effect. In the case of      any violation of these Terms of Use, we reserve the right to seek all remedies available by law and in equity for such violations.</p>    <h3>Limitation on Time to File Claims</h3>    <p>ANY CAUSE OF ACTION OR CLAIM YOU MAY HAVE ARISING OUT OF OR RELATING TO THESE TERMS OF USE OR THE WEBSITE MUST BE COMMENCED WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES, OTHERWISE, SUCH CAUSE OF ACTION OR CLAIM IS      PERMANENTLY BARRED.</p>    <h3>Waiver and Severability</h3>    <p>No waiver of by the Company of any term or condition set forth in these Terms of Use shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of the      Company to assert a right or provision under these Terms of Use shall not constitute a waiver of such right or provision.</p>    <p>If any provision of these Terms of Use is held by a court or other tribunal of competent jurisdiction to be invalid, illegal or unenforceable for any reason, such provision shall be eliminated or limited to the minimum      extent such that the remaining provisions of the Terms of Use will continue in full force and effect.</p>    <h3>Entire Agreement</h3>    <p>These Terms of Use and our Privacy Policy constitute the sole and entire agreement between you and us with respect to the Website and supersede all prior and contemporaneous understandings, agreements, representations and      warranties, both written and oral, with respect to the Website.</p>        </div>
+      </div>
+      <div id="privacy" class="modal">
+        <div class="modal_container">
+          <style>  #top_pp td,  #top_pp th {    font-size: 16px;    text-align: left;    padding: 8px;  }  #top_pp th {    font-weight: 500;  }  #top_pp tr td:first-child {    width: 25%;  }  #top_pp tr td:last-child {    width: 60%;  }</style><div id="top_pp"></div><h1 class="text_align-center">Privacy Policy</h1><p><i>Last Modified: 04/10/2019</i></p><p>Welcome to your data privacy portal. This Portal is designed to facilitate access to the personal data collected about you by the company who collected it from you, known as the “Controller”. This Portal provides you with the  unique opportunity to not only access your personal data, but also easily submit requests about your personal data directly to the Controller. The Controller will respond to those requests.</p><p>This notice explains: 1) How the Portal Works; 2) Who controls your personal data in various circumstances; and 3) How we processes your data. Please read this notice carefully.</p><h2>How Does the Portal Work</h2><p>When your personal data was collected by the Controller, the Controller submitted that personal data to the Portal in order to provide you access  to it and to help facilitate the exercising of your rights. Your rights with respect to your personal data depend on certain factors, so you should  review your Controller’s privacy notice to understand what those rights are and how to exercise them. This Portal is a means of communication between  you and the Controller of your personal data.</p><h2>Cookies</h2><p>A cookie is a piece of code that allows the web server to identify and track activity of the web browser. We use these in order to make websites  work more efficiently and analyze our traffic. Cookies are widely used in order to make websites work more efficiently, as well as to provide  information to the owners of the website. We may use both “Session Cookies” and “Persistent Cookies” on this website. Session Cookies will be  deleted from your computer when you close your browser. Persistent Cookies will remain stored on your computer until deleted, or until they reach  a specified expiry date.</p><h2>Types of Cookies</h2><p>Different cookies are used for different purposes. Our site may use these types of cookies:</p><ul role="list">  <li role="listitem"><strong>Strictly necessary cookies.</strong> Our website requires the use of these cookies to properly operate or provide necessary functions relating to the services you request. For example, our website uses cookies to identify trusted web traffic.  </li>  <li role="listitem"><strong>Analytics cookies.</strong> These cookies allow us to improve how our website works, by allowing us and our third-party service providers to recognize and count the number of visitors and to see how visitors    move around our website when they are using it. These cookies generate aggregate statistics that are not associated with an individualized profile.</li></ul><p>  You have a choice about the placement of cookies on our Portal. You can also use your web browser to directly block all cookies, or just third-party  cookies, through your browser settings. Using your browser settings to block all cookies, including strictly necessary ones, may interfere with proper operation of the Portal. Guidance on how to control cookies in popular browsers is contained  here:</p><ul role="list">  <li role="listitem"><a class="links_underline" title="Microsoft Internet Explorer" aria-label="Microsoft Internet Explorer" href="https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies" target="_blank" role="link"> Microsoft Internet Explorer</a></li>  <li role="listitem"><a class="links_underline" title="MacOS Safari" aria-label="MacOS SafariMacOS Safari" href="https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac" target="_blank" role="link"> MacOS Safari</a></li>  <li role="listitem"><a class="links_underline" title="Mozilla Firefox" aria-label="Mozilla Firefox" href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences" target="_blank" role="link"> Mozilla Firefox</a></li>  <li role="listitem"><a class="links_underline" title="Google Chrome" aria-label="Google Chrome" href="https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&amp;hl=en" target="_blank" role="link"> Google Chrome</a></li></ul><p>  Google allows users to opt out of tracking by Google Analytics and Google Analytics Demographics and Interest Reporting services. You can adjust your setting <a class="links_underline" title="Google Analytics Demographics" aria-label="Google Analytics Demographics" href="https://adssettings.google.com/u/0/authenticated" target="_blank" role="link">here</a>,  or download the <a class="links_underline" title="GA Browser Add-on" aria-label="GA Browser Add-on" href="https://tools.google.com/dlpage/gaoptout" target="_blank" role="link">Google Analytics Opt-Out Browser Add-on</a>. We do not currently respond to 'do not track' signals and similar settings or mechanisms.</p><h2>How Do I Use The Portal?</h2><p>The Portal provides a means by which you can communicate with the Controller regarding your rights. Except for the email and password used to create a GDPR Edge account, the Controller is responsible for your personal data. This chart  explains how the GDPR Edge Portal facilitates the exercise of your rights under the GDPR.</p><table>  <tbody>    <tr>      <th>Requested Action</th>      <th>Responsible Party</th>      <th>What Actions Are Taken</th>    </tr>    <tr>      <td>I want to see what personal data the Controller has about me.</td>      <td>The Controller</td>      <td>When your personal data was collected, it was uploaded to the GDPR Edge platform to provide you access with it. The Controller has provided you with this information through the Portal.</td>    </tr>    <tr>      <td>I want to know why my personal data is being processed.</td>      <td>The Controller</td>      <td>When you access the Portal, the purposes for processing your personal data are provided by the Controller.</td>    </tr>    <tr>      <td>I want to see the categories of personal data processed.</td>      <td>The Controller</td>      <td>When you access the Portal, the categories of personal data are provided by the Controller.</td>    </tr>    <tr>      <td>I want to know who has received my personal data.</td>      <td>The Controller</td>      <td>You may submit this request to your Controller via the Portal.</td>    </tr>    <tr>      <td>I want to know how long my personal data will be stored.</td>      <td>The Controller</td>      <td>You may submit this request to your Controller via the Portal.</td>    </tr>    <tr>      <td>I want to object to the processing of my personal data.</td>      <td>The Controller</td>      <td>You may submit this request to your Controller via the Portal.</td>    </tr>    <tr>      <td>I want to request that my personal data be changed.</td>      <td>The Controller</td>      <td>You may submit this request to your Controller via the Portal.</td>    </tr>    <tr>      <td>I want to request that my personal data be deleted.</td>      <td>The Controller</td>      <td>You may submit this request to your Controller via the Portal.</td>    </tr>    <tr>      <td>I want to request that my personal data be transferred to a third party.</td>      <td>The Controller</td>      <td>You may submit this request to your Controller via the Portal.</td>    </tr>    <tr>      <td>I want to make a complaint regarding my personal data.</td>      <td>The Controller</td>      <td>You should review the Controller’s privacy notice regarding your right to complain. You may also request this information from your Controller via the Portal.</td>    </tr>    <tr>      <td>I want to know whether I was subject to automated decision making or profiling.</td>      <td>The Controller</td>      <td>You may submit this request to your Controller via the Portal.</td>    </tr>    <tr>      <td>I want to create an account on the Data Privacy Portal</td>      <td>Truyo</td>      <td>We collect an email and password for the purpose of providing you access to the Portal.</td>    </tr>  </tbody></table><h2>How We Use Your Personal Data</h2><p>As a data processor for the personal data provided to us by the Controller, we do not do anything with your personal information unless the Controller has instructed us to do it. We will hold it securely and retain it for the period  instructed.</p><p>As a controller of the personal data you provide us (i.e. your email and password), we use it solely to provide access and facilitate the use of the GDPR Edge Portal. Our legal basis for processing is the legitimate interest of ensuring  secure access to the Portal and properly verifying the identity of users requesting access to personal data.</p><h2>Disclosures Of Your Personal Data</h2><p>We will not share your information with any third parties or sell your information to anyone.</p><p>To provide this platform, we use data processors who are third parties who provide elements of services for us. We have contracts in place with our data processors. This means that they cannot do anything with your personal  information unless we have instructed them to do it. They will hold it securely and retain it for the period we instruct.</p><p>We may also share your personal information with third parties in connection with the sale of our business, to enforce our Terms of Use or rules, to ensure the safety and security of the other Portal users and third parties, to protect  our rights and property and the rights and property of our Portal users and third parties, to comply with legal process, or in other cases if we believe in good faith that disclosure is required by law. We will make efforts to inform  you when any of these circumstances occur.</p><h2>Data Security</h2><p>We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorized way, altered or disclosed. In addition, we limit access to your personal data to those  employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality. We have put in place procedures  to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.</p><h2>Data Retention</h2><p>As a data processor for the personal data provided to us by the Controller, we will hold it securely and retain it for the period instructed.</p><p>With respect to the personal data you provide directly to us, we will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting,  or reporting requirements. Generally, the time we retain your personal data is related to the amount of time you continue to have an account with us. In some circumstances you can ask us to delete your personal data (see “EU Data  Subjects Legal Rights”). Whether we are able to honor such a request depends on the circumstances of the request.</p>        </div>
+      </div>
+            <div class="footer_container lgp" role="contentinfo"><div class="footer_container" role="contentinfo"><div class="container tls" style="display: none;"><img alt="Truyo logo" class="footer_image_truyo" src="/shared/images/truyo-logo.png"><span class="-an-IntraEdge-produ"><span class="text-style-1">|&nbsp;</span>an IntraEdge product</span></div><div class="container ctl"><img class="footer_image_truyo padding-right_29" src="/shared/images/compliance_by_truyo.png" alt="compliance by truyo png"></div><div class="container"><img alt="Intel logo" class="footer_image_intel" src="/shared/images/intel.png"></div><div class="container"><ul role="list" aria-label="Footer links"><li class="footer_divider_line" role="listitem"></li><li class="footer_link_container" role="listitem"><a class="footer_link" href="/organization/terms_of_service" target="_new" tabindex="0" role="link">Terms of Service</a></li><li class="footer_divider_line" role="listitem"></li><li class="footer_link_container" role="listitem"><a class="footer_link" href="/organization/privacy_policy" target="_new" tabindex="0" role="link">Privacy Statement</a></li>        <li class="footer_divider_line" role="listitem"></li>
+
+        <li id="footer_act_lang" class="footer_link_container footer_language_btn" role="listitem">
+          <a role="button" aria-label="Language selection" class="language_circle clickme" href="javascript:void(0)" tabindex="0">EN</a>
+        </li>
+
+        <!-- language selection -->
+        <li id="footer_language_selection" class="footer_language_hidden" role="listitem">
+          <ul tabindex="0" role="list">
+                        <li tabindex="1" role="listitem">
+              <a data-language="en" onclick="change_language(event)" href="javascript:void(0);" tabindex="0" onkeypress="$(this).click()" role="link">English</a>
+            </li>
+          </ul>
+        </li></ul></div></div></div><!-- for now remove truyo logo
+			<div class="footer_element truyo-footer-logo">
+				<img class="footer_image_truyo" src=../images/compliance_by_truyo.png>
+			</div>
+-->
+<style>
+.footer_language_hidden {
+  display: none !important;
+}
+</style>
+</footer>
+
+
+<script>
+  $(document).on($.modal.OPEN, function(event, modal) {
+    event.preventDefault();
+    $('.jquery-modal').animate({ scrollTop: 0 }, "fast");
+
+    // Modal attributes
+    var dialogID = ($('.jquery-modal div').first().attr('id') !== '') ? $('.jquery-modal div').first().attr('id') : 'dialog';
+
+    $('.jquery-modal div').first().attr({
+        'role': 'dialog',
+        'aria-labelledby': dialogID+'_label',
+        'aria-describedby': dialogID+"_desc",
+        'aria-modal':"true",
+        'tabindex':-1,
+        'aria-hidden':false
+    });
+
+    $('.jquery-modal div').find('a').attr('role','button');
+
+  });
+</script>
+
+<script>
+  const footerLanguageBtn = `        <li class="footer_divider_line"></li>
+
+        <li id="footer_act_lang" class="footer_link_container footer_language_btn">
+          <a role="button" aria-label="Language selection" class='language_circle clickme' href="javascript:void(0)" tabindex="0">EN</a>
+        </li>
+
+        <!-- language selection -->
+        <li id="footer_language_selection" class="footer_language_hidden">
+          <ul tabindex="0">
+                        <li tabindex="1">
+              <a data-language="en" onclick="change_language(event)" href="javascript:void(0);">English</a>
+            </li>
+          </ul>
+        </li>`;
+  const footerLangSelection = '#footer_language_selection';
+  const footerHiddenClass = "footer_language_hidden";
+  const portal_type = `consumer`;
+
+  // on ready
+  $(() => {
+    $(document).find('.footer_container ul').last().append(footerLanguageBtn);
+    $(footerLangSelection).addClass(footerHiddenClass);
+
+    // toggle lanuage selection
+    $(document).on('click', '#footer_act_lang', function(event) {
+      event.preventDefault();
+
+      var toggleLanguageSelection = $(document).find(footerLangSelection).hasClass(footerHiddenClass);
+
+      if(toggleLanguageSelection && portal_type == 'consumer') {
+        $(footerLangSelection).removeClass(footerHiddenClass).focus();
+      } else {
+        $(footerLangSelection).addClass(footerHiddenClass);
+      }
+    });
+
+    // only for consumer
+    if(portal_type == 'consumer') {
+      wCAGElements();
+    }
+  });
+
+  // change language
+  function change_language(event) {
+      event.preventDefault();
+      const csrf_token = `%2B90hKZJBr3v3xEfjCFE73cHndbtzx6Quc6%2BhPg3CeMM%3D`;
+      const lang = DOMPurify.sanitize(
+        event.target.dataset.language, {
+          ALLOWED_TAGS: []
+        }
+      );
+
+      $(footerLangSelection).addClass(footerHiddenClass); // hide div
+
+      // to save language in truyo cache
+      $.ajax({
+        type: 'POST',
+        url: '/consumer/includes/update_language_settings.php',
+        data: {
+          'activeLanguage' : lang,
+          'retailerId' : `ZBHP7TT1TA6SA`
+        },
+        headers:{
+          'token': csrf_token
+        },
+        error:function(x, t, m){
+          console.log(t+": "+m);
+        },
+        success:function(response){
+          if(response == 'true') {
+            location.reload();
+            $("html, body").animate({ scrollTop: 0 }, "slow");
+          }
+        }
+      });
+  }
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+      $pcf = 'consumer';
+      if($pcf == 'org') {
+        $(".ctl").hide();
+        $(".tls").show();
+      }
+      if($pcf == 'consumer'){
+        $(".tls").hide();
+        $(".ctl").show();
+      }
+    });
+</script>
+
+</body></html>
