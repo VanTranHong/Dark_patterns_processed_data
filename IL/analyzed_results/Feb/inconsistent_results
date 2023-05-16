@@ -1,0 +1,11 @@
+,Index,Text,Dates
+0,40,"['No', 'Do not sell']","['2023-02-16', '2023-02-21']"
+1,114,"['No', 'Do not sell']","['2023-02-16', '2023-02-21']"
+2,152,"['Do not sell', 'Ambiguous']","['2023-02-16', '2023-02-21']"
+3,365,"['Do not sell', 'Do not sell or share']","['2023-02-16', '2023-02-21']"
+4,377,"['Do not sell or share', 'Do not sell']","['2023-02-16', '2023-02-21']"
+5,381,"['Do not sell', 'Do not sell or share']","['2023-02-16', '2023-02-21']"
+6,425,"['Do not sell', 'Do not sell or share']","['2023-02-16', '2023-02-21']"
+7,446,"['Do not sell', 'Do not sell or share']","['2023-02-16', '2023-02-21']"
+8,462,"['No', 'Ambiguous']","['2023-02-16', '2023-02-21']"
+9,582,"['Ambiguous', 'Do not sell']","['2023-02-16', '2023-02-21']"

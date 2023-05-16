@@ -1,0 +1,8251 @@
+,Index,Check,Block_x,page jump_x,Filename,Do not sell Text,Do not sell Found,Privacy Choice Text,Privacy Choice Found,Opt out Text,Opt out Found,Search bar status,Block_y,page jump_y,From image search
+0,399,True,,,ncbi_399,"do not sell]
+
+fo
+","fo
+","privacy choice|
+
+ 
+","fo
+","opt out}
+
+fo
+","fo
+",Ambiguous,,,Ambiguous
+1,400,True,,,nature_400,"do not sell
+
+1
+","1
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+2,401,True,,,org_401,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+
+ 
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+3,402,True,,,biomedcentral_402,"Manage cookies/Do not sell my data 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+4,403,True,,,innerbody_403," 
+
+Do Not Sell My Info| 1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out} 413
+","13
+",Do not sell,,,Do not sell
+5,404,True,,,cell_404,"do not sell 0/0
+","o/o
+","privacy choice| Wi
+","1""
+","opt out 0/0
+","o/o
+",Privacy Choices,,,Privacy Choices
+6,405,True,,,expasy_405,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+7,406,True,,,biologyonline_406,"do not sell 0/0
+
+ 
+"," 
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+8,407,True,,,jbc_407,"do not sell o/c
+",,"privacy choice|
+",,"opt out
+",,Ambiguous,,,Ambiguous
+9,408,True,,,broadinstitute_408,"do not sell 0/0
+
+—
+","o/o
+","privacy choice| 0/0
+
+—
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+10,409,True,,,genome_409,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+11,410,True,,,ornl_410,"do not sell
+
+ws = Q
+
+o/o
+","o/o
+","privacy choice|
+
+ws = Q
+
+o/o
+","o/o
+","opt out
+
+ws = Q
+
+o/o
+","o/o
+",No,,,No
+12,411,True,,,hhmi_411,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+13,412,True,,,genecards_412,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+14,413,True,,,org_413,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+15,414,True,,,addgene_414,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+16,415,True,,,neb_415,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+17,416,True,,,gov_416,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+18,417,True,,,epa_417,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+19,418,True,,,acs_418,"do not sell
+
+o/o
+","o/o
+","privacy choice| c
+
+ 
+"," 
+","opt out
+
+ 
+"," 
+",Privacy Choices,,,Privacy Choices
+20,419,True,,,rsc_419,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+21,420,True,,,webqc_420," 
+
+Do Not Sell My Personal information| 1/1
+
+ 
+"," 
+
+1
+",,," 
+
+opt out 0/0
+"," 
+",Do not sell,,,Do not sell
+22,421,True,,,webqc_421," 
+
+Do Not Sell My Personal information| 1/1
+
+ 
+"," 
+
+1
+",,," 
+
+opt out 0/0
+"," 
+",Do not sell,,,Do not sell
+23,422,True,,,cas_422,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+24,423,True,,,noaa_423,"| do not sell 0/0
+
+ 
+"," 
+","| privacy choice| 0/0
+
+ 
+"," 
+"," 
+"," 
+",Ambiguous,,,Ambiguous
+25,424,True,,,nps_424,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+26,425,True,,,livescience_425,"iellor share my personal information| 1/1
+","1
+","privacy choice| o/c
+",,"opt out
+",,Do not sell or share,,,Do not sell or share
+27,426,True,,,nature_426,"do not sell
+
+1
+","1
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+28,427,True,,,epa_427,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+29,428,True,,,treehugger_428,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+13
+","13
+",Do not sell,,,Do not sell
+30,429,True,,,energy_429,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+31,430,True,,,ewg_430,"do not sell
+",,"privacy choice|
+",,"opt out
+",,Ambiguous,,,Ambiguous
+32,431,True,,,eia_431,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+33,432,True,,,gov_432,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+34,433,True,,,com_433,"ell or Share My Personal Information| 1/1
+
+Omaaunhad @-<
+","W
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",Do not sell,,,Do not sell
+35,434,True,,,nature_434,"do not sell 0/0
+
+ 
+"," 
+","privacy choice| 0/0
+
+ 
+"," 
+","0/0
+tout]
+op
+
+ 
+"," 
+",Ambiguous,,,Ambiguous
+36,435,True,,,greenpeace_435,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+37,436,True,,,sierraclub_436,"| do not sell 0/0
+","o/o
+","| privacy choice| 0/0
+","o/o
+","| opt out
+
+o/o
+","o/o
+",No,,,No
+38,437,True,,,org_437,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","0/0
+tout]
+op
+","fo
+",Opt out,,,Opt out
+39,438,True,,,worldwildlife_438,"do not sell]
+
+o/o
+","o/o
+","privacy choice| 0/0
+
+ 
+","o/o
+"," 
+
+opt out 0
+",,Opt out,,,Opt out
+40,439,True,,,com_439,"do not sell
+
+ 
+
+o/o
+","o/o
+","privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+41,440,True,,,motherearthnews_440,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+42,441,True,,,org_441,"| do not sell
+
+cnate | =
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+onate —
+
+o/o
+","o/o
+","o/o
+","o/o
+",No,,,No
+43,442,True,,,nasa_442,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+44,443,True,,,ncbi_443,"do not sell]
+
+fo
+","fo
+","privacy choice|
+
+ 
+","fo
+","opt out}
+
+fo
+","fo
+",Ambiguous,,,Ambiguous
+45,444,True,,,howstuffworks_444,"do not sell
+
+1
+","1
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+46,445,True,,,autodesk_445,"iellor share my personal information| 1/1
+","1
+","privacy choice| o/c
+",,"opt out
+",,Do not sell or share,,,Do not sell or share
+47,446,True,,,space_446,"iellor share my personal information| 1/1
+","1
+","privacy choice| 0/0
+"," 
+"," 
+
+opt out 1
+",,Do not sell or share,,,Do not sell or share
+48,447,True,,,popularmechanics_447,"do not sell
+
+o/o
+","o/o
+","| privacy choice| wy
+","1
+","opt out
+
+1/6
+","1/6
+",Privacy Choices,,,Privacy Choices
+49,448,True,,,osha_448,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+50,449,True,,,com_449,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+51,450,True,,,technologyreview_450,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+52,451,True,,,alldatasheet_451,"do not sell
+",,"privacy choice|
+",,"opt out
+",,Ambiguous,,,Ambiguous
+53,452,True,,,iso_452,"| do not sell
+
+ 
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+"," 
+
+o/o
+","o/o
+",No,,,No
+54,453,True,,,globalspec_453,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+55,454,True,,,d2l_454,"Do Not Sell My Pl
+
+1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out 0/0
+
+ 
+
+ 
+
+a at DO Cunnnet
+"," 
+",Do not sell,,,Do not sell
+56,455,True,,,esa_455,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+57,456,True,,,allaboutcircuits_456,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",No,,,No
+58,457,True,,,solidworks_457,"do not sell
+",,"privacy choice|
+",,"opt out
+",,Ambiguous,,,Ambiguous
+59,458,True,,,energystar_458,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+60,459,True,,,engineering_459,"do not sell
+
+o/o
+","o/o
+","| privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",No,,,No
+61,460,True,,,com_460,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+62,462,True,,,inverse_462,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+63,463,True,,,asknumbers_463,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+64,464,True,,,nctm_464,"do not sell]
+
+o/o
+","o/o
+","privacy choice|
+
+ 
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+65,465,True,,,learner_465,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+66,466,True,,,mathworks_466,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+67,467,True,,,convertunits_467,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+68,468,True,,,ixl_468,"| do not sell 0/0
+","o/o
+","privacy choice| o/c
+",,"opt out
+",,Privacy Choices,,,Privacy Choices
+69,469,True,,,0calc_469," 
+
+do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",No,,,No
+70,470,True,,,abcya_470,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+71,471,True,,,wolfram_471,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+72,472,True,,,metric-conversions_472,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+73,473,True,,,com_473,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+
+ 
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+74,474,True,,,purplemath_474,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+75,475,True,,,gcfglobal_475,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+76,476,True,,,symbolab_476,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",No,,,No
+77,477,True,,,calculatorsoup_477,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+78,478,True,,,nba_478,"do not sell
+
+TRY FREE
+
+W
+","1
+","privacy choice|
+",,"opt out
+",,Ambiguous,,,Ambiguous
+79,479,True,,,basketball-reference_479,"do not sell]
+
+o/o
+","fo
+","privacy choice|
+
+ 
+","fo
+","opt out}
+
+o/o
+","fo
+",Ambiguous,,,Ambiguous
+80,480,True,,,realgm_480,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+81,481,True,,,com_481," 
+
+all or share my personal information.
+
+co mr
+",,"privacy choice| o/c
+
+co mr
+",,"opt out o/c
+
+co mr
+",,Do not sell or share,,,Do not sell or share
+82,482,True,,,com_482,"ell or share my personal information| 1/1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell or share,,,Do not sell or share
+83,484,True,,,realgm_484,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+84,485,True,,,nfl_485,"do not sell o/c
+
+NFIT NFLNetwork Fantasy Tick
+",,"privacy choice|
+
+NFIT NFLNetwork Fantasy Tick
+",,"opt out
+",,Ambiguous,,,Ambiguous
+85,486,True,,,pro-football-reference_486,"do not sell]
+
+o/o
+","fo
+","privacy choice|
+
+ 
+","fo
+","opt out}
+
+o/o
+","fo
+",Ambiguous,,,Ambiguous
+86,487,True,,,nbcsports_487,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+Vs
+","Vs
+",Do not sell,,,Do not sell
+87,488,True,,,patriots_488,"do not sell o/c
+
+Q TICKETS
+"," 
+","privacy choice|
+
+Q TICKETS
+"," 
+","opt out
+",,Ambiguous,,,Ambiguous
+88,489,True,,,dallascowboys_489," 
+
+do not sell 0
+",,"privacy choice|
+",,"opt out
+",,Ambiguous,,,Ambiguous
+89,490,True,,,nflshop_490,"ell or Share My Personal Information| 1/1
+
+— LULU
+","1
+","| privacy choice|
+
+ 
+
+we
+
+o/o
+","o/o
+","9
+","9
+",Do not sell,,,Do not sell
+90,491,True,,,strava_491,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+91,492,True,,,runnersworld_492,"do not sell o/c
+",,"privacy choice|
+",,"opt out
+",,Ambiguous,,,Ambiguous
+92,493,True,,,active_493,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+93,494,True,,,runtastic_494,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",No,,,No
+94,495,True,,,com_495,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+95,496,True,,,competitor_496," 
+
+do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",No,,,No
+96,497,True,,,letsrun_497,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+97,498,True,,,mapmyrun_498,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice| 0/0
+","o/o
+","opt out
+",,Do not sell,,,Do not sell
+98,499,True,,,espn_499,"ell or Share My Personal information| 1/2
+",,"privacy choice| 0/0
+"," 
+","opt out 1/6
+
+ 
+"," 
+",Do not sell,,,Do not sell
+99,500,True,,,yahoo_500,"do not sell
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+100,501,True,,,90min_501,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+101,502,True,,,si_502,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+102,503,True,,,mlb_503,"do not sell
+
+1
+","1
+","privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+103,504,True,,,foxsports_504,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out
+",,Privacy Choices,,,Privacy Choices
+104,505,True,,,cbssports_505,"TSELL MY PERSONAL INFORMATION|
+
+an LLCL)
+","DTN
+","privacy choice| o/c
+
+an LLCL)
+","DTN
+","opt out o/c
+
+an LLCL)
+","DTN
+",Do not sell,,,Do not sell
+105,506,True,,,com_506,"do not sell 0/0
+"," 
+","privacy choice| 0/0
+"," 
+","opt out
+
+o/o
+"," 
+",Ambiguous,,,Ambiguous
+106,507,True,,,sbnation_507,"o Not Sell or Share My Personal info| 1/1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+107,508,True,,,cloudflare_508,"do not sell
+
+1
+","1
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+13
+","13
+",Ambiguous,,,Ambiguous
+108,509,True,,,akamai_509,"do not sell o/c
+"," 
+","privacy choice| o/c
+"," 
+","opt out
+"," 
+",Ambiguous,,,Ambiguous
+109,510,True,,,lumen_510,"do not sell
+
+ 
+","o/o
+","privacy choice|
+
+ 
+","o/o
+","opt out
+
+ 
+","o/o
+",No,,,No
+110,511,True,,,liquidweb_511,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+111,512,True,,,io_512,"do not sell 0/0
+","o/o
+","| privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",No,,,No
+112,513,True,,,keycdn_513,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+113,514,True,,,equinix_514,"| do not sell
+
+Ss
+
+o/o
+","o/o
+","| privacy choice|
+
+Ss
+
+o/o
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",No,,,No
+114,515,True,,,cdnetworks_515,"do not sell]
+
+ 
+",,"privacy choice|
+
+ 
+",,"0/0
+tout]
+op
+",,Ambiguous,,,Ambiguous
+115,516,True,,,getambassador_516,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+116,517,True,,,amazon_517,"do not sell 0/0
+
+ 
+      
+
+ 
+
+Bind Ta
+
+        
+
+Ear] Dons
+
+   
+
+ra
+","o/o
+
+cre
+","privacy choice| 0/0
+
+ 
+      
+
+ 
+
+Bind Ta
+
+        
+
+Ear] Dons
+
+   
+
+ra
+","o/o
+
+cre
+","opt out 0/0
+
+ 
+      
+
+ 
+
+Bind Ta
+
+        
+
+Ear] Dons
+
+   
+
+ra
+","o/o
+
+cre
+",Ambiguous,,,Ambiguous
+117,518,True,,,live_518,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+118,519,True,,,icloud_519,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+119,520,True,,,zoho_520,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+120,521,True,,,inbox_521,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+121,522,True,,,me_522,"do not sell 0/0
+
+CCE Rr tecl ig
+","o/o
+"," 
+
+o/o
+
+SVR cc lig
+","o/o
+","opt out} 0/0
+
+SVR cc lig
+","o/o
+",No,,,No
+122,523,True,,,google_523,"do not sell 0/0
+
+Gmail Im
+","o/o
+
+small Im:
+","privacy choice|
+
+o/o
+
+Gmail
+","o/o
+
+small Im:
+","opt out 0/0
+
+Gmail Im
+","o/o
+
+small Im:
+",Ambiguous,,,Ambiguous
+123,524,True,,,yahoo_524," 
+
+do not sell 0/0
+"," 
+"," 
+
+privacy choice| 0/0
+"," 
+"," 
+
+opt out 0/0
+"," 
+",Ambiguous,,,Ambiguous
+124,525,True,,,bing_525,"do not sell 0/0
+
+De® =
+","o/o
+","privacy choice| WW
+","W
+","opt out
+
+o/o
+","o/o
+",Privacy Choices,,,Privacy Choices
+125,526,True,,,ask_526,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+126,527,True,,,myway_527,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+127,528,True,,,weebly_528,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+128,529,True,,,wix_529,"| do not sell 0/0
+
+ 
+
+® Log.
+","o/o
+
+| Loa!
+","| privacy choice| 0/0
+
+ 
+
+® Log.
+","o/o
+
+| Loa!
+","opt out
+
+o/o
+
+og |
+| Loa!
+é
+","o/o
+
+| Loa!
+",Ambiguous,,,Ambiguous
+129,530,True,,,squarespace_530,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+130,531,True,,,jimdo_531,"do not sell
+
+Log In
+
+o/o
+","o/o
+","privacy choice|
+
+Log In
+
+o/o
+","o/o
+","opt out
+
+Log In
+
+o/o
+","o/o
+",No,,,No
+131,532,True,,,smugmug_532,"do not sell 0/0
+
+a. 2
+",,"privacy choice| 0/0
+
+a. 2
+",,"opt out
+
+o/o
+",,Ambiguous,,,Ambiguous
+132,533,True,,,wikidot_533,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+"," 
+","opt out
+
+o/o
+"," 
+",Privacy Choices,,,Privacy Choices
+133,534,True,,,webs_534,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+134,535,True,,,tripod_535," 
+
+do not sell]
+",,"privacy choice|
+
+o/o
+",," 
+
+opt out}
+",,Ambiguous,,,Ambiguous
+135,536,True,,,ucoz_536,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+136,537,True,,,southwest_537,"tSell/Share My Personal information| 1/7
+","1
+","| privacy choice| 0/0
+","o/o
+","opt out
+
+13
+","13
+",Do not sell,,,Do not sell
+137,538,True,,,aa_538,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+138,539,True,,,united_539,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+"," 
+
+opt out 0/0
+"," 
+",Opt out,,,Opt out
+139,540,True,,,delta_540,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+140,541,True,,,ryanair_541,"| do not sell 0/0
+","o/o
+","| privacy choice| 0/0
+","o/o
+","| opt out
+
+o/o
+","o/o
+",No,,,No
+141,542,True,,,jetblue_542,"Do not sell my info
+",,"privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+142,543,True,,,airasia_543,"do not sell 0/0
+
+ 
+
+Get the latest
+","o/o
+
+ 
+
+latest
+","   
+ 
+   
+
+privacy choice|
+
+Get the latest
+","o/o
+
+latest
+"," 
+
+Get the latest
+","o/o
+
+latest
+",Ambiguous,,,Ambiguous
+143,544,True,,,spirit_544,"do not sell o/c
+",,"privacy choice|
+",,"opt out
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+144,545,True,,,emirates_545,"do not sell 0/0
+
+ 
+"," 
+"," 
+
+privacy choice| 0/0
+"," 
+"," 
+
+ 
+
+opt out 0/0
+"," 
+",Ambiguous,,,Ambiguous
+145,546,True,,,qatarairways_546,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",No,,,No
+146,547,True,,,britishairways_547,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+147,548,True,,,alaskaair_548,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+148,549,True,,,turkishairlines_549,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+149,550,True,,,lufthansa_550,"CCPA / Do Not Sell My Info| WW
+","W
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+150,551,True,,,tripadvisor_551,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+151,552,True,,,kayak_552,"Do Not Sell or Share My Info| WW
+
+ 
+
+Business Trips. | ®
+",,"privacy choice| 0/0
+","o/o
+","opt out WW
+","W
+",Do not sell,,,Do not sell
+152,553,True,,,priceline_553,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+153,555,True,,,skyscanner_555,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+154,556,True,,,hotwire_556,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+155,557,True,,,cheapoair_557,"do not sell
+
+o/o
+"," 
+","privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+156,558,True,,,bookingbuddy_558,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+157,559,True,,,travelzoo_559,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+158,560,True,,,goibibo_560," 
+
+do not sell 0/0
+"," 
+"," 
+
+privacy choice| 0/0
+"," 
+"," 
+
+opt out 0/0
+"," 
+",Ambiguous,,,Ambiguous
+159,561,True,,,cleartrip_561,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+160,562,True,,,yatra_562,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+161,563,True,,,com_563,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+162,564,True,,,airfarewatchdog_564,,,,,,,Do not sell,,,Do not sell
+163,565,True,,,com_565,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+164,566,True,,,onetravel_566,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+165,567,True,,,booking_567,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+166,568,True,,,hurb_568,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+167,569,True,,,airbnb_569,"| do not sell 0/0
+
+ 
+
+Airbnb your home
+","o/o
+
+home
+","privacy choice| WW
+
+Airbnb your home
+","W
+
+home
+","opt out}
+
+13
+","13
+",Ambiguous,,,Ambiguous
+168,570,True,,,marriott_570,"do not sell
+",,"privacy choice|
+",,"opt out
+
+o/o
+",,Ambiguous,,,Ambiguous
+169,571,True,,,hilton_571,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+170,572,True,,,ihg_572,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+","opt out
+",,Do not sell,,,Do not sell
+171,573,True,,,vrbo_573,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+W
+","1
+","opt out 0/0
+
+© Trip Boards @® Help »
+","o/o
+
+ 
+
+2) Help
+",Privacy Choices,,,Privacy Choices
+172,574,True,,,agoda_574,"do not sell 0/0
+"," 
+","privacy choice| 0/0
+"," 
+","opt out
+
+o/o
+"," 
+",Ambiguous,,,Ambiguous
+173,575,True,,,marriott_575,"do not sell
+",,"privacy choice|
+",,"opt out
+
+o/o
+",,Ambiguous,,,Ambiguous
+174,576,True,,,choicehotels_576,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","| privacy choice| 0/0
+","o/o
+"," 
+
+opt out 4/10
+","110
+",Do not sell,,,Do not sell
+175,577,True,,,hyatt_577,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+176,578,True,,,trivago_578,"do not sell
+
+1
+","1
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+177,579,True,,,thrillist_579,"ell or Share My Personal Information| 1/1
+
+ 
+","1
+","privacy choice| o/c
+",,"opt out
+",,Do not sell,,,Do not sell
+178,580,True,,,timeout_580,"Do not sell my information| 1
+",,"privacy choice| 0/0
+"," 
+"," 
+
+opt out 1
+",,Do not sell,,,Do not sell
+179,581,True,,,fodors_581,"do not sell
+
+1
+","1
+","privacy choice|
+",,"opt out
+",,Ambiguous,,,Ambiguous
+180,582,True,,,travelandleisure_582,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+13
+","13
+",Do not sell,,,Do not sell
+181,583,True,,,travelchannel_583,"do not sell
+
+1
+","1
+","| privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+1/4
+","1/4
+",Ambiguous,,,Ambiguous
+182,584,True,,,oyster_584,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+183,585,True,,,saveur_585,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+184,586,True,,,cntraveler_586,"do not sell] 0/0
+
+NEWSLETTER
+
+ 
+","Pee
+"," 
+
+o/o
+
+NEWSLETTER | susseniee
+","Pee
+","opt out} 0/0
+
+NEWSLETTER | susseniee
+","Pee
+",Ambiguous,,,Ambiguous
+185,587,True,,,com_587,"do not sell 0/0
+
+a“
+",,"privacy choice| 0/0
+
+oo
+",,"opt out
+
+o/o
+",,Ambiguous,,,Ambiguous
+186,588,True,,,com_588,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+187,589,True,,,flyertalk_589,"sHARE MY PERSONAL INFORMATION| 1/1
+
+vn | bog
+"," 
+
+ 
+
+5 |
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",Do not sell,,,Do not sell
+188,590,True,,,sunset_590,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+189,591,True,,,southernliving_591,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+13
+","13
+",Do not sell,,,Do not sell
+190,592,True,,,frommers_592,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+191,593,True,,,bestbuy_593,"t Sell/Share My Personal Information|
+",,"privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+192,594,True,,,lg_594,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+4/5
+","5
+",Do not sell,,,Do not sell
+193,595,True,,,usa_595,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+
+ 
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+194,596,True,,,panasonic_596,"Do Not Sell My Datal
+",,"privacy choice| 0/0
+",,"opt out
+
+o/o
+",,Do not sell,,,Do not sell
+195,597,True,,,samsung_597,"ell or Share My Personal information| 1/1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+4/2
+","4/2
+",Do not sell,,,Do not sell
+196,598,True,,,keurig_598,"ell or Share My Personal Information| 1/1
+",,"privacy choice|
+",,"opt out
+
+1/2
+",,Do not sell,,,Do not sell
+197,599,True,,,geappliances_599,"ell Or Share My Personal Information| 1/1
+","1""
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+13
+","13
+",Do not sell,,,Do not sell
+198,600,True,,,hhgregg_600,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+199,601,True,,,dyson_601,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+200,602,True,,,whirlpool_602,"ell Or Share My Personal Information| 1/1
+
+ 
+","1
+","| privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+201,603,True,,,abt_603,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice| 0/0
+
+Pacers cats
+"," 
+","opt out 4/7
+
+ntact you via
+","7
+",Do not sell,,,Do not sell
+202,604,True,,,bosch-home_604,"| do not sell 0/0
+
+——
+","o/o
+","| privacy choice| 0/0
+
+——
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",No,,,No
+203,605,True,,,ajmadison_605,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+204,606,True,,,irobot_606,"do not sell 0/0
+",,"privacy choice| 0/0
+",,"opt out
+
+o/o
+",,Ambiguous,,,Ambiguous
+205,607,True,,,delonghi_607," 
+
+do not sell 0/0
+","o/o
+","privacy choice| WW
+","W
+"," 
+
+opt out
+
+o/o
+","o/o
+",Privacy Choices,,,Privacy Choices
+206,609,True,,,sharpusa_609,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+207,610,True,,,tomshardware_610,"iellor share my personal information| 1/1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+4/2
+","4/2
+",Do not sell or share,,,Do not sell or share
+208,611,True,,,newegg_611,"er
+
+do not sell
+
+Returns
+& Orders
+
+ 
+
+o/o
+","o/o
+","privacy choice| 0/0
+
+Returns
+er  & Orders
+
+ 
+","o/o
+","| opt out 0/0
+
+ 
+
+Returns
+er  & Orders
+
+ 
+","o/o
+",No,,,No
+209,612,True,,,bhphotovideo_612,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+210,613,True,,,cdw_613,"sonal Information - Currently Sharing| 1/1
+","1
+","privacy choice| 0/0
+
+ 
+"," 
+","opt out
+
+4/2
+
+ 
+"," 
+",Do not sell,,,Do not sell
+211,614,True,,,connection_614,"do not sell
+
+ 
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+=
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+212,615,True,,,intel_615,"do not sell 0/0
+
+— 8 2=—CSt—=*s
+","o/o
+","privacy choice| 0/0
+
+— 8 2=—CSt—=*s
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+213,616,True,,,nvidia_616,"do not sell
+
+o/o
+","o/o
+
+ 
+","privacy choice| 0/0
+","o/o
+
+ 
+","opt out 0/0
+","o/o
+
+ 
+",Ambiguous,,,Ambiguous
+214,617,True,,,computerhope_617,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+215,618,True,,,logitech_618,"do not sell o/c
+"," 
+","privacy choice| o/c
+"," 
+","opt out
+"," 
+",Ambiguous,,,Ambiguous
+216,619,True,,,amd_619,"do not sell 0/0
+
+ce. a
+",,"privacy choice| 0/0
+
+ce. a
+",,"opt out
+
+o/o
+",,Ambiguous,,,Ambiguous
+217,620,True,,,tigerdirect_620,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+218,621,True,,,com_621,"Do Not Sell My Personal Information| 1/1
+
+it — |
+","1
+","privacy choice| 0/0
+
+ 
+
+ee ed
+","o/o
+
+ros
+","opt out 0/0
+
+ 
+
+ee ed
+","o/o
+
+ros
+",Do not sell,,,Do not sell
+219,622,True,,,microcenter_622,"Do Not Sell My information| WW
+","1
+","privacy choice| 0/0
+"," 
+","opt out
+",,Do not sell,,,Do not sell
+220,623,True,,,adorama_623,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+221,624,True,,,seagate_624,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+"," 
+
+opt out 0
+","o/o
+",No,,,No
+222,625,True,,,acer_625," 
+
+do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",No,,,No
+223,626,True,,,com_626,"do not sell 0/0
+
+wT, hut
+
+ 
+","o/o
+","privacy choice| WW
+
+wT, hut
+
+ 
+","1
+","opt out} at
+","yt
+",Privacy Choices,,,Privacy Choices
+224,627,True,,,1ink_627,"do not sell
+
+1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+225,628,True,,,avg_628,"Do not sell or share my info| Wi
+","1""
+","privacy choice| 0/0
+","o/o
+","opt out 1/3
+","13
+",Do not sell or share,,,Do not sell or share
+226,629,True,,,norton_629,"to Not Sell or Share My Personal Data|_ 1/1
+","1""
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+4/2
+","4/2
+",Do not sell,,,Do not sell
+227,630,True,,,mcafee_630,"do not sell
+
+Gunnnrt —
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+Gunnnrt —
+
+W
+","1
+","opt out wy
+","1
+",Privacy Choices,,,Privacy Choices
+228,631,True,,,avast_631,"Do not sell my info Wi
+
+2021 Editor'schoice ¢  Getit for free! €
+",,"privacy choice| o/c
+",,"opt out
+",,Do not sell,,,Do not sell
+229,632,True,,,com_632,"3ell My Personal Information request] 1/1
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+230,633,True,,,kaspersky_633,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+231,634,True,,,macbooster_634,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+232,635,True,,,eset_635,"iell or share my personal information| 1/1
+","1""
+"," 
+
+privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+ 
+
+o/o
+","o/o
+",Do not sell or share,,,Do not sell or share
+233,636,True,,,avira_636,"to Not Sell or Share My Personal Data|_ 1/1
+","1""
+","privacy choice| o/c
+",," 
+
+opt out
+",,Do not sell,,,Do not sell
+234,637,True,,,broadcom_637,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+
+ 
+",,"opt out 0/0
+
+ 
+",,Privacy Choices,,,Privacy Choices
+235,638,True,,,opendns_638,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+236,639,True,,,malwarebytes_639,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+237,640,True,,,virustotal_640,"do not sell
+
+oo
+
+ 
+","oo
+","privacy choice|
+
+oo
+
+ 
+","oo
+","opt out]
+
+oo
+
+ 
+","oo
+",Ambiguous,,,Ambiguous
+238,641,True,,,bitdefender_641,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+239,642,True,,,comodo_642,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+240,643,True,,,zonealarm_643,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+241,644,True,,,sophos_644,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+242,645,True,,,trendmicro_645,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+243,646,True,,,microsoft_646,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+244,647,True,,,adobe_647,"iellor share my personal information| 1/1
+","1
+","privacy choice|
+
+13
+","13
+","opt out}
+
+7
+","7
+",Do not sell or share,,,Do not sell or share
+245,648,True,,,com_648," 
+
+do not sell 0
+",," 
+
+privacy choice| 0
+",," 
+
+opt out 0
+",,Ambiguous,,,Ambiguous
+246,649,True,,,spotify_649,"do not sell 0/0
+"," 
+
+ 
+","privacy choice|
+"," 
+","opt out
+"," 
+",Ambiguous,,,Ambiguous
+247,650,True,,,utorrent_650,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+248,651,True,,,softonic_651,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+249,652,True,,,uptodown_652,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+250,653,True,,,mozilla_653,"do not sell 0/0
+","o/o
+","‘J
+
+privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+251,654,True,,,intuit_654,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+252,655,True,,,com_655,"do not sell
+
+ 
+"," 
+","privacy choice|
+
+ 
+"," 
+","opt out
+
+ 
+"," 
+",Ambiguous,,,Ambiguous
+253,656,True,,,oracle_656,"Do Not Sell My Info|
+",,"privacy choice| Wi
+
+— Ul
+","1
+","opt out
+
+1/2
+","4/2
+",Do not sell,,,Do not sell
+254,657,True,,,net_657,"do not sell
+",,"privacy choice|
+",,"opt out
+
+1""
+",,Ambiguous,,,Ambiguous
+255,658,True,,,microsoft_658,"| do not sell 0/0
+
+pt
+","o/o
+","| privacy choice| 0/0
+
+yo
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",No,,,No
+256,659,True,,,com_659,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+257,660,True,,,com_660,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+258,661,True,,,com_661,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+259,662,True,,,com_662," 
+
+do not sell 0/0
+"," 
+"," 
+
+| privacy choice| 0/0
+
+ 
+"," 
+"," 
+
+opt out 0/0
+"," 
+",Ambiguous,,,Ambiguous
+260,663,True,,,org_663,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+261,664,True,,,cnet_664,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+262,665,True,,,tomshardware_665,"iellor share my personal information| 1/1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+4/2
+","4/2
+",Do not sell or share,,,Do not sell or share
+263,666,True,,,theverge_666,"SELL OR SHARE MY PERSONAL INFO|
+",,"privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+264,667,True,,,gsmarena_667,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+265,668,True,,,pcmag_668,"nformation(Opens in anew window)| 0/0
+",,"| privacy choice| 0/0
+
+=
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+266,669,True,,,engadget_669,"do not sell
+",,"privacy choice|
+",,"opt out
+",,Ambiguous,,,Ambiguous
+267,670,True,,,digitaltrends_670,"Do Not Sell or Share My Information|
+",,"privacy choice| o/c
+",,"opt out
+",,Do not sell,,,Do not sell
+268,671,True,,,imore_671,"iellor share my personal information| 1/1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+4/2
+","4/2
+",Do not sell or share,,,Do not sell or share
+269,672,True,,,wired_672,"do not sell 0/0
+
+SIGN 1
+","o/o
+
+SIGN 1
+","privacy choice| 0/0
+
+SIGN 1
+","o/o
+
+SIGN 1
+","opt out 0/0
+
+SIGN 1
+","o/o
+
+SIGN 1
+",Ambiguous,,,Ambiguous
+270,673,True,,,tomsguide_673,"iell or share my personal information| 1/1
+
+a PlUr
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+4/2
+","4/2
+",Do not sell or share,,,Do not sell or share
+271,674,True,,,pcworld_674,"do not sell
+
+1
+","1
+","1/181
+","/181
+","opt out
+
+ 
+",,Ambiguous,,,Ambiguous
+272,675,True,,,consumerreports_675,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+1/2
+","1/2
+",Do not sell,,,Do not sell
+273,676,True,,,techadvisor_676,"do not sell
+
+1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+4/4
+","4/4
+",Ambiguous,,,Ambiguous
+274,677,True,,,toptenreviews_677,"iellor share my personal information| 1/1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+4/2
+","4/2
+",Do not sell or share,,,Do not sell or share
+275,678,True,,,dpreview_678,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+276,679,True,,,zdnet_679,"do not sell
+
+1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+277,680,True,,,vox_680,"o Not Sell or Share My Personal info| 1/1
+","1
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+278,681,True,,,net_681,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+279,682,True,,,sammobile_682,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+280,684,True,,,nike_684,"do not sell 0/0
+
+ 
+","o/o
+","| privacy choice| WW
+
+—t
+","1
+","opt out
+
+ 
+
+tore | Help | JoinUs | Signin
+
+o/o
+","o/o
+",Privacy Choices,,,Privacy Choices
+281,685,True,,,asos_685,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+282,686,True,,,zappos_686,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+283,687,True,,,hm_687,"© Not Sell Or Share My Personal Data| 1/1
+
+ 
+","1
+","privacy choice|
+
+o/o
+
+0 sienin CD Favor
+","o/o
+","| opt out
+
+o/o
+
+ 
+
+0 sienin CD Favor
+","o/o
+",Do not sell,,,Do not sell
+284,688,True,,,victoriassecret_688,"do not sell
+
+1
+"," 
+
+1
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+1
+","1
+",Ambiguous,,,Ambiguous
+285,689,True,,,footlocker_689,"ell or Share my Personal information| 1/1
+","1
+","privacy choice| 0/0
+
+Do not have
+","o/o
+
+ 
+
+not have
+","opt out 0/0
+
+Do not have
+","o/o
+
+ 
+
+not have
+",Do not sell,,,Do not sell
+286,690,True,,,forever21_690,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+287,691,True,,,gap_691,"do not sell Wi
+","W
+","privacy choice|
+","o/o
+","opt out
+","o/o
+",Ambiguous,,,Ambiguous
+288,692,True,,,zara_692,"do not sell
+
+1
+
+LC
+","1
+
+ 
+
+LC
+",,,,,Ambiguous,,,Ambiguous
+289,693,True,,,womanwithin_693,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","0/0
+tout]
+op
+",,Privacy Choices,,,Privacy Choices
+290,694,True,,,urbanoutfitters_694,"5
+
+do not sell
+
+o/o
+","o/o
+","5
+
+privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+291,695,True,,,6pm_695,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+292,696,True,,,com_696,"do not sell 0/0
+
+JOIN 9W REWARDS | SIGN IN
+","o/o
+
+ 
+
+|SIGN IN|
+","privacy choice| 0/0
+
+ 
+
+JOIN 9W REWARDS | SIGN IN
+","o/o
+
+ 
+
+|SIGN IN|
+","opt out 0/0
+
+ 
+
+JOIN 9W REWARDS | SIGN IN
+","o/o
+
+ 
+
+|SIGN IN|
+",Ambiguous,,,Ambiguous
+293,698,True,,,flightclub_698,"do not sell 0/0
+
+Sneakers FC Appe
+","o/o
+
+ 
+
+FC Appe
+","privacy choice| 0/0
+
+Sneakers FC Appe
+","o/o
+
+ 
+
+FC Appe
+","opt out 0/0
+
+Sneakers FC Appe
+","o/o
+
+ 
+
+FC Appe
+",Ambiguous,,,Ambiguous
+294,699,True,,,llbean_699,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+1
+","1
+",Opt out,,,Opt out
+295,700,True,,,ae_700,"ell or Share My Personal Information| 1/1
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+1
+","1
+",Do not sell,,,Do not sell
+296,701,True,,,myntra_701,"do not sell 0/0
+
+ 
+"," 
+","privacy choice| 0/0
+
+ 
+"," 
+","opt out 0/0
+
+ 
+"," 
+",Ambiguous,,,Ambiguous
+297,702,True,,,zulily_702,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+298,703,True,,,pandora_703,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+13
+","13
+",Do not sell,,,Do not sell
+299,704,True,,,ralphlauren_704,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+300,705,True,,,louisvuitton_705,"do not sell 0/0
+
+CHOOSE YOL
+","o/o
+
+ 
+
+SE YOL
+","privacy choice| 0/0
+
+CHOOSE YOL
+","o/o
+
+ 
+
+SE YOL
+","| opt out 0/0
+
+ 
+
+CHOOSE YOL
+","o/o
+
+ 
+
+SE YOL
+",Ambiguous,,,Ambiguous
+301,706,True,,,zales_706,"do not sell
+
+1
+"," 
+
+1
+","privacy choice| 0/0
+","o/o
+","opt out
+",,Ambiguous,,,Ambiguous
+302,707,True,,,thenorthface_707,"do not sell o/c
+",,"privacy choice|
+",,"opt out
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+303,708,True,,,kay_708,"do not sell
+
+1
+"," 
+
+1
+","privacy choice| 0/0
+
+ 
+","o/o
+","opt out
+
+7
+","7
+",Ambiguous,,,Ambiguous
+304,709,True,,,fossil_709,"Do Not Sell My Info|
+",," 
+
+o/o
+
+ENGL
+","o/o
+
+ 
+
+ENGL
+","opt out 0/0
+
+ENGL
+","o/o
+
+ 
+
+ENGL
+",Do not sell,,,Do not sell
+305,710,True,,,toryburch_710," 
+
+do not sell wy
+"," 
+
+1
+"," 
+
+privacy choice| 0/0
+"," 
+"," 
+
+ 
+
+opt out| V4
+"," 
+",Ambiguous,,,Ambiguous
+306,711,True,,,helzberg_711,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+307,712,True,,,bluenile_712,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+308,713,True,,,swarovski_713,"| do not sell
+
+Q
+
+&
+
+o/o
+","o/o
+","privacy choice|
+
+Q
+
+&
+
+o/o
+","o/o
+","| opt out
+
+o/o
+","o/o
+",No,,,No
+309,714,True,,,gucci_714,"do not sell 0/0
+"," 
+","privacy choice| 0/0
+"," 
+","opt out
+
+o/o
+"," 
+",Ambiguous,,,Ambiguous
+310,715,True,,,katespade_715,"do not sell]
+
+1
+"," 
+
+1
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+311,716,True,,,ashford_716,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+312,717,True,,,coach_717," 
+
+do not sell wy
+"," 
+
+1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+313,718,True,,,jared_718,"do not sell
+",,"privacy choice| 0/0
+",,"opt out
+",,Ambiguous,,,Ambiguous
+314,719,True,,,tiffany_719,"ell or Share My Personal Information| 1/1
+
+ 
+","1
+","privacy choice|
+",,"opt out
+
+Vs
+",,Do not sell,,,Do not sell
+315,720,True,,,glassesusa_720,"ell or Share My Personal Information| 1/1
+",,"privacy choice| 0/0
+"," 
+","opt out
+
+ 
+",,Do not sell,,,Do not sell
+316,721,True,,,victoriassecret_721,"do not sell
+
+1
+"," 
+
+1
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+1
+","1
+",Ambiguous,,,Ambiguous
+317,722,True,,,yandy_722,"cell or Share My Personal information| 1/7
+
+ 
+","1
+","privacy choice| o/c
+",,"opt out
+",,Do not sell,,,Do not sell
+318,723,True,,,venus_723,"DO NOTSELL MY PERSONALINFO| 1/1
+","1""
+","privacy choice|
+
+IN / SIGN UP.
+
+o/o
+","o/o
+","opt out
+
+IN / SIGN UP.
+
+1/2
+
+ 
+","4/2
+",Do not sell,,,Do not sell
+319,724,True,,,herroom_724,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+320,725,True,,,fredericks_725,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+321,726,True,,,soma_726,"do not sell o/c
+",,"privacy choice|
+",,"opt out
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+322,727,True,,,leonisa_727,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+323,728,True,,,zivame_728,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",No,,,No
+324,729,True,,,lingeriediva_729,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+325,730,True,,,lasenza_730,"do not sell
+
+o/o
+","o/o
+","| privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+326,731,True,,,forplaycatalog_731,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+327,732,True,,,brastop_732,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+",,"opt out
+
+o/o
+",,Privacy Choices,,,Privacy Choices
+328,733,True,,,3wishes_733,"Do not sell my personal information| 1/1
+
+ 
+","1""
+","privacy choice| 0/0
+"," 
+"," 
+
+opt out 1
+",,Do not sell,,,Do not sell
+329,734,True,,,secretsinlace_734,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",No,,,No
+330,735,True,,,journelle_735,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+331,736,True,,,bravissimo_736,"do not sell]
+
+ 
+",,"privacy choice|
+
+o/o
+
+ 
+",,"0/0
+tout]
+op
+",,Ambiguous,,,Ambiguous
+332,737,True,,,com_737,"Do not sell my personal information| 1/1
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+333,738,True,,,josbank_738," 
+
+\HARE MY PERSONAL INFORMATION| 1/1
+
+ 
+"," 
+","privacy choice| 0/0
+"," 
+","opt out 4/2
+
+ 
+"," 
+",Do not sell,,,Do not sell
+334,739,True,,,menswearhouse_739,"do not sell
+
+1
+"," 
+
+1
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+1/2
+","1/2
+",Ambiguous,,,Ambiguous
+335,740,True,,,jackthreads_740,"| do not sell
+
+®
+
+o/o
+","o/o
+","privacy choice|
+
+®
+
+o/o
+","o/o
+","| opt out
+
+®
+
+o/o
+","o/o
+",No,,,No
+336,741,True,,,shopbop_741,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+337,742,True,,,dxl_742,"| do not sell WW
+","W
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+338,743,True,,,com_743," 
+
+do not sell 0/0
+"," 
+"," 
+
+privacy choice| 0/0
+"," 
+"," 
+
+opt out 0/0
+"," 
+",Ambiguous,,,Ambiguous
+339,744,True,,,karmaloop_744,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+340,745,True,,,kingsize_745,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","0/0
+tout]
+op
+",,Privacy Choices,,,Privacy Choices
+341,746,True,,,ties_746,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+342,747,True,,,paulfredrick_747,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+343,748,True,,,perryellis_748,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",No,,,No
+344,749,True,,,frankandoak_749,"do not sell 0/0
+
+A Frank Rev
+
+ 
+","o/o
+
+ 
+
+i
+","privacy choice| 0/0
+
+A Frank Rev
+
+ 
+","o/o
+
+ 
+
+i
+","opt out 0/0
+
+A Frank Rev
+
+ 
+","o/o
+
+ 
+
+i
+",Ambiguous,,,Ambiguous
+345,750,True,,,kennethcole_750,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+346,751,True,,,mrporter_751,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+347,752,True,,,johnvarvatos_752,"do not sell o/c
+"," 
+","privacy choice| o/c
+"," 
+","opt out
+
+ 
+"," 
+",Ambiguous,,,Ambiguous
+348,753,True,,,paulevansny_753,"do not sell 0/0
+",,"privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+349,754,True,,,sprezzabox_754,"do not sell]
+
+o/o
+","o/o
+","privacy choice| 0/0
+
+ 
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+350,755,True,,,haggar_755,"| ell or Share My Personal Information| 1/1
+","W
+","privacy choice| 0/0
+
+Search
+","o/o
+","opt out}
+
+Search
+
+1
+","1
+",Do not sell,,,Do not sell
+351,756,True,,,heels_756,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+352,757,True,,,sorel_757,"Do Not Sell or Share My Information| 1/1
+
+ 
+
+ 
+",,"privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+353,758,True,,,underarmour_758,"Do Not Sell My Personal Information|
+",,"privacy choice| 0/0
+","o/o
+","opt out
+",,Do not sell,,,Do not sell
+354,759,True,,,dsw_759,"ell or Share My Personal Information| 0/c
+",,"privacy choice| o/c
+",,"opt out
+",,Do not sell,,,Do not sell
+355,760,True,,,prana_760,"Do Not Sell or Share My Information| 1/1
+","1
+"," 
+
+privacy choice|
+
+o/o
+","o/o
+"," 
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+356,761,True,,,finishline_761,"do not sell
+
+1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+357,762,True,,,famousfootwear_762,"ell or Share My Personal Information| 1/1
+","1""
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+358,763,True,,,vans_763,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out
+
+o/o
+","o/o
+",Privacy Choices,,,Privacy Choices
+359,764,True,,,kicksonfire_764,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",No,,,No
+360,765,True,,,payless_765,"do not sell o/c
+"," 
+","privacy choice| o/c
+"," 
+","opt out
+"," 
+",Ambiguous,,,Ambiguous
+361,766,True,,,colehaan_766,"| do not sell
+
+ 
+
+DIN/SIGN IN. STORES [ES
+
+W
+","1
+","privacy choice| 0/0
+
+ 
+"," 
+","opt out 0/0
+
+ 
+"," 
+",Ambiguous,,,Ambiguous
+362,767,True,,,journeys_767,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+363,768,True,,,ray-ban_768,"TSELL MY PERSONAL INFORMATION| 1/1
+
+ 
+","1
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",Do not sell,,,Do not sell
+364,769,True,,,sunglasshut_769,"do not sell
+",," 
+
+privacy choice| 0
+",," 
+
+opt out 0
+",,Ambiguous,,,Ambiguous
+365,770,True,,,framesdirect_770," 
+
+do not sell] 0/0
+
+Search
+","o/o
+","privacy choice|
+
+Search
+
+o/o
+","o/o
+","opt out} 0/0
+
+Search
+","o/o
+",No,,,No
+366,771,True,,,oakley_771," 
+
+Do not sell my personal information| 1/1
+"," 
+"," 
+
+privacy choice| 0/0
+"," 
+","opt out
+
+o/o
+"," 
+",Do not sell,,,Do not sell
+367,772,True,,,eyebuydirect_772,"do not sell
+
+1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+368,773,True,,,prada_773,"do not sell]
+
+1
+","1
+","privacy choice| 0/0
+
+ 
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+369,774,True,,,eyebuydirect_774,"do not sell
+
+1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+370,775,True,,,glasses_775," 
+
+Do Not Sell My Personal Information| 1/1
+"," 
+"," 
+
+privacy choice| 0
+"," 
+","opt out
+
+o/o
+"," 
+",Do not sell,,,Do not sell
+371,776,True,,,luxottica_776,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+372,777,True,,,smartbuyglasses_777,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+373,778,True,,,totalicare_778,"do not sell
+","o/o
+","privacy choice|
+","o/o
+","opt out
+","o/o
+",No,,,No
+374,779,True,,,com_779,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+375,780,True,,,com_780,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+376,781,True,,,flightradar24_781,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+","o/o
+",No,,,No
+377,782,True,,,net_782,"do not sell 0/0
+
+ 
+"," 
+"," 
+
+privacy choice| 0/0
+"," 
+"," 
+
+ 
+
+opt out 0/0
+"," 
+",Ambiguous,,,Ambiguous
+378,783,True,,,boeing_783,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+379,784,True,,,airliners_784,"do not sell 0/0
+"," 
+","privacy choice| 0/0
+"," 
+","opt out
+
+o/o
+"," 
+",Ambiguous,,,Ambiguous
+380,785,True,,,gov_785,"do not sell
+
+o/o
+","o/o
+","| privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+381,786,True,,,airforce_786,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+382,787,True,,,net_787,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",No,,,No
+383,788,True,,,com_788,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out o/c
+",,Ambiguous,,,Ambiguous
+384,789,True,,,airbus_789,"do not sell
+
+Innovation
+
+ 
+"," 
+
+Pr
+","privacy choice|
+
+Innovation
+
+ 
+"," 
+
+Pr
+","opt out
+
+Innovation
+
+ 
+"," 
+
+Pr
+",Ambiguous,,,Ambiguous
+385,790,True,,,kbb_790,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+386,791,True,,,edmunds_791,"ell or Share My Personal Information| 1/1
+","1
+","| privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+387,792,True,,,cargurus_792,"ell or Share My Personal Information| 1/1
+"," 
+
+1
+","privacy choice|
+
+o/o
+","o/o
+"," 
+
+ayn
+tout]
+op
+"," 
+
+1
+",Do not sell,,,Do not sell
+388,793,True,,,autotrader_793,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+389,794,True,,,caranddriver_794,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out}
+
+1/6
+","1/6
+",Privacy Choices,,,Privacy Choices
+390,795,True,,,cars_795,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+13
+","13
+",Do not sell,,,Do not sell
+391,796,True,,,carmax_796,"Do Not Sell or Share My Information| 1/1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out} at
+","yt
+",Do not sell,,,Do not sell
+392,797,True,,,carsforsale_797,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+393,798,True,,,truecar_798,"Do Not Sell My Personal Information|
+",,"privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+394,799,True,,,carfax_799,"do not sell 0/0
+"," 
+","privacy choice| 0/0
+"," 
+","opt out
+
+o/o
+"," 
+",Ambiguous,,,Ambiguous
+395,800,True,,,jdpower_800,"Do Not Sell or Share My Information| 1/1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+396,801,True,,,thecarconnection_801,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+397,802,True,,,carwale_802," 
+
+do not sell 0/0
+"," 
+"," 
+
+privacy choice| 0/0
+"," 
+"," 
+
+opt out 0/0
+"," 
+",Ambiguous,,,Ambiguous
+398,803,True,,,com_803,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+399,804,True,,,autobytel_804,"Do Not Sell My information|
+","1
+
+1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+400,806,True,,,copart_806,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+
+ 
+","o/o
+
+s Now>
+","opt out 0/0
+
+ 
+","o/o
+
+s Now>
+",Privacy Choices,,,Privacy Choices
+401,807,True,,,hemmings_807,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+402,808,True,,,ford_808,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out}
+
+1/6
+","1/6
+",Privacy Choices,,,Privacy Choices
+403,809,True,,,honda_809,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out}
+
+1
+","1
+",Privacy Choices,,,Privacy Choices
+404,810,True,,,chevrolet_810,"do not sell
+
+Frazier
+
+o/o
+","o/o
+","privacy choice|
+
+Frazier
+
+W
+","1
+","opt out
+
+o/o
+","o/o
+",Privacy Choices,,,Privacy Choices
+405,811,True,,,toyota_811,"do not sell
+","o/o
+","privacy choice|
+","1
+","opt out}
+
+1
+","1
+",Privacy Choices,,,Privacy Choices
+406,812,True,,,nissanusa_812,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+","o/o
+",Do not sell,,,Do not sell
+407,813,True,,,mbusa_813,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+",,,,,Do not sell,,,Do not sell
+408,814,True,,,jeep_814,"do not sell o/c
+",,"privacy choice|
+",,"opt out
+
+4/2
+","4/2
+",Ambiguous,,,Ambiguous
+409,815,True,,,kia_815,"do not sell 0/0
+",,"privacy choice| 1
+",,"opt out}
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+410,816,True,,,bmwusa_816,"Do Not Sell My Personal information| 1/1
+
+ 
+
+preiwe
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+1
+","1
+",Do not sell,,,Do not sell
+411,817,True,,,gm_817,"do not sell 0/0
+","o/o
+"," 
+
+privacy choice|
+",,"opt out
+
+o/o
+","o/o
+",Privacy Choices,,,Privacy Choices
+412,818,True,,,hyundaiusa_818,"do not sell
+",,"privacy choice| wy
+
+ 
+","W
+"," 
+
+opt out} wy
+
+{ Search
+","1
+",Ambiguous,,,Ambiguous
+413,819,True,,,lexus_819,"do not sell
+","o/o
+","privacy choice|
+","1""
+","opt out}
+
+1
+","1
+",Privacy Choices,,,Privacy Choices
+414,820,True,,,audiusa_820,"ell or Share My Personal Information| 1/1
+","1
+","| privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+W
+","W
+",Do not sell,,,Do not sell
+415,821,True,,,porsche_821,"do not sell
+
+1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+13
+","13
+",Ambiguous,,,Ambiguous
+416,822,True,,,dodge_822,"do not sell o/c
+",,"privacy choice|
+",,"opt out
+
+4/2
+","4/2
+",Ambiguous,,,Ambiguous
+417,823,True,,,subaru_823,"ell or Share My Personal Information| 1/1
+
+Cao eect T
+
+ 
+",,"privacy choice| 0/0
+
+ce a E
+","o/o
+
+ce a E
+","opt out
+",,Do not sell,,,Do not sell
+418,824,True,,,vw_824,"ell or Share My Personal Information| 1/1
+
+ 
+","W
+","privacy choice| o/c
+",,"opt out
+",,Do not sell,,,Do not sell
+419,825,True,,,mazdausa_825,"sHARE MY PERSONAL INFORMATION| 1/1
+","1
+
+1
+","privacy choice|
+",,"opt out
+",,Do not sell,,,Do not sell
+420,826,True,,,volvocars_826,"ell or Share My Personal Information| 1/1
+","1""
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+421,827,True,,,gmc_827," 
+
+do not sell 0/0
+","o/o
+","privacy choice| WW
+","W
+","opt out
+
+o/o
+","o/o
+",Privacy Choices,,,Privacy Choices
+422,828,True,,,harley-davidson_828,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",No,,,No
+423,829,True,,,vitalmx_829,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+424,831,True,,,revzilla_831,"do not sell
+","o/o
+","privacy choice|
+","o/o
+","opt out
+","o/o
+",No,,,No
+425,832,True,,,zigwheels_832,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+426,833,True,,,boatshop24_833,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+4/2
+","4/2
+",Do not sell,,,Do not sell
+427,834,True,,,boattrader_834,"Do Not Sell My Personal Information| 1/1
+
+Saw
+","W
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+4/2
+","4/2
+",Do not sell,,,Do not sell
+428,835,True,,,pursuitboats_835," 
+
+o not sell) 0/0 a
+"," 
+"," 
+
+rivacy choice| 0/0 a
+"," 
+","pt out|
+
+o/o
+"," 
+",Do not sell,,,Do not sell
+429,836,True,,,yachtworld_836,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+4/2
+","4/2
+",Do not sell,,,Do not sell
+430,837,True,,,westmarine_837,"do not sell Wi
+","1""
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+431,838,True,,,ulta_838,"do not sell
+
+1
+","1
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+432,839,True,,,sephora_839,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+"," 
+
+1
+","opt out
+
+o/o
+","o/o
+",Privacy Choices,,,Privacy Choices
+433,840,True,,,fragrantica_840," 
+
+do not sell 0/0
+"," 
+"," 
+
+privacy choice| 0/0
+"," 
+"," 
+
+opt out 0/0
+"," 
+",Ambiguous,,,Ambiguous
+434,841,True,,,elle_841,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out}
+
+1/6
+","1/6
+",Privacy Choices,,,Privacy Choices
+435,842,True,,,self_842,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",No,,,No
+436,843,True,,,minq_843,"TSELL MY PERSONAL INFORMATION| 1/1
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+437,844,True,,,maccosmetics_844,"NAL INFORMATION / TARGETED ADS|
+","W
+","privacy choice|
+","o/o
+","opt out
+","o/o
+",Do not sell,,,Do not sell
+438,845,True,,,racked_845,"o Not Sell or Share My Personal info| 1/1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+439,846,True,,,avon_846,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+440,847,True,,,gilt_847,"do not sell]
+
+ 
+
+@ Account Of Cart
+","1
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",Ambiguous,,,Ambiguous
+441,848,True,,,toryburch_848," 
+
+do not sell wy
+"," 
+
+1
+"," 
+
+privacy choice| 0/0
+"," 
+"," 
+
+ 
+
+opt out| V4
+"," 
+",Ambiguous,,,Ambiguous
+442,849,True,,,co_849,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+443,850,True,,,greatclips_850,"ell or Share My Personal Information| 1/1
+
+ 
+
+signup |
+",,"privacy choice| WW
+","W
+"," 
+
+opt out
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+444,851,True,,,naturallycurly_851,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+445,852,True,,,lushusa_852,"do not sell
+",,"privacy choice| Wi
+","1""
+"," 
+
+opt out
+
+2/4
+","2/4
+",Ambiguous,,,Ambiguous
+446,853,True,,,totalbeauty_853,"do not sell
+
+ 
+"," 
+","privacy choice|
+
+ 
+"," 
+","opt out
+
+ 
+
+ 
+"," 
+",Ambiguous,,,Ambiguous
+447,854,True,,,birchbox_854," 
+
+do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",No,,,No
+448,855,True,,,ipsy_855,"Do Not Sell]
+
+1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+449,856,True,,,makeupalley_856,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+450,857,True,,,refinery29_857,"Do Not Sell or Share My Info| WW
+
+ 
+","1
+","privacy choice|
+","o/o
+","opt out
+
+1""
+","1""
+",Do not sell,,,Do not sell
+451,858,True,,,cosmopolitan_858,"do not sell o/c
+",,"privacy choice|
+",,"opt out
+",,Ambiguous,,,Ambiguous
+452,859,True,,,fashionbeans_859,"all or share my personal information|
+",,"privacy choice| 0/0
+",,"opt out
+",,Do not sell or share,,,Do not sell or share
+453,860,True,,,elle_860,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out}
+
+1/6
+","1/6
+",Privacy Choices,,,Privacy Choices
+454,861,True,,,gq_861,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",No,,,No
+455,862,True,,,marieclaire_862,"sHARE MY PERSONAL INFORMATION| 1/7
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+4/2
+","4/2
+",Do not sell,,,Do not sell
+456,863,True,,,vogue_863,"do not sell 0/0
+
+SUBSCRIBE
+","o/o
+
+ 
+
+SCRIBE
+","| privacy choice| 0/0
+
+ 
+
+SUBSCRIBE
+","o/o
+
+ 
+
+SCRIBE
+","opt out 0/0
+
+SUBSCRIBE
+","o/o
+
+ 
+
+SCRIBE
+",Ambiguous,,,Ambiguous
+457,864,True,,,com_864,"Do Not Sell My Personal Information| 1/7
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+458,865,True,,,instyle_865,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+13
+","13
+",Do not sell,,,Do not sell
+459,866,True,,,harpersbazaar_866,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out}
+
+1/6
+","1/6
+",Privacy Choices,,,Privacy Choices
+460,867,True,,,boldsky_867," 
+
+do not sell 0/0
+
+= |
+"," 
+","privacy choice| 0/0
+
+= |
+"," 
+","opt out 0/0
+
+ 
+"," 
+",Ambiguous,,,Ambiguous
+461,868,True,,,glamour_868,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+462,869,True,,,seventeen_869,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out}
+
+1/6
+","1/6
+",Privacy Choices,,,Privacy Choices
+463,870,True,,,teenvogue_870,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",No,,,No
+464,871,True,,,com_871,"do not sell
+
+1
+","1
+","privacy choice| o/c
+
+=a eSy NEWS CAREERS
+"," 
+","opt out 2
+
+=a eSy NEWS CAREERS
+"," 
+",Ambiguous,,,Ambiguous
+465,872,True,,,lifeandstylemag_872,"Do Not Sell]
+
+1
+","1
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+1/2
+","1/2
+",Do not sell,,,Do not sell
+466,873,True,,,highsnobiety_873,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+467,874,True,,,allure_874,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+468,875,True,,,com_875,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+469,876,True,,,racked_876,"o Not Sell or Share My Personal info| 1/1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+470,877,True,,,com_877,"do not sell
+
+o/o
+","g
+S
+","privacy choice|
+
+o/o
+","g
+S
+","opt out}
+
+o/o
+","g
+S
+",Ambiguous,,,Ambiguous
+471,878,True,,,w3schools_878,"do not sell
+
+o/o
+"," 
+
+o/o
+","privacy choice| 0/0
+
+ 
+"," 
+
+o/o
+","opt out}
+
+o/o
+"," 
+
+o/o
+",Ambiguous,,,Ambiguous
+472,879,True,,,khanacademy_879,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+473,880,True,,,blackboard_880,"Do Not Sell My Pl
+
+1
+","1
+","privacy choice|
+
+—_> om
+
+o/o
+","o/o
+","opt out}
+
+4/4
+","4/4
+",Do not sell,,,Do not sell
+474,881,True,,,tutorialspoint_881,"do not sell 0/0
+
+ks @ Courses ch eBooks fff Library Es
+","o/o
+
+ry SY
+","privacy choice| 0/0
+
+ks @ Courses ch eBooks fff Library Es
+","o/o
+
+ry SY
+","opt out 0/0
+
+ks @ Courses ch eBooks fff Library Es
+","o/o
+
+ry SY
+",Ambiguous,,,Ambiguous
+475,882,True,,,researchgate_882,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+476,883,True,,,com_883,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+477,884,True,,,shmoop_884,"do not sell o/c
+
+ 
+",,"privacy choice| 0/0
+
+ 
+",,"opt out
+
+ 
+",,Ambiguous,,,Ambiguous
+478,885,True,,,udemy_885,"do not sell
+
+1
+","1
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+479,886,True,,,coursera_886,"do not sell 0/0
+
+ 
+
+Find your New Career For Enterprise For Universities
+"," 
+","privacy choice| 0/0
+
+ 
+
+Find your New Career For Enterprise For Universities
+"," 
+","opt out 0/0
+
+ 
+
+Find your New Career For Enterprise For Universities
+"," 
+",Ambiguous,,,Ambiguous
+480,887,True,,,ted_887," 
+
+do not sell] 0/0
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+481,888,True,,,sparknotes_888,"Do Not Sell My Personal information| 1/1
+","W
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+482,889,True,,,academia_889,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+483,890,True,,,collegeboard_890,"do not sell
+
+join our
+
+o/o
+","o/o
+","privacy choice|
+
+join our
+
+o/o
+","o/o
+","opt out
+
+join our
+
+o/o
+","o/o
+",No,,,No
+484,891,True,,,greatschools_891,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+485,892,True,,,chegg_892,"| DO NOTSELL MY INFO| W
+
+ 
+","1
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+13
+","13
+",Do not sell,,,Do not sell
+486,893,True,,,enotes_893,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+487,894,True,,,education_894,"do not sell 0/0
+
+_
+","o/o
+","privacy choice| 0/0
+
+_
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",No,,,No
+488,895,True,,,mheducation_895,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+489,896,True,,,linkedin_896,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out} 4/10
+","410
+",Privacy Choices,,,Privacy Choices
+490,897,True,,,fiverr_897,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+491,898,True,,,behance_898,"iell or share my personal information| 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",Ambiguous,,,Ambiguous
+492,899,True,,,behance_899,"   
+
+ 
+
+ell or share my personal information|
+"," 
+"," 
+
+privacy choice|
+
+ 
+"," 
+"," 
+
+opt out
+
+ 
+"," 
+",Do not sell or share,,,Do not sell or share
+493,900,True,,,com_900,"do not sell
+
+ 
+","o/o
+","privacy choice|
+
+ 
+","o/o
+","opt out
+
+ 
+","o/o
+",No,,,No
+494,901,True,,,freelancer_901,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+495,902,True,,,justanswer_902,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+496,903,True,,,peopleperhour_903,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+497,904,True,,,dice_904,"do not sell
+
+1
+","1
+","privacy choice|
+",,"opt out}
+
+4/2
+","4/2
+",Ambiguous,,,Ambiguous
+498,905,True,,,mturk_905,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+499,906,True,,,toptal_906,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+500,907,True,,,guru_907,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+501,908,True,,,flexjobs_908,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+502,909,True,,,designcrowd_909,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+503,910,True,,,seoclerks_910,"do not sell
+
+o/o
+
+SIG
+","o/o
+
+ 
+
+SIG
+","privacy choice|
+
+o/o
+
+SIG
+","o/o
+
+ 
+
+SIG
+","opt out}
+
+o/o
+
+SIG
+","o/o
+
+ 
+
+SIG
+",Ambiguous,,,Ambiguous
+504,911,True,,,topcoder_911,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+505,912,True,,,microworkers_912," 
+
+do not sell 0/0
+
+ 
+","o/o
+
+ 
+","privacy choice| 0/0
+
+ 
+","o/o
+
+ 
+","oo
+
+opt out
+
+ 
+
+ 
+
+il
+","o/o
+
+ 
+",Ambiguous,,,Ambiguous
+506,913,True,,,coroflot_913,"do not sell 0/0
+
+ 
+
+Hire Designers
+","o/o
+
+ 
+
+ners
+","privacy choice| 0/0
+
+Hire Designers
+","o/o
+
+ 
+
+ners
+","| opt out 0/0
+
+Hire Designers
+","o/o
+
+ 
+
+ners
+",Ambiguous,,,Ambiguous
+507,914,True,,,airpair_914,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+508,915,True,,,com_915,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+509,916,True,,,textbroker_916,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+510,917,True,,,linkedin_917,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+W
+","1
+","opt out} 4/10
+","410
+",Privacy Choices,,,Privacy Choices
+511,918,True,,,indeed_918,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out 41/8
+
+Upload your resume Sit
+
+ 
+","1/8
+
+Sign in
+",Privacy Choices,,,Privacy Choices
+512,919,True,,,glassdoor_919,"Do Not Sell Or Share My Information|
+
+x £ —- >
+",,"privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+1/6
+","1/6
+",Do not sell,,,Do not sell
+513,920,True,,,behance_920," 
+
+ 
+
+iell or share my personal information| 0/0
+"," 
+
+ 
+
+0
+"," 
+
+ 
+
+privacy choice| 0/0
+"," 
+
+ 
+
+0
+"," 
+
+ 
+
+opt out 0/0
+"," 
+
+ 
+
+0
+",Do not sell or share,,,Do not sell or share
+514,921,True,,,monster_921,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+"," 
+
+1
+"," 
+
+opt out
+
+o/o
+","o/o
+",Privacy Choices,,,Privacy Choices
+515,922,True,,,upwork_922,"| do not sell
+
+ 
+
+Q Search
+
+o/o
+
+Talent ~
+","o/o
+
+ 
+","| privacy choice|
+
+ 
+
+Q Search
+
+o/o
+
+Talent ~
+","o/o
+
+ 
+","| opt out
+
+ 
+
+Search
+
+o/o
+
+Talent ~
+","o/o
+
+ 
+",Ambiguous,,,Ambiguous
+516,923,True,,,freejobalert_923,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+517,924,True,,,snagajob_924,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice| 0/0
+"," 
+","opt out 1/6
+",,Do not sell,,,Do not sell
+518,925,True,,,careerbuilder_925,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+519,926,True,,,salary_926,"Do Not Sell or Share My Information| 1/1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+1
+","1
+",Do not sell,,,Do not sell
+520,927,True,,,payscale_927,"| do not sell 0/0
+
+ 
+
+AR oe Tey Davfactore Eras
+","o/o
+
+tare Erac
+","| privacy choice| 0/0
+
+ 
+
+AR oe Tey Davfactore Eras
+","o/o
+
+tare Erac
+","opt out 0/0
+
+ 
+
+Try Pavinctare Eras
+","o/o
+
+tare Erac
+",Ambiguous,,,Ambiguous
+521,928,True,,,co_928,"do not sell]
+
+o/o
+","o/o
+","privacy choice| 0/0
+
+ 
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+522,929,True,,,freelancer_929,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+523,930,True,,,jobrapido_930,"do not sell 0/0
+
+—
+"," 
+","privacy choice| 0/0
+
+cs = J
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+524,931,True,,,usajobs_931,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+525,932,True,,,ziprecruiter_932,"| do not sell
+
+nin
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out
+",,Privacy Choices,,,Privacy Choices
+526,933,True,,,governmentjobs_933,"Do not sell my personal information| 1/1
+
+ 
+
+ses
+","1""
+
+ 
+
+ 
+","privacy choice| 0/0
+"," 
+","opt out
+
+o/o
+"," 
+",Do not sell,,,Do not sell
+527,934,True,,,livecareer_934,"Do Not Sell or Share My Info| 0/0
+
+ 
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+528,935,True,,,geeksforgeeks_935,"do not sell
+
+o/o
+","o/o
+","privacy choice| 0/0
+
+ 
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+529,936,True,,,com_936,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+530,937,True,,,instructables_937,"do not sell 0/0
+
+=e
+","o/o
+","privacy choice| 0/0
+
+=e
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",No,,,No
+531,938,True,,,khanacademy_938,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+532,939,True,,,udemy_939,"do not sell
+
+1
+","1
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+533,940,True,,,howstuffworks_940,"do not sell
+
+1
+","1
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+534,941,True,,,coursera_941,"do not sell 0/0
+
+ 
+
+Find your New Career For Enterprise For Universities
+"," 
+","privacy choice| 0/0
+
+ 
+
+Find your New Career For Enterprise For Universities
+"," 
+","opt out 0/0
+
+ 
+
+Find your New Career For Enterprise For Universities
+"," 
+",Ambiguous,,,Ambiguous
+535,942,True,,,edx_942,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","| privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+1/2
+","1/2
+",Do not sell,,,Do not sell
+536,943,True,,,linkedin_943,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out} 4/10
+","410
+",Privacy Choices,,,Privacy Choices
+537,944,True,,,codecademy_944,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+538,945,True,,,org_945,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+539,946,True,,,udacity_946,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+540,947,True,,,wonderhowto_947,"do not sell
+"," 
+"," 
+
+privacy choice| 0
+",," 
+
+opt out 0
+
+ 
+",,Ambiguous,,,Ambiguous
+541,948,True,,,doityourself_948,"ell or Share My Personal Information| 1/1
+","1""
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",Do not sell,,,Do not sell
+542,949,True,,,brainpop_949,"do not sell
+
+2/2
+",,"privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+543,950,True,,,memrise_950,"do not sell
+",,"privacy choice|
+",,"opt out
+",,Ambiguous,,,Ambiguous
+544,951,True,,,com_951,"do not sell 0/0
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+545,952,True,,,pluralsight_952,"do not sell 0/0
+"," 
+","privacy choice| 0/0
+"," 
+","opt out
+
+o/o
+"," 
+",Ambiguous,,,Ambiguous
+546,953,True,,,com_953,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+547,954,True,,,net_954,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+548,955,True,,,k12_955,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+549,956,True,,,youtube_956," 
+
+do not sell 0/0
+"," 
+"," 
+
+privacy choice| 0/0
+"," 
+"," 
+
+opt out 0/0
+"," 
+",Ambiguous,,,Ambiguous
+550,957,True,,,imdb_957,"do not sell o/c
+",,"privacy choice|
+",,"opt out
+",,Ambiguous,,,Ambiguous
+551,958,True,,,cnn_958,"do not sell 0/0
+",,"privacy choice| 0/0
+",,"opt out
+",,Ambiguous,,,Ambiguous
+552,959,True,,,netflix_959,"ell or Share My Personal Information|
+",,"privacy choice| o/c
+",,"opt out
+",,Do not sell,,,Do not sell
+553,960,True,,,com_960,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+554,961,True,,,twitch_961,"o not sell) 0/0 a
+
+ 
+"," 
+
+a
+","rivacy choice| 0/0 a
+
+ 
+",">
+
+ 
+
+a
+","pt out| oo oA
+
+ 
+
+ 
+",">
+
+ 
+
+a
+",Do not sell,,,Do not sell
+555,962,True,,,bbc_962,"AdChoices / Do Not Sell My Info| WW
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+1
+","1
+",Do not sell,,,Do not sell
+556,963,True,,,com_963," 
+
+do not sell 0/0
+"," 
+"," 
+
+| privacy choice| 0/0
+
+ 
+"," 
+"," 
+
+opt out 0/0
+"," 
+",Ambiguous,,,Ambiguous
+557,964,True,,,etsy_964,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+558,965,True,,,azlyrics_965,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+559,966,True,,,foxnews_966,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out
+",,Privacy Choices,,,Privacy Choices
+560,967,True,,,com_967,"do not sell o/c
+
+or Ca sor oa
+",,"privacy choice| o/c
+
+or Ca sor oa
+",,"opt out o/c
+
+or Ca sor oa
+",,Ambiguous,,,Ambiguous
+561,968,True,,,deviantart_968,"do not sell 0/0
+"," 
+","privacy choice| 0/0
+"," 
+","opt out
+
+o/o
+"," 
+",Ambiguous,,,Ambiguous
+562,969,True,,,spotify_969,"do not sell 0/0
+"," 
+
+ 
+","privacy choice|
+"," 
+","opt out
+"," 
+",Ambiguous,,,Ambiguous
+563,970,True,,,dailymotion_970,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+564,971,True,,,foodnetwork_971,"do not sell
+
+1
+","1
+","| privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+1/4
+","1/4
+",Ambiguous,,,Ambiguous
+565,972,True,,,foxsports_972,"do not sell]
+
+o/o
+","o/o
+","privacy choice| wy
+
+ 
+","1
+","opt out
+",,Privacy Choices,,,Privacy Choices
+566,973,True,,,com_973,"Do Not Sell My Personal Information|
+",,"privacy choice|
+
+o/o
+","o/o
+",,,Do not sell,,,Do not sell
+567,974,True,,,pandora_974,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out
+",,Privacy Choices,,,Privacy Choices
+568,975,True,,,com_975,"do not sell o/c
+
+ 
+",,"privacy choice| o/c
+
+ 
+",," 
+",,Ambiguous,,,Ambiguous
+569,976,True,,,npr_976,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out ais
+","as
+",Privacy Choices,,,Privacy Choices
+570,977,True,,,billboard_977,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+571,978,True,,,allmusic_978,"do not sell 0/0
+",,"privacy choice| 0/0
+",,"opt out
+",,Ambiguous,,,Ambiguous
+572,979,True,,,discogs_979,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+573,980,True,,,com_980,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+",,,Opt out,,,Opt out
+574,981,True,,,com_981,"do not sell 0/0
+"," 
+","privacy choice| 0/0
+"," 
+","opt out
+
+o/o
+"," 
+",Ambiguous,,,Ambiguous
+575,982,True,,,last_982,"Do Not Sell My Personal Information|
+
+ 
+"," 
+","privacy choice| o/c
+
+ 
+"," 
+","opt out
+
+ 
+"," 
+",Do not sell,,,Do not sell
+576,983,True,,,deezer_983,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+577,984,True,,,com_984,"do not sell 0/0
+
+—-
+
+ 
+","o/o
+","privacy choice| 0/0
+"," 
+","opt out
+",,Privacy Choices,,,Privacy Choices
+578,985,True,,,lyricsfreak_985,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+579,986,True,,,fandango_986,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out WW
+","W
+",Privacy Choices,,,Privacy Choices
+580,987,True,,,ticketmaster_987,"ell or Share My Personal Information| 1/1
+
+Sign In Sell G
+","1
+
+ 
+
+ell
+","privacy choice|
+
+o/o
+
+ 
+",,"opt out
+",,Do not sell,,,Do not sell
+581,988,True,,,eventbrite_988,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+582,989,True,,,amctheatres_989,"do not sell
+",,"privacy choice|
+",,"opt out
+",,Ambiguous,,,Ambiguous
+583,990,True,,,stubhub_990,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+584,991,True,,,cinemark_991,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+1
+","1
+",Do not sell,,,Do not sell
+585,992,True,,,songkick_992," 
+
+do not sell 0
+",," 
+
+privacy choice| 0
+",," 
+
+opt out 0
+",,Ambiguous,,,Ambiguous
+586,993,True,,,livenation_993,"ell or Share My Personal Information| 1/1
+
+ 
+","1
+"," 
+
+ENE BOE IIL IE IEE AIEEE EEO
+
+ 
+
+| privacy choice| 0/0
+
+ 
+","o/o
+"," 
+
+TEN BOI ELI I EILEEN EAL IAI
+
+opt out 4/7
+"," 
+",Do not sell,,,Do not sell
+587,994,True,,,vividseats_994,"Do Not Sell or Share My Information| 1/1
+
+Trending Sports Concerts Theater
+","W
+
+Theater
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+588,995,True,,,skiddle_995,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+589,996,True,,,co_996,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+590,997,True,,,com_997,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+591,998,True,,,broadway_998,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+592,999,True,,,cirquedusoleil_999,"do not sell
+
+1
+","1
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+593,1000,True,,,goldstar_1000,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+594,1001,True,,,ticketcity_1001,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+595,1002,True,,,theatermania_1002,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+596,1003,True,,,etix_1003,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+597,1004,True,,,seetickets_1004,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+598,1005,True,,,shutterstock_1005,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+599,1006,True,,,com_1006,"do not sell]
+
+© Join)
+
+at
+
+ 
+
+o/o
+","o/o
+"," 
+
+privacy choice| 0/0
+","o/o
+"," 
+
+0/0
+opt out}
+
+in) Ger
+| Joi
+","o/o
+",No,,,No
+600,1007,True,,,gettyimages_1007,"do not sell 0/0
+
+Tk EVES
+"," 
+","privacy choice| 0/0
+
+Tk EVES
+"," 
+","opt out 0/0
+
+ 
+"," 
+",Ambiguous,,,Ambiguous
+601,1008,True,,,123rf_1008,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+602,1009,True,,,istockphoto_1009,"| do not sell 0/0
+",,"| privacy choice|
+
+ 
+
+o/o
+",,"0/0
+tout]
+op
+",,Ambiguous,,,Ambiguous
+603,1010,True,,,dreamstime_1010,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+604,1012,True,,,com_1012,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+605,1013,True,,,com_1013,"do not sell
+
+Search 500px
+
+o/o
+
+Log
+","o/o
+
+ 
+
+Log
+","| privacy choice|
+
+o/o
+
+ 
+
+Search 500px
+
+Log
+","o/o
+
+ 
+
+Log
+","opt out
+
+Search 500px
+
+o/o
+
+Log
+","o/o
+
+ 
+
+Log
+",Ambiguous,,,Ambiguous
+606,1014,True,,,com_1014,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+607,1015,True,,,forbes_1015,"ell or Share My Personal Information| 1/1
+",,"privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+4/2
+","4/2
+",Do not sell,,,Do not sell
+608,1016,True,,,businessinsider_1016,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out}
+
+13
+","13
+",Privacy Choices,,,Privacy Choices
+609,1017,True,,,wsj_1017,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+610,1018,True,,,bloomberg_1018,"do not sell
+
+1
+","1
+","privacy choice| 0/0
+","o/o
+","opt out Wi
+","1""
+",Ambiguous,,,Ambiguous
+611,1019,True,,,reuters_1019,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+612,1020,True,,,yahoo_1020,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+
+ 
+","o/o
+","opt out 0/0
+","o/o
+",No,,,No
+613,1021,True,,,cnn_1021,"do not sell 0/0
+",,"privacy choice| 0/0
+",,"opt out
+",,Ambiguous,,,Ambiguous
+614,1022,True,,,cnbc_1022,"Do Not Sell My Personal Information|
+",,"privacy choice|
+",,"opt out}
+
+9
+","9
+",Do not sell,,,Do not sell
+615,1023,True,,,entrepreneur_1023,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+616,1024,True,,,ibtimes_1024,"do not sell
+
+o/o
+","o/o
+
+ 
+","privacy choice|
+
+o/o
+","o/o
+
+ 
+"," 
+
+opt out 0
+","o/o
+
+ 
+",Ambiguous,,,Ambiguous
+617,1025,True,,,bizjournals_1025,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+1
+","1
+"," 
+
+opt out
+
+1/2
+","1/2
+",Privacy Choices,,,Privacy Choices
+618,1026,True,,,com_1026," 
+
+Do Not Sell My Personal Information| 1/1
+"," 
+"," 
+
+privacy choice| 0/0
+"," 
+"," 
+
+opt out 4/5
+"," 
+",Do not sell,,,Do not sell
+619,1027,True,,,com_1027,"tSell/Share My Personal information| 1/7
+
+~_
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+1
+","1
+",Do not sell,,,Do not sell
+620,1028,True,,,inc_1028,"| DO NOTSELL MY DATA W
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+13
+","13
+",Do not sell,,,Do not sell
+621,1029,True,,,economist_1029,"Do Not Sell My Personal Information| 1/1
+
+pone
+","1
+","| privacy choice|
+
+ 
+
+o/o
+",,"opt out
+
+1
+",,Do not sell,,,Do not sell
+622,1030,True,,,ft_1030,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+623,1031,True,,,fastcompany_1031,"Do Not Sell My Datal 1
+",,"privacy choice|
+",,"opt out
+
+13
+",,Do not sell,,,Do not sell
+624,1032,True,,,foxbusiness_1032,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out
+",,Privacy Choices,,,Privacy Choices
+625,1033,True,,,com_1033,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+626,1034,True,,,business-standard_1034,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+627,1035,True,,,chase_1035,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+628,1036,True,,,wellsfargo_1036,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+ 
+"," 
+","opt out
+
+ 
+"," 
+",Privacy Choices,,,Privacy Choices
+629,1037,True,,,bankofamerica_1037,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+630,1038,True,,,americanexpress_1038,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+631,1039,True,,,capitalone_1039,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+632,1040,True,,,hdfcbank_1040,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+633,1041,True,,,citi_1041,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+634,1042,True,,,icicibank_1042,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+
+ 
+","o/o
+","| opt out
+
+o/o
+","o/o
+",No,,,No
+635,1043,True,,,usaa_1043,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+636,1044,True,,,discover_1044,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+637,1045,True,,,usbank_1045,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+",,,Privacy Choices,,,Privacy Choices
+638,1046,True,,,citi_1046,"ell or Share My Personal Information| 1/1
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+639,1047,True,,,pnc_1047,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",No,,,No
+640,1048,True,,,capitalone_1048,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+641,1049,True,,,schwab_1049,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+642,1050,True,,,td_1050,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+643,1051,True,,,paypal_1051,"do not sell 0/0
+
+_
+
+ 
+",,"privacy choice| 0/0
+
+_
+",," 
+
+opt out
+
+o/o
+",,Ambiguous,,,Ambiguous
+644,1052,True,,,hrblock_1052,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+
+ 
+","o/o
+",No,,,No
+645,1053,True,,,chase_1053,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+646,1054,True,,,forbes_1054,"ell or Share My Personal Information| 1/1
+",,"privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+4/2
+","4/2
+",Do not sell,,,Do not sell
+647,1055,True,,,wellsfargo_1055,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+ 
+"," 
+","opt out
+
+ 
+"," 
+",Privacy Choices,,,Privacy Choices
+648,1056,True,,,intuit_1056,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+649,1057,True,,,irs_1057,"do not sell o/c
+",,"privacy choice| o/c
+",,"opt out
+",,Ambiguous,,,Ambiguous
+650,1058,True,,,marketwatch_1058,"do not sell
+",,"privacy choice|
+",,"opt out
+",,Ambiguous,,,Ambiguous
+651,1059,True,,,libertymutual_1059,"do not sell
+
+1
+","1
+","privacy choice|
+",,"opt out
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+652,1060,True,,,fidelity_1060,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+653,1061,True,,,libertymutual_1061,"do not sell
+
+1
+","1
+","privacy choice|
+",,"opt out
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+654,1062,True,,,usaa_1062,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+655,1063,True,,,statefarm_1063,"onal Information (CA residents only)|_ 2/2
+",,"privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+13
+","13
+",Do not sell,,,Do not sell
+656,1064,True,,,kaiserpermanente_1064,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+657,1065,True,,,acg_1065," 
+
+do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+o/o
+","o/o
+",No,,,No
+658,1066,True,,,progressive_1066,"onal Information (CA Residents Only)| 1/1
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+659,1067,True,,,bcbs_1067,"do not sell 0/0
+
+‘The Health of America | c
+","o/o
+","| privacy choice| 0/0
+
+‘The Health of America | c
+","o/o
+","opt out 0/0
+
+‘The Health of America | c
+","o/o
+",No,,,No
+660,1068,True,,,aetna_1068,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+661,1069,True,,,humana_1069,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+662,1070,True,,,allstate_1070,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+663,1071,True,,,cigna_1071,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+664,1072,True,,,anthem_1072,"do not sell
+
+o/o
+","o/o
+","| privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+665,1073,True,,,uhc_1073,"do not sell
+
+o/o
+","o/o
+","| privacy choice|
+
+ 
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+666,1074,True,,,farmers_1074,"tal Informationopens in new window| 0/0
+
+ 
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Ambiguous,,,Ambiguous
+667,1075,True,,,metlife_1075,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+668,1076,True,,,hcsc_1076,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+669,1077,True,,,org_1077,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice| 0/0
+","o/o
+","opt out 0/0
+","o/o
+",Do not sell,,,Do not sell
+670,1078,True,,,esurance_1078,"do not sell 0/0
+","o/o
+","privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+671,1079,True,,,ehealthinsurance_1079,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+672,1080,True,,,collegeboard_1080,"do not sell
+
+join our
+
+o/o
+","o/o
+","privacy choice|
+
+join our
+
+o/o
+","o/o
+","opt out
+
+join our
+
+o/o
+","o/o
+",No,,,No
+673,1081,True,,,ed_1081,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+674,1082,True,,,org_1082,"do not sell
+
+o/o
+","o/o
+","| privacy choice| 0/0
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+675,1083,True,,,gov_1083,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out
+
+o/o
+","o/o
+",No,,,No
+676,1084,True,,,niche_1084,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell,,,Do not sell
+677,1085,True,,,aessuccess_1085,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",No,,,No
+678,1086,True,,,salliemae_1086,"iellor share my personal information| 1/1
+",,"privacy choice|
+
+o/o
+","o/o
+","opt out}
+
+o/o
+","o/o
+",Do not sell or share,,,Do not sell or share
+679,1087,True,,,fastweb_1087,"do not sell
+
+o/o
+","o/o
+","privacy choice|
+
+1
+","1
+","opt out}
+
+o/o
+","o/o
+",Privacy Choices,,,Privacy Choices
+680,1088,True,,,com_1088,"do not sell
+
+ 
+"," 
+","privacy choice|
+
+ 
+"," 
+","opt out
+
+ 
+"," 
+",Ambiguous,,,Ambiguous
+681,1089,True,,,allrecipes_1089,"Do Not Sell My Personal information| 1/1
+
+ 
+","1
+","privacy choice| 0/0
+","o/o
+"," 
+
+opt out
+
+13
+","13
+",Do not sell,,,Do not sell
